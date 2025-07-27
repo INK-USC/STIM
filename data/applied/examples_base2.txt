@@ -1,0 +1,32 @@
+Instruction: Assuming that all numbers are in base-2 where the digits are "01". Answer the given question. You will end your response with a sentence in the format of `So the answer is <number>.`
+Question: There are 1111 trees in the grove. Grove workers will plant trees in the grove today. After they are done, there will be 10101 trees. How many trees did the grove workers plant today?
+Answer: There are 1111 trees originally. Then there were 10101 trees after some more were planted. So there must have been 10101 - 1111 = 110. So the answer is 110.
+
+Instruction: Assuming that all numbers are in base-2 where the digits are "01". Answer the given question. You will end your response with a sentence in the format of `So the answer is <number>.`
+Question: If there are 11 cars in the parking lot and 10 more cars arrive, how many cars are in the parking lot?
+Answer: There are originally 11 cars. 10 more cars arrive. 11 + 10 = 101. So the answer is 101.
+
+Instruction: Assuming that all numbers are in base-2 where the digits are "01". Answer the given question. You will end your response with a sentence in the format of `So the answer is <number>.`
+Question: Leah had 100000 chocolates and her sister had 101010. If they ate 100011, how many pieces do they have left in total?
+Answer: Originally, Leah had 100000 chocolates. Her sister had 101010. So in total they had 100000 + 101010 = 1001010. After eating 100011, they had 1001010 - 100011 = 100111. So the answer is 100111.
+
+Instruction: Assuming that all numbers are in base-2 where the digits are "01". Answer the given question. You will end your response with a sentence in the format of `So the answer is <number>.`
+Question: Jason had 10100 lollipops. He gave Denny some lollipops. Now Jason has 1100 lollipops. How many lollipops did Jason give to Denny?
+Answer: Jason started with 10100 lollipops. Then he had 1100 after giving some to Denny. So he gave Denny 10100 - 1100 = 1000. So the answer is 1000.
+
+Instruction: Assuming that all numbers are in base-2 where the digits are "01". Answer the given question. You will end your response with a sentence in the format of `So the answer is <number>.`
+Question: Shawn has 101 toys. For Christmas, he got 10 toys each from his mom and dad. How many toys does he have now?
+Answer: Shawn started with 101 toys. If he got 10 toys each from his mom and dad, then that is 100 more toys. 101 + 100 = 1001. So the answer is 1001.
+
+Instruction: Assuming that all numbers are in base-2 where the digits are "01". Answer the given question. You will end your response with a sentence in the format of `So the answer is <number>.`
+Question: There were 1001 computers in the server room. 101 more computers were installed each day, from monday to thursday. How many computers are now in the server room?
+Answer: There were originally 1001 computers. For each of 100 days, 101 more computers were added. So 101 * 100 = 10100 computers were added. 1001 + 10100 is 11101. So the answer is 11101.
+
+Instruction: Assuming that all numbers are in base-2 where the digits are "01". Answer the given question. You will end your response with a sentence in the format of `So the answer is <number>.`
+Question: Michael had 111010 golf balls. On tuesday, he lost 10111 golf balls. On wednesday, he lost 10 more. How many golf balls did he have at the end of wednesday?
+Answer: Michael started with 111010 golf balls. After losing 10111 on tuesday, he had 111010 - 10111 = 100011. After losing 10 more, he had 100011 - 10 = 100001 golf balls. So the answer is 100001.
+
+Instruction: Assuming that all numbers are in base-2 where the digits are "01". Answer the given question. You will end your response with a sentence in the format of `So the answer is <number>.`
+Question: Olivia has $10111. She bought 101 bagels for $11 each. How much money does she have left?
+Answer: Olivia had 10111 dollars. 101 bagels for 11 dollars each will be 101 x 11 = 1111 dollars. So she has 10111 - 1111 dollars left. 10111 - 1111 is 1000. So the answer is 1000.
+

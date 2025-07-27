@@ -1,0 +1,1402 @@
+[
+  {
+    "original": "extreme spot-the-difference: cities",
+    "title": "Extreme Spot-the-Difference: Cities",
+    "caplast": "extreme spot-the-difference: Cities",
+    "question": "Here is a string: \"extreme spot-the-difference: cities\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "extreme spot-the-difference: cities",
+    "title": "Extreme Spot-the-Difference: Cities",
+    "caplast": "extreme spot-the-difference: Cities",
+    "question": "Here is a string: \"extreme spot-the-difference: cities\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  },
+  {
+    "original": "sons of encouragement",
+    "title": "Sons of Encouragement",
+    "caplast": "sons of Encouragement",
+    "question": "Here is a string: \"sons of encouragement\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "sons of encouragement",
+    "title": "Sons of Encouragement",
+    "caplast": "sons of Encouragement",
+    "question": "Here is a string: \"sons of encouragement\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  },
+  {
+    "original": "luther on vocation:",
+    "title": "Luther on Vocation:",
+    "caplast": "luther on Vocation:",
+    "question": "Here is a string: \"luther on vocation:\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "luther on vocation:",
+    "title": "Luther on Vocation:",
+    "caplast": "luther on Vocation:",
+    "question": "Here is a string: \"luther on vocation:\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  },
+  {
+    "original": "juries and justice",
+    "title": "Juries and Justice",
+    "caplast": "juries and Justice",
+    "question": "Here is a string: \"juries and justice\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "juries and justice",
+    "title": "Juries and Justice",
+    "caplast": "juries and Justice",
+    "question": "Here is a string: \"juries and justice\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  },
+  {
+    "original": "atlanta at table",
+    "title": "Atlanta at Table",
+    "caplast": "atlanta at Table",
+    "question": "Here is a string: \"atlanta at table\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "atlanta at table",
+    "title": "Atlanta at Table",
+    "caplast": "atlanta at Table",
+    "question": "Here is a string: \"atlanta at table\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  },
+  {
+    "original": "reconstruction in philosophy",
+    "title": "Reconstruction in Philosophy",
+    "caplast": "reconstruction in Philosophy",
+    "question": "Here is a string: \"reconstruction in philosophy\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "reconstruction in philosophy",
+    "title": "Reconstruction in Philosophy",
+    "caplast": "reconstruction in Philosophy",
+    "question": "Here is a string: \"reconstruction in philosophy\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  },
+  {
+    "original": "history and obstinacy",
+    "title": "History and Obstinacy",
+    "caplast": "history and Obstinacy",
+    "question": "Here is a string: \"history and obstinacy\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "history and obstinacy",
+    "title": "History and Obstinacy",
+    "caplast": "history and Obstinacy",
+    "question": "Here is a string: \"history and obstinacy\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  },
+  {
+    "original": "ctos at work",
+    "title": "CTOs at Work",
+    "caplast": "ctos at Work",
+    "question": "Here is a string: \"ctos at work\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "ctos at work",
+    "title": "CTOs at Work",
+    "caplast": "ctos at Work",
+    "question": "Here is a string: \"ctos at work\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  },
+  {
+    "original": "cthulhutech vade mecum",
+    "title": "CthulhuTech Vade Mecum",
+    "caplast": "cthulhutech vade Mecum",
+    "question": "Here is a string: \"cthulhutech vade mecum\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "cthulhutech vade mecum",
+    "title": "CthulhuTech Vade Mecum",
+    "caplast": "cthulhutech vade Mecum",
+    "question": "Here is a string: \"cthulhutech vade mecum\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  },
+  {
+    "original": "fundamentals of acoustics",
+    "title": "Fundamentals of Acoustics",
+    "caplast": "fundamentals of Acoustics",
+    "question": "Here is a string: \"fundamentals of acoustics\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "fundamentals of acoustics",
+    "title": "Fundamentals of Acoustics",
+    "caplast": "fundamentals of Acoustics",
+    "question": "Here is a string: \"fundamentals of acoustics\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  },
+  {
+    "original": "meditation for beginners",
+    "title": "Meditation for Beginners",
+    "caplast": "meditation for Beginners",
+    "question": "Here is a string: \"meditation for beginners\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "meditation for beginners",
+    "title": "Meditation for Beginners",
+    "caplast": "meditation for Beginners",
+    "question": "Here is a string: \"meditation for beginners\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  },
+  {
+    "original": "color in spinning",
+    "title": "Color in Spinning",
+    "caplast": "color in Spinning",
+    "question": "Here is a string: \"color in spinning\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "color in spinning",
+    "title": "Color in Spinning",
+    "caplast": "color in Spinning",
+    "question": "Here is a string: \"color in spinning\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  },
+  {
+    "original": "rujub the juggler",
+    "title": "Rujub the Juggler",
+    "caplast": "rujub the Juggler",
+    "question": "Here is a string: \"rujub the juggler\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "rujub the juggler",
+    "title": "Rujub the Juggler",
+    "caplast": "rujub the Juggler",
+    "question": "Here is a string: \"rujub the juggler\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  },
+  {
+    "original": "computer forensics jumpstart",
+    "title": "Computer Forensics JumpStart",
+    "caplast": "computer forensics Jumpstart",
+    "question": "Here is a string: \"computer forensics jumpstart\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "computer forensics jumpstart",
+    "title": "Computer Forensics JumpStart",
+    "caplast": "computer forensics Jumpstart",
+    "question": "Here is a string: \"computer forensics jumpstart\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  },
+  {
+    "original": "the nkjv  concordance",
+    "title": "The NKJV  Concordance",
+    "caplast": "the nkjv  Concordance",
+    "question": "Here is a string: \"the nkjv  concordance\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "the nkjv  concordance",
+    "title": "The NKJV  Concordance",
+    "caplast": "the nkjv  Concordance",
+    "question": "Here is a string: \"the nkjv  concordance\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  },
+  {
+    "original": "germany, at odds",
+    "title": "Germany, at Odds",
+    "caplast": "germany, at Odds",
+    "question": "Here is a string: \"germany, at odds\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "germany, at odds",
+    "title": "Germany, at Odds",
+    "caplast": "germany, at Odds",
+    "question": "Here is a string: \"germany, at odds\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  },
+  {
+    "original": "in the rainfield",
+    "title": "In the Rainfield",
+    "caplast": "in the Rainfield",
+    "question": "Here is a string: \"in the rainfield\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "in the rainfield",
+    "title": "In the Rainfield",
+    "caplast": "in the Rainfield",
+    "question": "Here is a string: \"in the rainfield\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  },
+  {
+    "original": "fitness and wellness",
+    "title": "Fitness and Wellness",
+    "caplast": "fitness and Wellness",
+    "question": "Here is a string: \"fitness and wellness\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "fitness and wellness",
+    "title": "Fitness and Wellness",
+    "caplast": "fitness and Wellness",
+    "question": "Here is a string: \"fitness and wellness\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  },
+  {
+    "original": "after the end",
+    "title": "After the End",
+    "caplast": "after the End",
+    "question": "Here is a string: \"after the end\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "after the end",
+    "title": "After the End",
+    "caplast": "after the End",
+    "question": "Here is a string: \"after the end\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  },
+  {
+    "original": "jake at gymnastics",
+    "title": "Jake at Gymnastics",
+    "caplast": "jake at Gymnastics",
+    "question": "Here is a string: \"jake at gymnastics\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "jake at gymnastics",
+    "title": "Jake at Gymnastics",
+    "caplast": "jake at Gymnastics",
+    "question": "Here is a string: \"jake at gymnastics\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  },
+  {
+    "original": "the hidden mickeys of disneyland",
+    "title": "The Hidden Mickeys of Disneyland",
+    "caplast": "the hidden mickeys of Disneyland",
+    "question": "Here is a string: \"the hidden mickeys of disneyland\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "the hidden mickeys of disneyland",
+    "title": "The Hidden Mickeys of Disneyland",
+    "caplast": "the hidden mickeys of Disneyland",
+    "question": "Here is a string: \"the hidden mickeys of disneyland\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  },
+  {
+    "original": "physics for scientists and engineers",
+    "title": "Physics for Scientists and Engineers",
+    "caplast": "physics for scientists and Engineers",
+    "question": "Here is a string: \"physics for scientists and engineers\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "physics for scientists and engineers",
+    "title": "Physics for Scientists and Engineers",
+    "caplast": "physics for scientists and Engineers",
+    "question": "Here is a string: \"physics for scientists and engineers\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  },
+  {
+    "original": "law of debtors and creditors",
+    "title": "Law of Debtors and Creditors",
+    "caplast": "law of debtors and Creditors",
+    "question": "Here is a string: \"law of debtors and creditors\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "law of debtors and creditors",
+    "title": "Law of Debtors and Creditors",
+    "caplast": "law of debtors and Creditors",
+    "question": "Here is a string: \"law of debtors and creditors\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  },
+  {
+    "original": "law of florida homeowners associations",
+    "title": "Law of Florida Homeowners Associations",
+    "caplast": "law of florida homeowners Associations",
+    "question": "Here is a string: \"law of florida homeowners associations\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "law of florida homeowners associations",
+    "title": "Law of Florida Homeowners Associations",
+    "caplast": "law of florida homeowners Associations",
+    "question": "Here is a string: \"law of florida homeowners associations\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  },
+  {
+    "original": "ball pest and disease manual",
+    "title": "Ball Pest and Disease Manual",
+    "caplast": "ball pest and disease Manual",
+    "question": "Here is a string: \"ball pest and disease manual\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "ball pest and disease manual",
+    "title": "Ball Pest and Disease Manual",
+    "caplast": "ball pest and disease Manual",
+    "question": "Here is a string: \"ball pest and disease manual\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  },
+  {
+    "original": "color atlas of conservative dentistry",
+    "title": "Color Atlas of Conservative Dentistry",
+    "caplast": "color atlas of conservative Dentistry",
+    "question": "Here is a string: \"color atlas of conservative dentistry\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "color atlas of conservative dentistry",
+    "title": "Color Atlas of Conservative Dentistry",
+    "caplast": "color atlas of conservative Dentistry",
+    "question": "Here is a string: \"color atlas of conservative dentistry\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  },
+  {
+    "original": "fixed-income securities and derivatives handbook",
+    "title": "Fixed-Income Securities and Derivatives Handbook",
+    "caplast": "fixed-income securities and derivatives Handbook",
+    "question": "Here is a string: \"fixed-income securities and derivatives handbook\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "fixed-income securities and derivatives handbook",
+    "title": "Fixed-Income Securities and Derivatives Handbook",
+    "caplast": "fixed-income securities and derivatives Handbook",
+    "question": "Here is a string: \"fixed-income securities and derivatives handbook\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  },
+  {
+    "original": "characterization and analysis of polymers",
+    "title": "Characterization and Analysis of Polymers",
+    "caplast": "characterization and analysis of Polymers",
+    "question": "Here is a string: \"characterization and analysis of polymers\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "characterization and analysis of polymers",
+    "title": "Characterization and Analysis of Polymers",
+    "caplast": "characterization and analysis of Polymers",
+    "question": "Here is a string: \"characterization and analysis of polymers\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  },
+  {
+    "original": "the art of the dessert",
+    "title": "The Art of the Dessert",
+    "caplast": "the art of the Dessert",
+    "question": "Here is a string: \"the art of the dessert\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "the art of the dessert",
+    "title": "The Art of the Dessert",
+    "caplast": "the art of the Dessert",
+    "question": "Here is a string: \"the art of the dessert\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  },
+  {
+    "original": "the art of spiritual dreaming",
+    "title": "The Art of Spiritual Dreaming",
+    "caplast": "the art of spiritual Dreaming",
+    "question": "Here is a string: \"the art of spiritual dreaming\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "the art of spiritual dreaming",
+    "title": "The Art of Spiritual Dreaming",
+    "caplast": "the art of spiritual Dreaming",
+    "question": "Here is a string: \"the art of spiritual dreaming\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  },
+  {
+    "original": "a gentleman in the street",
+    "title": "A Gentleman in the Street",
+    "caplast": "a gentleman in the Street",
+    "question": "Here is a string: \"a gentleman in the street\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "a gentleman in the street",
+    "title": "A Gentleman in the Street",
+    "caplast": "a gentleman in the Street",
+    "question": "Here is a string: \"a gentleman in the street\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  },
+  {
+    "original": "wayfarers in the libyan desert,",
+    "title": "Wayfarers in the Libyan Desert,",
+    "caplast": "wayfarers in the libyan Desert,",
+    "question": "Here is a string: \"wayfarers in the libyan desert,\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "wayfarers in the libyan desert,",
+    "title": "Wayfarers in the Libyan Desert,",
+    "caplast": "wayfarers in the libyan Desert,",
+    "question": "Here is a string: \"wayfarers in the libyan desert,\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  },
+  {
+    "original": "manual therapy for chronic headache",
+    "title": "Manual Therapy for Chronic Headache",
+    "caplast": "manual therapy for chronic Headache",
+    "question": "Here is a string: \"manual therapy for chronic headache\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "manual therapy for chronic headache",
+    "title": "Manual Therapy for Chronic Headache",
+    "caplast": "manual therapy for chronic Headache",
+    "question": "Here is a string: \"manual therapy for chronic headache\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  },
+  {
+    "original": "the consecration of jacob jordaens",
+    "title": "The Consecration of Jacob Jordaens",
+    "caplast": "the consecration of jacob Jordaens",
+    "question": "Here is a string: \"the consecration of jacob jordaens\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "the consecration of jacob jordaens",
+    "title": "The Consecration of Jacob Jordaens",
+    "caplast": "the consecration of jacob Jordaens",
+    "question": "Here is a string: \"the consecration of jacob jordaens\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  },
+  {
+    "original": "how to read the bible",
+    "title": "How to Read the Bible",
+    "caplast": "how to read the Bible",
+    "question": "Here is a string: \"how to read the bible\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "how to read the bible",
+    "title": "How to Read the Bible",
+    "caplast": "how to read the Bible",
+    "question": "Here is a string: \"how to read the bible\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  },
+  {
+    "original": "the age of sustainable development",
+    "title": "The Age of Sustainable Development",
+    "caplast": "the age of sustainable Development",
+    "question": "Here is a string: \"the age of sustainable development\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "the age of sustainable development",
+    "title": "The Age of Sustainable Development",
+    "caplast": "the age of sustainable Development",
+    "question": "Here is a string: \"the age of sustainable development\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  },
+  {
+    "original": "how to f*ck a woman",
+    "title": "How to F*ck a Woman",
+    "caplast": "how to f*ck a Woman",
+    "question": "Here is a string: \"how to f*ck a woman\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "how to f*ck a woman",
+    "title": "How to F*ck a Woman",
+    "caplast": "how to f*ck a Woman",
+    "question": "Here is a string: \"how to f*ck a woman\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  },
+  {
+    "original": "enterprise, government, and the public",
+    "title": "Enterprise, Government, and the Public",
+    "caplast": "enterprise, government, and the Public",
+    "question": "Here is a string: \"enterprise, government, and the public\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "enterprise, government, and the public",
+    "title": "Enterprise, Government, and the Public",
+    "caplast": "enterprise, government, and the Public",
+    "question": "Here is a string: \"enterprise, government, and the public\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  },
+  {
+    "original": "the foolish men of agra",
+    "title": "The Foolish Men of Agra",
+    "caplast": "the foolish men of Agra",
+    "question": "Here is a string: \"the foolish men of agra\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "the foolish men of agra",
+    "title": "The Foolish Men of Agra",
+    "caplast": "the foolish men of Agra",
+    "question": "Here is a string: \"the foolish men of agra\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  },
+  {
+    "original": "zapata and the mexican revolution",
+    "title": "Zapata and the Mexican Revolution",
+    "caplast": "zapata and the mexican Revolution",
+    "question": "Here is a string: \"zapata and the mexican revolution\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "zapata and the mexican revolution",
+    "title": "Zapata and the Mexican Revolution",
+    "caplast": "zapata and the mexican Revolution",
+    "question": "Here is a string: \"zapata and the mexican revolution\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  },
+  {
+    "original": "risk management handbook for health care organizations",
+    "title": "Risk Management Handbook for Health Care Organizations",
+    "caplast": "risk management handbook for health care Organizations",
+    "question": "Here is a string: \"risk management handbook for health care organizations\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "risk management handbook for health care organizations",
+    "title": "Risk Management Handbook for Health Care Organizations",
+    "caplast": "risk management handbook for health care Organizations",
+    "question": "Here is a string: \"risk management handbook for health care organizations\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  },
+  {
+    "original": "saint germain on alchemy: formulas for self-transformation",
+    "title": "Saint Germain on Alchemy: Formulas For Self-Transformation",
+    "caplast": "saint germain on alchemy: formulas for Self-transformation",
+    "question": "Here is a string: \"saint germain on alchemy: formulas for self-transformation\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "saint germain on alchemy: formulas for self-transformation",
+    "title": "Saint Germain on Alchemy: Formulas For Self-Transformation",
+    "caplast": "saint germain on alchemy: formulas for Self-transformation",
+    "question": "Here is a string: \"saint germain on alchemy: formulas for self-transformation\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  },
+  {
+    "original": "where the sidewalk ends: poems and drawings",
+    "title": "Where the Sidewalk Ends: Poems and Drawings",
+    "caplast": "where the sidewalk ends: poems and Drawings",
+    "question": "Here is a string: \"where the sidewalk ends: poems and drawings\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "where the sidewalk ends: poems and drawings",
+    "title": "Where the Sidewalk Ends: Poems and Drawings",
+    "caplast": "where the sidewalk ends: poems and Drawings",
+    "question": "Here is a string: \"where the sidewalk ends: poems and drawings\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  },
+  {
+    "original": "documentation in a snap for activity programs",
+    "title": "Documentation in a SNAP for Activity Programs",
+    "caplast": "documentation in a snap for activity Programs",
+    "question": "Here is a string: \"documentation in a snap for activity programs\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "documentation in a snap for activity programs",
+    "title": "Documentation in a SNAP for Activity Programs",
+    "caplast": "documentation in a snap for activity Programs",
+    "question": "Here is a string: \"documentation in a snap for activity programs\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  },
+  {
+    "original": "built for success: the story of ebay",
+    "title": "Built for Success: The Story of eBay",
+    "caplast": "built for success: the story of Ebay",
+    "question": "Here is a string: \"built for success: the story of ebay\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "built for success: the story of ebay",
+    "title": "Built for Success: The Story of eBay",
+    "caplast": "built for success: the story of Ebay",
+    "question": "Here is a string: \"built for success: the story of ebay\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  },
+  {
+    "original": "tantra of the great liberation [mahanirvana tantra]",
+    "title": "Tantra of the Great Liberation [Mahanirvana Tantra]",
+    "caplast": "tantra of the great liberation [mahanirvana Tantra]",
+    "question": "Here is a string: \"tantra of the great liberation [mahanirvana tantra]\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "tantra of the great liberation [mahanirvana tantra]",
+    "title": "Tantra of the Great Liberation [Mahanirvana Tantra]",
+    "caplast": "tantra of the great liberation [mahanirvana Tantra]",
+    "question": "Here is a string: \"tantra of the great liberation [mahanirvana tantra]\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  },
+  {
+    "original": "essential guide to home networking technologies, the",
+    "title": "Essential Guide to Home Networking Technologies, The",
+    "caplast": "essential guide to home networking technologies, The",
+    "question": "Here is a string: \"essential guide to home networking technologies, the\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "essential guide to home networking technologies, the",
+    "title": "Essential Guide to Home Networking Technologies, The",
+    "caplast": "essential guide to home networking technologies, The",
+    "question": "Here is a string: \"essential guide to home networking technologies, the\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  },
+  {
+    "original": "the big trial: law as public spectacle",
+    "title": "The Big Trial: Law as Public Spectacle",
+    "caplast": "the big trial: law as public Spectacle",
+    "question": "Here is a string: \"the big trial: law as public spectacle\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "the big trial: law as public spectacle",
+    "title": "The Big Trial: Law as Public Spectacle",
+    "caplast": "the big trial: law as public Spectacle",
+    "question": "Here is a string: \"the big trial: law as public spectacle\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  },
+  {
+    "original": "the bluebook: a uniform system of citation",
+    "title": "The Bluebook: a Uniform System of Citation",
+    "caplast": "the bluebook: a uniform system of Citation",
+    "question": "Here is a string: \"the bluebook: a uniform system of citation\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "the bluebook: a uniform system of citation",
+    "title": "The Bluebook: a Uniform System of Citation",
+    "caplast": "the bluebook: a uniform system of Citation",
+    "question": "Here is a string: \"the bluebook: a uniform system of citation\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  },
+  {
+    "original": "living faithfully as a prayer book people",
+    "title": "Living Faithfully as a Prayer Book People",
+    "caplast": "living faithfully as a prayer book People",
+    "question": "Here is a string: \"living faithfully as a prayer book people\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "living faithfully as a prayer book people",
+    "title": "Living Faithfully as a Prayer Book People",
+    "caplast": "living faithfully as a prayer book People",
+    "question": "Here is a string: \"living faithfully as a prayer book people\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  },
+  {
+    "original": "all souls: a family story from southie",
+    "title": "All Souls: A Family Story from Southie",
+    "caplast": "all souls: a family story from Southie",
+    "question": "Here is a string: \"all souls: a family story from southie\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "all souls: a family story from southie",
+    "title": "All Souls: A Family Story from Southie",
+    "caplast": "all souls: a family story from Southie",
+    "question": "Here is a string: \"all souls: a family story from southie\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  },
+  {
+    "original": "so you want to start a nursery",
+    "title": "So You Want to Start a Nursery",
+    "caplast": "so you want to start a Nursery",
+    "question": "Here is a string: \"so you want to start a nursery\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "so you want to start a nursery",
+    "title": "So You Want to Start a Nursery",
+    "caplast": "so you want to start a Nursery",
+    "question": "Here is a string: \"so you want to start a nursery\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  },
+  {
+    "original": "the most beautiful libraries in the world",
+    "title": "The Most Beautiful Libraries in the World",
+    "caplast": "the most beautiful libraries in the World",
+    "question": "Here is a string: \"the most beautiful libraries in the world\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "the most beautiful libraries in the world",
+    "title": "The Most Beautiful Libraries in the World",
+    "caplast": "the most beautiful libraries in the World",
+    "question": "Here is a string: \"the most beautiful libraries in the world\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  },
+  {
+    "original": "dk pocket guide to golf: practice drills",
+    "title": "DK Pocket Guide to Golf: Practice Drills",
+    "caplast": "dk pocket guide to golf: practice Drills",
+    "question": "Here is a string: \"dk pocket guide to golf: practice drills\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "dk pocket guide to golf: practice drills",
+    "title": "DK Pocket Guide to Golf: Practice Drills",
+    "caplast": "dk pocket guide to golf: practice Drills",
+    "question": "Here is a string: \"dk pocket guide to golf: practice drills\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  },
+  {
+    "original": "clinical methods and practicum in speech-language pathology",
+    "title": "Clinical Methods and Practicum in Speech-Language Pathology",
+    "caplast": "clinical methods and practicum in speech-language Pathology",
+    "question": "Here is a string: \"clinical methods and practicum in speech-language pathology\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "clinical methods and practicum in speech-language pathology",
+    "title": "Clinical Methods and Practicum in Speech-Language Pathology",
+    "caplast": "clinical methods and practicum in speech-language Pathology",
+    "question": "Here is a string: \"clinical methods and practicum in speech-language pathology\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  },
+  {
+    "original": "the encyclopedia of collectibles: lalique to marbles",
+    "title": "The Encyclopedia of Collectibles: Lalique to Marbles",
+    "caplast": "the encyclopedia of collectibles: lalique to Marbles",
+    "question": "Here is a string: \"the encyclopedia of collectibles: lalique to marbles\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "the encyclopedia of collectibles: lalique to marbles",
+    "title": "The Encyclopedia of Collectibles: Lalique to Marbles",
+    "caplast": "the encyclopedia of collectibles: lalique to Marbles",
+    "question": "Here is a string: \"the encyclopedia of collectibles: lalique to marbles\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  },
+  {
+    "original": "how to write an expert witness report",
+    "title": "How to Write an Expert Witness Report",
+    "caplast": "how to write an expert witness Report",
+    "question": "Here is a string: \"how to write an expert witness report\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "how to write an expert witness report",
+    "title": "How to Write an Expert Witness Report",
+    "caplast": "how to write an expert witness Report",
+    "question": "Here is a string: \"how to write an expert witness report\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  },
+  {
+    "original": "mongolia or bust: a round-the-world motorcycle misadventure",
+    "title": "Mongolia or Bust: A round-the-world motorcycle misadventure",
+    "caplast": "mongolia or bust: a round-the-world motorcycle Misadventure",
+    "question": "Here is a string: \"mongolia or bust: a round-the-world motorcycle misadventure\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "mongolia or bust: a round-the-world motorcycle misadventure",
+    "title": "Mongolia or Bust: A round-the-world motorcycle misadventure",
+    "caplast": "mongolia or bust: a round-the-world motorcycle Misadventure",
+    "question": "Here is a string: \"mongolia or bust: a round-the-world motorcycle misadventure\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  },
+  {
+    "original": "wes craven: the man and his nightmares",
+    "title": "Wes Craven: The Man and his Nightmares",
+    "caplast": "wes craven: the man and his Nightmares",
+    "question": "Here is a string: \"wes craven: the man and his nightmares\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "wes craven: the man and his nightmares",
+    "title": "Wes Craven: The Man and his Nightmares",
+    "caplast": "wes craven: the man and his Nightmares",
+    "question": "Here is a string: \"wes craven: the man and his nightmares\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  },
+  {
+    "original": "homeopathy: an a to z home handbook",
+    "title": "Homeopathy: An A to Z Home Handbook",
+    "caplast": "homeopathy: an a to z home Handbook",
+    "question": "Here is a string: \"homeopathy: an a to z home handbook\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "homeopathy: an a to z home handbook",
+    "title": "Homeopathy: An A to Z Home Handbook",
+    "caplast": "homeopathy: an a to z home Handbook",
+    "question": "Here is a string: \"homeopathy: an a to z home handbook\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  },
+  {
+    "original": "fiji islands - the heart of the south pacific",
+    "title": "Fiji Islands - The Heart of the South Pacific",
+    "caplast": "fiji islands - the heart of the south Pacific",
+    "question": "Here is a string: \"fiji islands - the heart of the south pacific\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "fiji islands - the heart of the south pacific",
+    "title": "Fiji Islands - The Heart of the South Pacific",
+    "caplast": "fiji islands - the heart of the south Pacific",
+    "question": "Here is a string: \"fiji islands - the heart of the south pacific\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  },
+  {
+    "original": "helping in child protective services: a competency-based casework handbook",
+    "title": "Helping in Child Protective Services: A Competency-Based Casework Handbook",
+    "caplast": "helping in child protective services: a competency-based casework Handbook",
+    "question": "Here is a string: \"helping in child protective services: a competency-based casework handbook\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "helping in child protective services: a competency-based casework handbook",
+    "title": "Helping in Child Protective Services: A Competency-Based Casework Handbook",
+    "caplast": "helping in child protective services: a competency-based casework Handbook",
+    "question": "Here is a string: \"helping in child protective services: a competency-based casework handbook\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  },
+  {
+    "original": "cloudonomics, + website: the business value of cloud computing",
+    "title": "Cloudonomics, + Website: The Business Value of Cloud Computing",
+    "caplast": "cloudonomics, + website: the business value of cloud Computing",
+    "question": "Here is a string: \"cloudonomics, + website: the business value of cloud computing\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "cloudonomics, + website: the business value of cloud computing",
+    "title": "Cloudonomics, + Website: The Business Value of Cloud Computing",
+    "caplast": "cloudonomics, + website: the business value of cloud Computing",
+    "question": "Here is a string: \"cloudonomics, + website: the business value of cloud computing\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  },
+  {
+    "original": "hydrogen peroxide and aloe vera plus other home remedies",
+    "title": "Hydrogen Peroxide and Aloe Vera Plus Other Home Remedies",
+    "caplast": "hydrogen peroxide and aloe vera plus other home Remedies",
+    "question": "Here is a string: \"hydrogen peroxide and aloe vera plus other home remedies\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "hydrogen peroxide and aloe vera plus other home remedies",
+    "title": "Hydrogen Peroxide and Aloe Vera Plus Other Home Remedies",
+    "caplast": "hydrogen peroxide and aloe vera plus other home Remedies",
+    "question": "Here is a string: \"hydrogen peroxide and aloe vera plus other home remedies\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  },
+  {
+    "original": "show me the magic: travels round benin by taxi",
+    "title": "Show Me the Magic: Travels Round Benin by Taxi",
+    "caplast": "show me the magic: travels round benin by Taxi",
+    "question": "Here is a string: \"show me the magic: travels round benin by taxi\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "show me the magic: travels round benin by taxi",
+    "title": "Show Me the Magic: Travels Round Benin by Taxi",
+    "caplast": "show me the magic: travels round benin by Taxi",
+    "question": "Here is a string: \"show me the magic: travels round benin by taxi\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  },
+  {
+    "original": "working class mystic: a spiritual biography of george harrison",
+    "title": "Working Class Mystic: A Spiritual Biography of George Harrison",
+    "caplast": "working class mystic: a spiritual biography of george Harrison",
+    "question": "Here is a string: \"working class mystic: a spiritual biography of george harrison\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "working class mystic: a spiritual biography of george harrison",
+    "title": "Working Class Mystic: A Spiritual Biography of George Harrison",
+    "caplast": "working class mystic: a spiritual biography of george Harrison",
+    "question": "Here is a string: \"working class mystic: a spiritual biography of george harrison\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  },
+  {
+    "original": "sailing to australia: shipboard diaries by nineteenth-century british emigrants",
+    "title": "Sailing to Australia: Shipboard Diaries by Nineteenth-Century British Emigrants",
+    "caplast": "sailing to australia: shipboard diaries by nineteenth-century british Emigrants",
+    "question": "Here is a string: \"sailing to australia: shipboard diaries by nineteenth-century british emigrants\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "sailing to australia: shipboard diaries by nineteenth-century british emigrants",
+    "title": "Sailing to Australia: Shipboard Diaries by Nineteenth-Century British Emigrants",
+    "caplast": "sailing to australia: shipboard diaries by nineteenth-century british Emigrants",
+    "question": "Here is a string: \"sailing to australia: shipboard diaries by nineteenth-century british emigrants\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  },
+  {
+    "original": "lessons and legacies v : the holocaust and justice",
+    "title": "Lessons and Legacies V : The Holocaust and Justice",
+    "caplast": "lessons and legacies v : the holocaust and Justice",
+    "question": "Here is a string: \"lessons and legacies v : the holocaust and justice\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "lessons and legacies v : the holocaust and justice",
+    "title": "Lessons and Legacies V : The Holocaust and Justice",
+    "caplast": "lessons and legacies v : the holocaust and Justice",
+    "question": "Here is a string: \"lessons and legacies v : the holocaust and justice\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  },
+  {
+    "original": "a tragedy of democracy: japanese confinement in north america",
+    "title": "A Tragedy of Democracy: Japanese Confinement in North America",
+    "caplast": "a tragedy of democracy: japanese confinement in north America",
+    "question": "Here is a string: \"a tragedy of democracy: japanese confinement in north america\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "a tragedy of democracy: japanese confinement in north america",
+    "title": "A Tragedy of Democracy: Japanese Confinement in North America",
+    "caplast": "a tragedy of democracy: japanese confinement in north America",
+    "question": "Here is a string: \"a tragedy of democracy: japanese confinement in north america\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  },
+  {
+    "original": "intellectual property rights in frontier industries: software and biotechnology",
+    "title": "Intellectual Property Rights in Frontier Industries: Software and Biotechnology",
+    "caplast": "intellectual property rights in frontier industries: software and Biotechnology",
+    "question": "Here is a string: \"intellectual property rights in frontier industries: software and biotechnology\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "intellectual property rights in frontier industries: software and biotechnology",
+    "title": "Intellectual Property Rights in Frontier Industries: Software and Biotechnology",
+    "caplast": "intellectual property rights in frontier industries: software and Biotechnology",
+    "question": "Here is a string: \"intellectual property rights in frontier industries: software and biotechnology\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  },
+  {
+    "original": "rumor of globalization: desecrating the global from vernacular margins",
+    "title": "Rumor of Globalization: Desecrating the Global from Vernacular Margins",
+    "caplast": "rumor of globalization: desecrating the global from vernacular Margins",
+    "question": "Here is a string: \"rumor of globalization: desecrating the global from vernacular margins\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "rumor of globalization: desecrating the global from vernacular margins",
+    "title": "Rumor of Globalization: Desecrating the Global from Vernacular Margins",
+    "caplast": "rumor of globalization: desecrating the global from vernacular Margins",
+    "question": "Here is a string: \"rumor of globalization: desecrating the global from vernacular margins\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  },
+  {
+    "original": "advanced airbrush art: how to secrets from the masters",
+    "title": "Advanced Airbrush Art: How to Secrets From the Masters",
+    "caplast": "advanced airbrush art: how to secrets from the Masters",
+    "question": "Here is a string: \"advanced airbrush art: how to secrets from the masters\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "advanced airbrush art: how to secrets from the masters",
+    "title": "Advanced Airbrush Art: How to Secrets From the Masters",
+    "caplast": "advanced airbrush art: how to secrets from the Masters",
+    "question": "Here is a string: \"advanced airbrush art: how to secrets from the masters\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  },
+  {
+    "original": "treasures of the thunder dragon: a portrait of bhutan",
+    "title": "Treasures of the Thunder Dragon: A Portrait of Bhutan",
+    "caplast": "treasures of the thunder dragon: a portrait of Bhutan",
+    "question": "Here is a string: \"treasures of the thunder dragon: a portrait of bhutan\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "treasures of the thunder dragon: a portrait of bhutan",
+    "title": "Treasures of the Thunder Dragon: A Portrait of Bhutan",
+    "caplast": "treasures of the thunder dragon: a portrait of Bhutan",
+    "question": "Here is a string: \"treasures of the thunder dragon: a portrait of bhutan\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  },
+  {
+    "original": "waist-high in the world: a life among the nondisabled",
+    "title": "Waist-High in the World: A Life Among the Nondisabled",
+    "caplast": "waist-high in the world: a life among the Nondisabled",
+    "question": "Here is a string: \"waist-high in the world: a life among the nondisabled\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "waist-high in the world: a life among the nondisabled",
+    "title": "Waist-High in the World: A Life Among the Nondisabled",
+    "caplast": "waist-high in the world: a life among the Nondisabled",
+    "question": "Here is a string: \"waist-high in the world: a life among the nondisabled\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  },
+  {
+    "original": "python for biologists: a complete programming course for beginners",
+    "title": "Python for Biologists: A complete programming course for beginners",
+    "caplast": "python for biologists: a complete programming course for Beginners",
+    "question": "Here is a string: \"python for biologists: a complete programming course for beginners\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "python for biologists: a complete programming course for beginners",
+    "title": "Python for Biologists: A complete programming course for beginners",
+    "caplast": "python for biologists: a complete programming course for Beginners",
+    "question": "Here is a string: \"python for biologists: a complete programming course for beginners\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  },
+  {
+    "original": "programming perl: unmatched power for text processing and scripting",
+    "title": "Programming Perl: Unmatched power for text processing and scripting",
+    "caplast": "programming perl: unmatched power for text processing and Scripting",
+    "question": "Here is a string: \"programming perl: unmatched power for text processing and scripting\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "programming perl: unmatched power for text processing and scripting",
+    "title": "Programming Perl: Unmatched power for text processing and scripting",
+    "caplast": "programming perl: unmatched power for text processing and Scripting",
+    "question": "Here is a string: \"programming perl: unmatched power for text processing and scripting\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  },
+  {
+    "original": "trees for all seasons: broadleaved evergreens for temperate climates",
+    "title": "Trees for All Seasons: Broadleaved Evergreens for Temperate Climates",
+    "caplast": "trees for all seasons: broadleaved evergreens for temperate Climates",
+    "question": "Here is a string: \"trees for all seasons: broadleaved evergreens for temperate climates\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "trees for all seasons: broadleaved evergreens for temperate climates",
+    "title": "Trees for All Seasons: Broadleaved Evergreens for Temperate Climates",
+    "caplast": "trees for all seasons: broadleaved evergreens for temperate Climates",
+    "question": "Here is a string: \"trees for all seasons: broadleaved evergreens for temperate climates\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  },
+  {
+    "original": "mothers on trial: the battle for children and custody",
+    "title": "Mothers on Trial: The Battle for Children and Custody",
+    "caplast": "mothers on trial: the battle for children and Custody",
+    "question": "Here is a string: \"mothers on trial: the battle for children and custody\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "mothers on trial: the battle for children and custody",
+    "title": "Mothers on Trial: The Battle for Children and Custody",
+    "caplast": "mothers on trial: the battle for children and Custody",
+    "question": "Here is a string: \"mothers on trial: the battle for children and custody\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  },
+  {
+    "original": "law and disorder: absurdly funny moments from the courts",
+    "title": "Law and Disorder: Absurdly Funny Moments from the Courts",
+    "caplast": "law and disorder: absurdly funny moments from the Courts",
+    "question": "Here is a string: \"law and disorder: absurdly funny moments from the courts\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "law and disorder: absurdly funny moments from the courts",
+    "title": "Law and Disorder: Absurdly Funny Moments from the Courts",
+    "caplast": "law and disorder: absurdly funny moments from the Courts",
+    "question": "Here is a string: \"law and disorder: absurdly funny moments from the courts\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  },
+  {
+    "original": "religions of the silk road: premodern patterns of globalization",
+    "title": "Religions of the Silk Road: Premodern Patterns of Globalization",
+    "caplast": "religions of the silk road: premodern patterns of Globalization",
+    "question": "Here is a string: \"religions of the silk road: premodern patterns of globalization\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "religions of the silk road: premodern patterns of globalization",
+    "title": "Religions of the Silk Road: Premodern Patterns of Globalization",
+    "caplast": "religions of the silk road: premodern patterns of Globalization",
+    "question": "Here is a string: \"religions of the silk road: premodern patterns of globalization\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  },
+  {
+    "original": "sisters on the fly: caravans, campfires, and tales from the road",
+    "title": "Sisters on the Fly: Caravans, Campfires, and Tales from the Road",
+    "caplast": "sisters on the fly: caravans, campfires, and tales from the Road",
+    "question": "Here is a string: \"sisters on the fly: caravans, campfires, and tales from the road\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "sisters on the fly: caravans, campfires, and tales from the road",
+    "title": "Sisters on the Fly: Caravans, Campfires, and Tales from the Road",
+    "caplast": "sisters on the fly: caravans, campfires, and tales from the Road",
+    "question": "Here is a string: \"sisters on the fly: caravans, campfires, and tales from the road\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  },
+  {
+    "original": "the economics and politics of high-speed rail: lessons from experiences abroad",
+    "title": "The Economics and Politics of High-Speed Rail: Lessons from Experiences Abroad",
+    "caplast": "the economics and politics of high-speed rail: lessons from experiences Abroad",
+    "question": "Here is a string: \"the economics and politics of high-speed rail: lessons from experiences abroad\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "the economics and politics of high-speed rail: lessons from experiences abroad",
+    "title": "The Economics and Politics of High-Speed Rail: Lessons from Experiences Abroad",
+    "caplast": "the economics and politics of high-speed rail: lessons from experiences Abroad",
+    "question": "Here is a string: \"the economics and politics of high-speed rail: lessons from experiences abroad\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  },
+  {
+    "original": "meaning-centered group psychotherapy for patients with advanced cancer: a treatment manual",
+    "title": "Meaning-Centered Group Psychotherapy for Patients with Advanced Cancer: A Treatment Manual",
+    "caplast": "meaning-centered group psychotherapy for patients with advanced cancer: a treatment Manual",
+    "question": "Here is a string: \"meaning-centered group psychotherapy for patients with advanced cancer: a treatment manual\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "meaning-centered group psychotherapy for patients with advanced cancer: a treatment manual",
+    "title": "Meaning-Centered Group Psychotherapy for Patients with Advanced Cancer: A Treatment Manual",
+    "caplast": "meaning-centered group psychotherapy for patients with advanced cancer: a treatment Manual",
+    "question": "Here is a string: \"meaning-centered group psychotherapy for patients with advanced cancer: a treatment manual\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  },
+  {
+    "original": "i do: a guide to creating your own unique wedding ceremony",
+    "title": "I Do: A Guide to Creating Your Own Unique Wedding Ceremony",
+    "caplast": "i do: a guide to creating your own unique wedding Ceremony",
+    "question": "Here is a string: \"i do: a guide to creating your own unique wedding ceremony\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "i do: a guide to creating your own unique wedding ceremony",
+    "title": "I Do: A Guide to Creating Your Own Unique Wedding Ceremony",
+    "caplast": "i do: a guide to creating your own unique wedding Ceremony",
+    "question": "Here is a string: \"i do: a guide to creating your own unique wedding ceremony\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  },
+  {
+    "original": "the messiah and the psalms: preaching christ from all the psalms",
+    "title": "The Messiah and the Psalms: Preaching Christ from all the Psalms",
+    "caplast": "the messiah and the psalms: preaching christ from all the Psalms",
+    "question": "Here is a string: \"the messiah and the psalms: preaching christ from all the psalms\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "the messiah and the psalms: preaching christ from all the psalms",
+    "title": "The Messiah and the Psalms: Preaching Christ from all the Psalms",
+    "caplast": "the messiah and the psalms: preaching christ from all the Psalms",
+    "question": "Here is a string: \"the messiah and the psalms: preaching christ from all the psalms\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  },
+  {
+    "original": "becoming the natural: my life in and out of the cage",
+    "title": "Becoming the Natural: My Life In and Out of the Cage",
+    "caplast": "becoming the natural: my life in and out of the Cage",
+    "question": "Here is a string: \"becoming the natural: my life in and out of the cage\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "becoming the natural: my life in and out of the cage",
+    "title": "Becoming the Natural: My Life In and Out of the Cage",
+    "caplast": "becoming the natural: my life in and out of the Cage",
+    "question": "Here is a string: \"becoming the natural: my life in and out of the cage\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  },
+  {
+    "original": "unbearable weight: feminism, western culture, and the body, tenth anniversary edition",
+    "title": "Unbearable Weight: Feminism, Western Culture, and the Body, Tenth Anniversary Edition",
+    "caplast": "unbearable weight: feminism, western culture, and the body, tenth anniversary Edition",
+    "question": "Here is a string: \"unbearable weight: feminism, western culture, and the body, tenth anniversary edition\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "unbearable weight: feminism, western culture, and the body, tenth anniversary edition",
+    "title": "Unbearable Weight: Feminism, Western Culture, and the Body, Tenth Anniversary Edition",
+    "caplast": "unbearable weight: feminism, western culture, and the body, tenth anniversary Edition",
+    "question": "Here is a string: \"unbearable weight: feminism, western culture, and the body, tenth anniversary edition\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  },
+  {
+    "original": "mindworks: a practical guide for changing thoughts beliefs, and emotional reactions",
+    "title": "MindWorks: A Practical Guide for Changing Thoughts Beliefs, and Emotional Reactions",
+    "caplast": "mindworks: a practical guide for changing thoughts beliefs, and emotional Reactions",
+    "question": "Here is a string: \"mindworks: a practical guide for changing thoughts beliefs, and emotional reactions\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "mindworks: a practical guide for changing thoughts beliefs, and emotional reactions",
+    "title": "MindWorks: A Practical Guide for Changing Thoughts Beliefs, and Emotional Reactions",
+    "caplast": "mindworks: a practical guide for changing thoughts beliefs, and emotional Reactions",
+    "question": "Here is a string: \"mindworks: a practical guide for changing thoughts beliefs, and emotional reactions\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  },
+  {
+    "original": "advancing social justice: tools, pedagogies, and strategies to transform your campus",
+    "title": "Advancing Social Justice: Tools, Pedagogies, and Strategies to Transform Your Campus",
+    "caplast": "advancing social justice: tools, pedagogies, and strategies to transform your Campus",
+    "question": "Here is a string: \"advancing social justice: tools, pedagogies, and strategies to transform your campus\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "advancing social justice: tools, pedagogies, and strategies to transform your campus",
+    "title": "Advancing Social Justice: Tools, Pedagogies, and Strategies to Transform Your Campus",
+    "caplast": "advancing social justice: tools, pedagogies, and strategies to transform your Campus",
+    "question": "Here is a string: \"advancing social justice: tools, pedagogies, and strategies to transform your campus\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  },
+  {
+    "original": "create the suspense film that sells: for you, the producer, the",
+    "title": "Create the Suspense Film That Sells: For You, the Producer, the",
+    "caplast": "create the suspense film that sells: for you, the producer, The",
+    "question": "Here is a string: \"create the suspense film that sells: for you, the producer, the\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "create the suspense film that sells: for you, the producer, the",
+    "title": "Create the Suspense Film That Sells: For You, the Producer, the",
+    "caplast": "create the suspense film that sells: for you, the producer, The",
+    "question": "Here is a string: \"create the suspense film that sells: for you, the producer, the\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  },
+  {
+    "original": "the night the elephants cried - a story of the tsunami",
+    "title": "The Night the Elephants Cried - A Story of the Tsunami",
+    "caplast": "the night the elephants cried - a story of the Tsunami",
+    "question": "Here is a string: \"the night the elephants cried - a story of the tsunami\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "the night the elephants cried - a story of the tsunami",
+    "title": "The Night the Elephants Cried - A Story of the Tsunami",
+    "caplast": "the night the elephants cried - a story of the Tsunami",
+    "question": "Here is a string: \"the night the elephants cried - a story of the tsunami\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  },
+  {
+    "original": "cone beam ct of the head and neck: an anatomical atlas",
+    "title": "Cone Beam CT of the Head and Neck: An Anatomical Atlas",
+    "caplast": "cone beam ct of the head and neck: an anatomical Atlas",
+    "question": "Here is a string: \"cone beam ct of the head and neck: an anatomical atlas\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "cone beam ct of the head and neck: an anatomical atlas",
+    "title": "Cone Beam CT of the Head and Neck: An Anatomical Atlas",
+    "caplast": "cone beam ct of the head and neck: an anatomical Atlas",
+    "question": "Here is a string: \"cone beam ct of the head and neck: an anatomical atlas\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  },
+  {
+    "original": "the triumph of the moon: a history of modern pagan witchcraft",
+    "title": "The Triumph of the Moon: A History of Modern Pagan Witchcraft",
+    "caplast": "the triumph of the moon: a history of modern pagan Witchcraft",
+    "question": "Here is a string: \"the triumph of the moon: a history of modern pagan witchcraft\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "the triumph of the moon: a history of modern pagan witchcraft",
+    "title": "The Triumph of the Moon: A History of Modern Pagan Witchcraft",
+    "caplast": "the triumph of the moon: a history of modern pagan Witchcraft",
+    "question": "Here is a string: \"the triumph of the moon: a history of modern pagan witchcraft\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  },
+  {
+    "original": "stop the islamization of america: a practical guide to the resistance",
+    "title": "Stop the Islamization of America: A Practical Guide to the Resistance",
+    "caplast": "stop the islamization of america: a practical guide to the Resistance",
+    "question": "Here is a string: \"stop the islamization of america: a practical guide to the resistance\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "stop the islamization of america: a practical guide to the resistance",
+    "title": "Stop the Islamization of America: A Practical Guide to the Resistance",
+    "caplast": "stop the islamization of america: a practical guide to the Resistance",
+    "question": "Here is a string: \"stop the islamization of america: a practical guide to the resistance\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  },
+  {
+    "original": "the crossroads of should and must: find and follow your passion",
+    "title": "The Crossroads of Should and Must: Find and Follow Your Passion",
+    "caplast": "the crossroads of should and must: find and follow your Passion",
+    "question": "Here is a string: \"the crossroads of should and must: find and follow your passion\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "the crossroads of should and must: find and follow your passion",
+    "title": "The Crossroads of Should and Must: Find and Follow Your Passion",
+    "caplast": "the crossroads of should and must: find and follow your Passion",
+    "question": "Here is a string: \"the crossroads of should and must: find and follow your passion\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  },
+  {
+    "original": "the battle of adwa: african victory in the age of empire",
+    "title": "The Battle of Adwa: African Victory in the Age of Empire",
+    "caplast": "the battle of adwa: african victory in the age of Empire",
+    "question": "Here is a string: \"the battle of adwa: african victory in the age of empire\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "the battle of adwa: african victory in the age of empire",
+    "title": "The Battle of Adwa: African Victory in the Age of Empire",
+    "caplast": "the battle of adwa: african victory in the age of Empire",
+    "question": "Here is a string: \"the battle of adwa: african victory in the age of empire\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  },
+  {
+    "original": "building the bonds of attachment: awakening love in deeply troubled children",
+    "title": "Building the Bonds of Attachment: Awakening Love in Deeply Troubled Children",
+    "caplast": "building the bonds of attachment: awakening love in deeply troubled Children",
+    "question": "Here is a string: \"building the bonds of attachment: awakening love in deeply troubled children\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "building the bonds of attachment: awakening love in deeply troubled children",
+    "title": "Building the Bonds of Attachment: Awakening Love in Deeply Troubled Children",
+    "caplast": "building the bonds of attachment: awakening love in deeply troubled Children",
+    "question": "Here is a string: \"building the bonds of attachment: awakening love in deeply troubled children\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  },
+  {
+    "original": "at home with may and axel vervoordt: recipes for every season",
+    "title": "At Home with May and Axel Vervoordt: Recipes for Every Season",
+    "caplast": "at home with may and axel vervoordt: recipes for every Season",
+    "question": "Here is a string: \"at home with may and axel vervoordt: recipes for every season\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "at home with may and axel vervoordt: recipes for every season",
+    "title": "At Home with May and Axel Vervoordt: Recipes for Every Season",
+    "caplast": "at home with may and axel vervoordt: recipes for every Season",
+    "question": "Here is a string: \"at home with may and axel vervoordt: recipes for every season\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  },
+  {
+    "original": "looking for strangers: the true story of my hidden wartime childhood",
+    "title": "Looking for Strangers: The True Story of My Hidden Wartime Childhood",
+    "caplast": "looking for strangers: the true story of my hidden wartime Childhood",
+    "question": "Here is a string: \"looking for strangers: the true story of my hidden wartime childhood\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "looking for strangers: the true story of my hidden wartime childhood",
+    "title": "Looking for Strangers: The True Story of My Hidden Wartime Childhood",
+    "caplast": "looking for strangers: the true story of my hidden wartime Childhood",
+    "question": "Here is a string: \"looking for strangers: the true story of my hidden wartime childhood\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  },
+  {
+    "original": "desires in conflict: hope for men who struggle with sexual identity",
+    "title": "Desires in Conflict: Hope for Men Who Struggle with Sexual Identity",
+    "caplast": "desires in conflict: hope for men who struggle with sexual Identity",
+    "question": "Here is a string: \"desires in conflict: hope for men who struggle with sexual identity\". Change the format of the string so that it can be a title.",
+    "task_type": "title"
+  },
+  {
+    "original": "desires in conflict: hope for men who struggle with sexual identity",
+    "title": "Desires in Conflict: Hope for Men Who Struggle with Sexual Identity",
+    "caplast": "desires in conflict: hope for men who struggle with sexual Identity",
+    "question": "Here is a string: \"desires in conflict: hope for men who struggle with sexual identity\". Change the format of the string so that only the first letter of the last word is capitalized.",
+    "task_type": "caplast"
+  }
+]

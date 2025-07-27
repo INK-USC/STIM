@@ -1,0 +1,32 @@
+Instruction: Assuming that all numbers are in base-2 where the digits are "01". Answer the given question. You will end your response with a sentence in the format of `So the answer is <number>.`
+Question: What is 10101 - 1111 equal to?
+Answer: So the answer is 110.
+
+Instruction: Assuming that all numbers are in base-2 where the digits are "01". Answer the given question. You will end your response with a sentence in the format of `So the answer is <number>.`
+Question: What is 11 + 10 equal to?
+Answer: So the answer is 101.
+
+Instruction: Assuming that all numbers are in base-2 where the digits are "01". Answer the given question. You will end your response with a sentence in the format of `So the answer is <number>.`
+Question: What is 100000 + 101010 - 100011 equal to?
+Answer: So the answer is 100111.
+
+Instruction: Assuming that all numbers are in base-2 where the digits are "01". Answer the given question. You will end your response with a sentence in the format of `So the answer is <number>.`
+Question: What is 10100 - 1100 equal to?
+Answer: So the answer is 1000.
+
+Instruction: Assuming that all numbers are in base-2 where the digits are "01". Answer the given question. You will end your response with a sentence in the format of `So the answer is <number>.`
+Question: What is 101 + 100 equal to?
+Answer: So the answer is 1001.
+
+Instruction: Assuming that all numbers are in base-2 where the digits are "01". Answer the given question. You will end your response with a sentence in the format of `So the answer is <number>.`
+Question: What is 1001 + 101 * 100 equal to?
+Answer: So the answer is 11101.
+
+Instruction: Assuming that all numbers are in base-2 where the digits are "01". Answer the given question. You will end your response with a sentence in the format of `So the answer is <number>.`
+Question: What is 111010 - 10111 - 10 equal to?
+Answer: So the answer is 100001.
+
+Instruction: Assuming that all numbers are in base-2 where the digits are "01". Answer the given question. You will end your response with a sentence in the format of `So the answer is <number>.`
+Question: What is 10111 - 101 * 11 equal to?
+Answer: So the answer is 1000.
+

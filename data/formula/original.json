@@ -1,0 +1,7886 @@
+[
+  {
+    "ori_equation": "(16-3-4)*2=18",
+    "equation": "(16-3-4)*2=18",
+    "answer": "18",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "2+2/2=3",
+    "equation": "2+2/2=3",
+    "answer": "3",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "80000*1.5+80000-(80000+50000)=70000",
+    "equation": "80000*1.5+80000-(80000+50000)=70000",
+    "answer": "70000",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "3*3*60=540",
+    "equation": "3*3*60=540",
+    "answer": "540",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "3*20-15-25=20",
+    "equation": "3*20-15-25=20",
+    "answer": "20",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "16/2*(60/100*5)+16/2*5=64",
+    "equation": "16/2*(60/100*5)+16/2*5=64",
+    "answer": "64",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "20+2*20*4+20*4=260",
+    "equation": "20+2*20*4+20*4=260",
+    "answer": "260",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "200*40*0.01/2+200/2+20=160",
+    "equation": "200*40*0.01/2+200/2+20=160",
+    "answer": "160",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "3*60-(80*(4-2-0.5)+30*0.5)=45",
+    "equation": "3*60-(80*(4-2-0.5)+30*0.5)=45",
+    "answer": "45",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "10*40+10*1.2*(45-40)=460",
+    "equation": "10*40+10*1.2*(45-40)=460",
+    "answer": "460",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "3*60-30/100*3*60+3*60+60=366",
+    "equation": "3*60-30/100*3*60+3*60+60=366",
+    "answer": "366",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "3*68+2*80+6*55=694",
+    "equation": "3*68+2*80+6*55=694",
+    "answer": "694",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "90/(7*1.5-3)+1=13",
+    "equation": "90/(7*1.5-3)+1=13",
+    "answer": "13",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(5*2+2)*3/2=18",
+    "equation": "(5*2+2)*3/2=18",
+    "answer": "18",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(20-20*20/100-(20-20*20/100)*25/100)/20*100=60",
+    "equation": "(20-20*20/100-(20-20*20/100)*25/100)/20*100=60",
+    "answer": "60",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "5000*2.5/100=125",
+    "equation": "5000*2.5/100=125",
+    "answer": "125",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(150*2+2*80)/2=230",
+    "equation": "(150*2+2*80)/2=230",
+    "answer": "230",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(20*35+30*15)*50=57500",
+    "equation": "(20*35+30*15)*50=57500",
+    "answer": "57500",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "4*3*7/12=7",
+    "equation": "4*3*7/12=7",
+    "answer": "7",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(12-4-(12/4-1))/(12/4-1-1)=6",
+    "equation": "(12-4-(12/4-1))/(12/4-1-1)=6",
+    "answer": "6",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "10-1+(10-1)*2/3=15",
+    "equation": "10-1+(10-1)*2/3=15",
+    "answer": "15",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "31-(23-6)=14",
+    "equation": "31-(23-6)=14",
+    "answer": "14",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "3*1+2*2+0=7",
+    "equation": "3*1+2*2+0=7",
+    "answer": "7",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "2*(5-1)=8",
+    "equation": "2*(5-1)=8",
+    "answer": "8",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "19.5/(1-25/100)=26",
+    "equation": "19.5/(1-25/100)=26",
+    "answer": "26",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(50-(12+3*5+1.5*4))/8.5=2",
+    "equation": "(50-(12+3*5+1.5*4))/8.5=2",
+    "answer": "2",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "3*(16.5+22.5+42)=243",
+    "equation": "3*(16.5+22.5+42)=243",
+    "answer": "243",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "60/15*(60/15)=16.00",
+    "equation": "60/15*(60/15)=16.00",
+    "answer": "16.00",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "60-(20+15)=25",
+    "equation": "60-(20+15)=25",
+    "answer": "25",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "33*2+33+5=104",
+    "equation": "33*2+33+5=104",
+    "answer": "104",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "11/(7+11)*162+10=109",
+    "equation": "11/(7+11)*162+10=109",
+    "answer": "109",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(80+(20+80/2)+80*1.25)/3=80",
+    "equation": "(80+(20+80/2)+80*1.25)/3=80",
+    "answer": "80",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "10*0.5*7=35",
+    "equation": "10*0.5*7=35",
+    "answer": "35",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "40+30=70",
+    "equation": "40+30=70",
+    "answer": "70",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "40/2+5-2=23",
+    "equation": "40/2+5-2=23",
+    "answer": "23",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "4+4+4*0.25=9",
+    "equation": "4+4+4*0.25=9",
+    "answer": "9",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "5*2*30/4=75",
+    "equation": "5*2*30/4=75",
+    "answer": "75",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "13-(8*20+5)/15=2",
+    "equation": "13-(8*20+5)/15=2",
+    "answer": "2",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "60/((7-1)/2+(7-1)/2/2+(7-1)/2/2)=10",
+    "equation": "60/((7-1)/2+(7-1)/2/2+(7-1)/2/2)=10",
+    "answer": "10",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(3*2-3*2*2/3)*3*2+3*2*2/3*1.5=18",
+    "equation": "(3*2-3*2*2/3)*3*2+3*2*2/3*1.5=18",
+    "answer": "18",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "1*2*4=8",
+    "equation": "1*2*4=8",
+    "answer": "8",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "3*400-1000=200",
+    "equation": "3*400-1000=200",
+    "answer": "200",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "5*8-14=26",
+    "equation": "5*8-14=26",
+    "answer": "26",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "300/5*((2000-1800)/250)=48",
+    "equation": "300/5*((2000-1800)/250)=48",
+    "answer": "48",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "20/10*10*20/10-10*20/10=20",
+    "equation": "20/10*10*20/10-10*20/10=20",
+    "answer": "20",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "4*(5+(5+5*2/5)+5*2/5*(5+5*2/5))=104",
+    "equation": "4*(5+(5+5*2/5)+5*2/5*(5+5*2/5))=104",
+    "answer": "104",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "220+23-80=163",
+    "equation": "220+23-80=163",
+    "answer": "163",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "200+(40+40*0.5)*200/40*2=800",
+    "equation": "200+(40+40*0.5)*200/40*2=800",
+    "answer": "800",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "12*4/6=8",
+    "equation": "12*4/6=8",
+    "answer": "8",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "8*15-3/4*(8*15)=30",
+    "equation": "8*15-3/4*(8*15)=30",
+    "answer": "30",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "252*7/12*2=294",
+    "equation": "252*7/12*2=294",
+    "answer": "294",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(4-1)*10/6=5",
+    "equation": "(4-1)*10/6=5",
+    "answer": "5",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(15-30*0.25)/0.5=15",
+    "equation": "(15-30*0.25)/0.5=15",
+    "answer": "15",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "6*60+4*40-12*40=40",
+    "equation": "6*60+4*40-12*40=40",
+    "answer": "40",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "7+3*7+12=40",
+    "equation": "7+3*7+12=40",
+    "answer": "40",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(30-2)/2=14",
+    "equation": "(30-2)/2=14",
+    "answer": "14",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "42/(7+7)=3",
+    "equation": "42/(7+7)=3",
+    "answer": "3",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(5000-3755)/15=83",
+    "equation": "(5000-3755)/15=83",
+    "answer": "83",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "40+10+7=57.00",
+    "equation": "40+10+7=57.00",
+    "answer": "57.00",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "20*6+67=187",
+    "equation": "20*6+67=187",
+    "answer": "187",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "25-(1+20/100*25+2)=17",
+    "equation": "25-(1+20/100*25+2)=17",
+    "answer": "17",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "500+800+(500+800)*0.1=1430",
+    "equation": "500+800+(500+800)*0.1=1430",
+    "answer": "1430",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "50000*((30-20)*5/100)=25000",
+    "equation": "50000*((30-20)*5/100)=25000",
+    "answer": "25000",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "12/2*140+(140-10/100*140)*12/2=1596",
+    "equation": "12/2*140+(140-10/100*140)*12/2=1596",
+    "answer": "1596",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "100/4*12=300",
+    "equation": "100/4*12=300",
+    "answer": "300",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(2+2/2)*(2+2/2)*4=36",
+    "equation": "(2+2/2)*(2+2/2)*4=36",
+    "answer": "36",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "((1+1)*5+(1+1)*1)*4=48",
+    "equation": "((1+1)*5+(1+1)*1)*4=48",
+    "answer": "48",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "175+175-35+(175-35)*2=595",
+    "equation": "175+175-35+(175-35)*2=595",
+    "answer": "595",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(60*2+60)/5=36",
+    "equation": "(60*2+60)/5=36",
+    "answer": "36",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "100-5*8=60",
+    "equation": "100-5*8=60",
+    "answer": "60",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "15*15*(5*5+8)=7425",
+    "equation": "15*15*(5*5+8)=7425",
+    "answer": "7425",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "2*20+20=60",
+    "equation": "2*20+20=60",
+    "answer": "60",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "43*3+23*4=221",
+    "equation": "43*3+23*4=221",
+    "answer": "221",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(150+150*2/100)*5/(150*2/100)=255",
+    "equation": "(150+150*2/100)*5/(150*2/100)=255",
+    "answer": "255",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "12*(2.74+0.26)+9*(2.12-0.12)+17*(2.12-0.12)=88",
+    "equation": "12*(2.74+0.26)+9*(2.12-0.12)+17*(2.12-0.12)=88",
+    "answer": "88",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(16*2*2*2+16*2*2+16*2+16)/4=60",
+    "equation": "(16*2*2*2+16*2*2+16*2+16)/4=60",
+    "answer": "60",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(180*1+(365-180*1)*2)/110=5",
+    "equation": "(180*1+(365-180*1)*2)/110=5",
+    "answer": "5",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "400*1/2-400/4=100",
+    "equation": "400*1/2-400/4=100",
+    "answer": "100",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "18/3*2.5-18/2*1=6",
+    "equation": "18/3*2.5-18/2*1=6",
+    "answer": "6",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "100-100*0.3=70",
+    "equation": "100-100*0.3=70",
+    "answer": "70",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "24*1-(24*1/6*2+6)=10",
+    "equation": "24*1-(24*1/6*2+6)=10",
+    "answer": "10",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "10+21+23-(9+28)=17",
+    "equation": "10+21+23-(9+28)=17",
+    "answer": "17",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "125+125*4-2=623",
+    "equation": "125+125*4-2=623",
+    "answer": "623",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "3*25*8=600",
+    "equation": "3*25*8=600",
+    "answer": "600",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "22-14/2=15",
+    "equation": "22-14/2=15",
+    "answer": "15",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "4*(34-23)*1=44",
+    "equation": "4*(34-23)*1=44",
+    "answer": "44",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "4+3*4+3*4/2=22",
+    "equation": "4+3*4+3*4/2=22",
+    "answer": "22",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "600*12+3*(10/100*(600*12))=9360",
+    "equation": "600*12+3*(10/100*(600*12))=9360",
+    "answer": "9360",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "88000/(10+1)=8000",
+    "equation": "88000/(10+1)=8000",
+    "answer": "8000",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "16*0.75*2=24",
+    "equation": "16*0.75*2=24",
+    "answer": "24",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "20*10+10/2*10/2=225",
+    "equation": "20*10+10/2*10/2=225",
+    "answer": "225",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "4+4+2+3*(4+2)=28",
+    "equation": "4+4+2+3*(4+2)=28",
+    "answer": "28",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "10+1-2-5=4",
+    "equation": "10+1-2-5=4",
+    "answer": "4",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "38+2-(38+2)*0.1=36",
+    "equation": "38+2-(38+2)*0.1=36",
+    "answer": "36",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "60*2+60-12+(60*2+60)=348",
+    "equation": "60*2+60-12+(60*2+60)=348",
+    "answer": "348",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "200-200*2/5-(200-200*2/5)*2/3=40",
+    "equation": "200-200*2/5-(200-200*2/5)*2/3=40",
+    "answer": "40",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "9-9*2/3=3",
+    "equation": "9-9*2/3=3",
+    "answer": "3",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "3*32*2/16=12",
+    "equation": "3*32*2/16=12",
+    "answer": "12",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "30-5-20=5",
+    "equation": "30-5-20=5",
+    "answer": "5",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "2*40+18-40*1=58",
+    "equation": "2*40+18-40*1=58",
+    "answer": "58",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "60+10+60+20+1/4*20+20=175",
+    "equation": "60+10+60+20+1/4*20+20=175",
+    "answer": "175",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(4+20+7+8-15)/4=6",
+    "equation": "(4+20+7+8-15)/4=6",
+    "answer": "6",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "4*5+3*2=26",
+    "equation": "4*5+3*2=26",
+    "answer": "26",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "42/3*10=140",
+    "equation": "42/3*10=140",
+    "answer": "140",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "1000-1000/4-(1000-1000/4)/3=500",
+    "equation": "1000-1000/4-(1000-1000/4)/3=500",
+    "answer": "500",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "5*3+5=20",
+    "equation": "5*3+5=20",
+    "answer": "20",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(5-2*1)*(6-2*1)*(5-2*1)*(6-2*1-2*1)=72",
+    "equation": "(5-2*1)*(6-2*1)*(5-2*1)*(6-2*1-2*1)=72",
+    "answer": "72",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(7-1-1-1-1/2-2)/(1/2)=3",
+    "equation": "(7-1-1-1-1/2-2)/(1/2)=3",
+    "answer": "3",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(110+5-15)/2=50",
+    "equation": "(110+5-15)/2=50",
+    "answer": "50",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "3*10-0.2*10=28",
+    "equation": "3*10-0.2*10=28",
+    "answer": "28",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(24*2+14*3)/2=45",
+    "equation": "(24*2+14*3)/2=45",
+    "answer": "45",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "20*64/16/10*2=16",
+    "equation": "20*64/16/10*2=16",
+    "answer": "16",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "4*2*3=24",
+    "equation": "4*2*3=24",
+    "answer": "24",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "2*15-5=25",
+    "equation": "2*15-5=25",
+    "answer": "25",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "1800/6/50=6",
+    "equation": "1800/6/50=6",
+    "answer": "6",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(10*10+5*16)*1.5-(10*10+5*16)=90",
+    "equation": "(10*10+5*16)*1.5-(10*10+5*16)=90",
+    "answer": "90",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "7/(7+13)*120=42",
+    "equation": "7/(7+13)*120=42",
+    "answer": "42",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "60*3*2=360",
+    "equation": "60*3*2=360",
+    "answer": "360",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(30-2*5)/5=4",
+    "equation": "(30-2*5)/5=4",
+    "answer": "4",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "40000-30/100*40000+40/100*(40000-30/100*40000)+(40000+40/100*40000)=95200",
+    "equation": "40000-30/100*40000+40/100*(40000-30/100*40000)+(40000+40/100*40000)=95200",
+    "answer": "95200",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "30*2*4=240",
+    "equation": "30*2*4=240",
+    "answer": "240",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "5+5*2+8+8/2=27",
+    "equation": "5+5*2+8+8/2=27",
+    "answer": "27",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "8+(8-2)*2+4*(8-2+1)=48",
+    "equation": "8+(8-2)*2+4*(8-2+1)=48",
+    "answer": "48",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "10*3+5*(7-3)=50",
+    "equation": "10*3+5*(7-3)=50",
+    "answer": "50",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "30-60/3=10",
+    "equation": "30-60/3=10",
+    "answer": "10",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "12+3-5=10",
+    "equation": "12+3-5=10",
+    "answer": "10",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "38+38+6=82",
+    "equation": "38+38+6=82",
+    "answer": "82",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "50+20+50=120",
+    "equation": "50+20+50=120",
+    "answer": "120",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "10*(3*15-5)+20*15+3*15*4=880",
+    "equation": "10*(3*15-5)+20*15+3*15*4=880",
+    "answer": "880",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "500*24/60*(500*24/60-150)=10000",
+    "equation": "500*24/60*(500*24/60-150)=10000",
+    "answer": "10000",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "60-60/3-10=30",
+    "equation": "60-60/3-10=30",
+    "answer": "30",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "500+500-60=940",
+    "equation": "500+500-60=940",
+    "answer": "940",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(2+4+2+2)*(2+4)=60",
+    "equation": "(2+4+2+2)*(2+4)=60",
+    "answer": "60",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "41-(4+4*6)=13",
+    "equation": "41-(4+4*6)=13",
+    "answer": "13",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "4*12*15=720",
+    "equation": "4*12*15=720",
+    "answer": "720",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(20-5)*3-5=40",
+    "equation": "(20-5)*3-5=40",
+    "answer": "40",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "27*(1/3)*(2/3)=6",
+    "equation": "27*(1/3)*(2/3)=6",
+    "answer": "6",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "20+4+5=29.00",
+    "equation": "20+4+5=29.00",
+    "answer": "29.00",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "75-5*8+(100-5*6)=105",
+    "equation": "75-5*8+(100-5*6)=105",
+    "answer": "105",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "12*4+22=70",
+    "equation": "12*4+22=70",
+    "answer": "70",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(20-(12+4))/20*100=20",
+    "equation": "(20-(12+4))/20*100=20",
+    "answer": "20",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "4*(700/(1+2+2*2))=400",
+    "equation": "4*(700/(1+2+2*2))=400",
+    "answer": "400",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "2*7*10=140",
+    "equation": "2*7*10=140",
+    "answer": "140",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "2+3+3+3+4+(3+3+4)*0.1=16",
+    "equation": "2+3+3+3+4+(3+3+4)*0.1=16",
+    "answer": "16",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "92-((3+5)*2*2+(3+5)*1*5)=20",
+    "equation": "92-((3+5)*2*2+(3+5)*1*5)=20",
+    "answer": "20",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "100*10*12/3=4000",
+    "equation": "100*10*12/3=4000",
+    "answer": "4000",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "500+500*3+500*0.25=2125",
+    "equation": "500+500*3+500*0.25=2125",
+    "answer": "2125",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "30*1+30*1*2-30*1/2=75",
+    "equation": "30*1+30*1*2-30*1/2=75",
+    "answer": "75",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "12+10+8=30",
+    "equation": "12+10+8=30",
+    "answer": "30",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "12/3*12/3=16",
+    "equation": "12/3*12/3=16",
+    "answer": "16",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "2*5280/264-3*5280/440=4",
+    "equation": "2*5280/264-3*5280/440=4",
+    "answer": "4",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(2*5+3*3+1*1)*0.25=5",
+    "equation": "(2*5+3*3+1*1)*0.25=5",
+    "answer": "5",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "10-10*6*0.1=4",
+    "equation": "10-10*6*0.1=4",
+    "answer": "4",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "14*1+14*1/2+3*3+(5+1)*3=48",
+    "equation": "14*1+14*1/2+3*3+(5+1)*3=48",
+    "answer": "48",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "3*1*3*1*16+2*2*2*16=272",
+    "equation": "3*1*3*1*16+2*2*2*16=272",
+    "answer": "272",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "60*2+(300*4+120*6)/12=280",
+    "equation": "60*2+(300*4+120*6)/12=280",
+    "answer": "280",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(200+400+100)*2=1400",
+    "equation": "(200+400+100)*2=1400",
+    "answer": "1400",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "100*2*15-(34*(40*2)+100*2)=80",
+    "equation": "100*2*15-(34*(40*2)+100*2)=80",
+    "answer": "80",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "4*1.5+2*4+20=34",
+    "equation": "4*1.5+2*4+20=34",
+    "answer": "34",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "11+6-2=15",
+    "equation": "11+6-2=15",
+    "answer": "15",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "2*((17+7)/3)=16",
+    "equation": "2*((17+7)/3)=16",
+    "answer": "16",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "10+10-5+6+6-3+6-3+6-3+2=32",
+    "equation": "10+10-5+6+6-3+6-3+6-3+2=32",
+    "answer": "32",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "20+36/2*(20*20/100)=92",
+    "equation": "20+36/2*(20*20/100)=92",
+    "answer": "92",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "5*4+3*5+3*5=50",
+    "equation": "5*4+3*5+3*5=50",
+    "answer": "50",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "35*3-90=15",
+    "equation": "35*3-90=15",
+    "answer": "15",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "1500-(1090+157+74+102)=77",
+    "equation": "1500-(1090+157+74+102)=77",
+    "answer": "77",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "15*3/9=5",
+    "equation": "15*3/9=5",
+    "answer": "5",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "2*(24/3)=16",
+    "equation": "2*(24/3)=16",
+    "answer": "16",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "2+2*8=18",
+    "equation": "2+2*8=18",
+    "answer": "18",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "5*20+2*10=120",
+    "equation": "5*20+2*10=120",
+    "answer": "120",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "25+25*3+(25+25*3)/2=150",
+    "equation": "25+25*3+(25+25*3)/2=150",
+    "answer": "150",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "80*8+90*6+3*10=1210",
+    "equation": "80*8+90*6+3*10=1210",
+    "answer": "1210",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "2*8+2*8+(2*8+3)=51",
+    "equation": "2*8+2*8+(2*8+3)=51",
+    "answer": "51",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(300+200+300+200+(300+200+300+200)*0.5)*12=18000",
+    "equation": "(300+200+300+200+(300+200+300+200)*0.5)*12=18000",
+    "answer": "18000",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "60*1.5+300/60=95",
+    "equation": "60*1.5+300/60=95",
+    "answer": "95",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "25/(20*0.5-(3+2))*3=15",
+    "equation": "25/(20*0.5-(3+2))*3=15",
+    "answer": "15",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "240-80-60=100",
+    "equation": "240-80-60=100",
+    "answer": "100",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "1/2*(6000*1-(6000*1/3+1/4*6000))-(200+700)=350",
+    "equation": "1/2*(6000*1-(6000*1/3+1/4*6000))-(200+700)=350",
+    "answer": "350",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "40-4+40+40-4+10=122",
+    "equation": "40-4+40+40-4+10=122",
+    "answer": "122",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(5+8)*10=130",
+    "equation": "(5+8)*10=130",
+    "answer": "130",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "80-80*3/4=20",
+    "equation": "80-80*3/4=20",
+    "answer": "20",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "4*(200/5)=160",
+    "equation": "4*(200/5)=160",
+    "answer": "160",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "5+(30-2)/2+2+2=23",
+    "equation": "5+(30-2)/2+2+2=23",
+    "answer": "23",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "60+(60-3)+(60-3-3)+(60-3-3-3)-4*55=2",
+    "equation": "60+(60-3)+(60-3-3)+(60-3-3-3)-4*55=2",
+    "answer": "2",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "3/6-3/6*(3/6)=0.25",
+    "equation": "3/6-3/6*(3/6)=0.25",
+    "answer": "0.25",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "20*1/2+20*1=30",
+    "equation": "20*1/2+20*1=30",
+    "answer": "30",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "90/3/6=5",
+    "equation": "90/3/6=5",
+    "answer": "5",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "100+100*2/100*3=106",
+    "equation": "100+100*2/100*3=106",
+    "answer": "106",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "400/(30-(20+2))=50",
+    "equation": "400/(30-(20+2))=50",
+    "answer": "50",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "102/3=34",
+    "equation": "102/3=34",
+    "answer": "34",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "3*60*2=360",
+    "equation": "3*60*2=360",
+    "answer": "360",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "10*3.5/7=5",
+    "equation": "10*3.5/7=5",
+    "answer": "5",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(10-2)*10+50-((10-2)*10+50)*0.3=91",
+    "equation": "(10-2)*10+50-((10-2)*10+50)*0.3=91",
+    "answer": "91",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "18*1-18*1/3+18*1-18*1/3=24",
+    "equation": "18*1-18*1/3+18*1-18*1/3=24",
+    "answer": "24",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "20-5*2=10",
+    "equation": "20-5*2=10",
+    "answer": "10",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "8*(1.2+0.3)=12",
+    "equation": "8*(1.2+0.3)=12",
+    "answer": "12",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "200-40*2=120",
+    "equation": "200-40*2=120",
+    "answer": "120",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "23786-(8417+9092)=6277",
+    "equation": "23786-(8417+9092)=6277",
+    "answer": "6277",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "20+3*20-20+3*20+2*(3*20-20+3*20)=320",
+    "equation": "20+3*20-20+3*20+2*(3*20-20+3*20)=320",
+    "answer": "320",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "5*1000/2+5*2*1000/2=7500",
+    "equation": "5*1000/2+5*2*1000/2=7500",
+    "answer": "7500",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "6*5+5*5=55",
+    "equation": "6*5+5*5=55",
+    "answer": "55",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "2000*52+0.05*2000*52+5000=114200",
+    "equation": "2000*52+0.05*2000*52+5000=114200",
+    "answer": "114200",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "10*5*2=100",
+    "equation": "10*5*2=100",
+    "answer": "100",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "2*7+(2+1)*(2+1)+8=31",
+    "equation": "2*7+(2+1)*(2+1)+8=31",
+    "answer": "31",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "22+10+6*9+2*6=98",
+    "equation": "22+10+6*9+2*6=98",
+    "answer": "98",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "93*5-(89+92+100+86)=98",
+    "equation": "93*5-(89+92+100+86)=98",
+    "answer": "98",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "5*25*4+2*60*3=860",
+    "equation": "5*25*4+2*60*3=860",
+    "answer": "860",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "40*25+40/2*80=2600",
+    "equation": "40*25+40/2*80=2600",
+    "answer": "2600",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "4+4*3+4*3*5=76",
+    "equation": "4+4*3+4*3*5=76",
+    "answer": "76",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "34800/(20*12)=145",
+    "equation": "34800/(20*12)=145",
+    "answer": "145",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(30+2*20-(10+4*5))/4=10",
+    "equation": "(30+2*20-(10+4*5))/4=10",
+    "answer": "10",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "32/8=4",
+    "equation": "32/8=4",
+    "answer": "4",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(6*2+1.5*2)/(1.5*2)=5",
+    "equation": "(6*2+1.5*2)/(1.5*2)=5",
+    "answer": "5",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "500-(100+50+100)=250",
+    "equation": "500-(100+50+100)=250",
+    "answer": "250",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "4*4/2=8",
+    "equation": "4*4/2=8",
+    "answer": "8",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(320+32)/8=44",
+    "equation": "(320+32)/8=44",
+    "answer": "44",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "2000+2000*10/100-165*12=220",
+    "equation": "2000+2000*10/100-165*12=220",
+    "answer": "220",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "4+4+7=15",
+    "equation": "4+4+7=15",
+    "answer": "15",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(21*2+3+3*21+3+21+3)/3=45",
+    "equation": "(21*2+3+3*21+3+21+3)/3=45",
+    "answer": "45",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "251-(68+(1/2*68+10)+(68+17))=54",
+    "equation": "251-(68+(1/2*68+10)+(68+17))=54",
+    "answer": "54",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "10*3+5*8=70",
+    "equation": "10*3+5*8=70",
+    "answer": "70",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "120-90+(120-90)*2=90",
+    "equation": "120-90+(120-90)*2=90",
+    "answer": "90",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "90-40+90=140",
+    "equation": "90-40+90=140",
+    "answer": "140",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "15000+15000/3=20000",
+    "equation": "15000+15000/3=20000",
+    "answer": "20000",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "30*3+30*3=180",
+    "equation": "30*3+30*3=180",
+    "answer": "180",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "6+6/2=9",
+    "equation": "6+6/2=9",
+    "answer": "9",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "20+14+40-8+30=96",
+    "equation": "20+14+40-8+30=96",
+    "answer": "96",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "6.5+2+1+1+2*0.25+2+1-5=9",
+    "equation": "6.5+2+1+1+2*0.25+2+1-5=9",
+    "answer": "9",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "360/(4+4/2)/(360/(4+4/2))=1",
+    "equation": "360/(4+4/2)/(360/(4+4/2))=1",
+    "answer": "1",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "120-30/100*120-3/4*(120-30/100*120)=21",
+    "equation": "120-30/100*120-3/4*(120-30/100*120)=21",
+    "answer": "21",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "20000*12+20000*12*0.1+12*1000=276000",
+    "equation": "20000*12+20000*12*0.1+12*1000=276000",
+    "answer": "276000",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(20+5)*2=50",
+    "equation": "(20+5)*2=50",
+    "answer": "50",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "50/2+50=75",
+    "equation": "50/2+50=75",
+    "answer": "75",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "36-(36/3+36/3)=12",
+    "equation": "36-(36/3+36/3)=12",
+    "answer": "12",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(6+6/2)*7/(6/2)=21",
+    "equation": "(6+6/2)*7/(6/2)=21",
+    "answer": "21",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "4*20/8=10",
+    "equation": "4*20/8=10",
+    "answer": "10",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "25+25/5+25/5/(25/5)=31",
+    "equation": "25+25/5+25/5/(25/5)=31",
+    "answer": "31",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(20+10)*3=90",
+    "equation": "(20+10)*3=90",
+    "answer": "90",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "20+20+5+20+5-2=68",
+    "equation": "20+20+5+20+5-2=68",
+    "answer": "68",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "1000-30/100*1000-3/5*(1000-30/100*1000)=280",
+    "equation": "1000-30/100*1000-3/5*(1000-30/100*1000)=280",
+    "answer": "280",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "54-(54/2+6)=21",
+    "equation": "54-(54/2+6)=21",
+    "answer": "21",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(2+1)*2=6",
+    "equation": "(2+1)*2=6",
+    "answer": "6",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(5-2)*2*5*(5-2)*2/60=3",
+    "equation": "(5-2)*2*5*(5-2)*2/60=3",
+    "answer": "3",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "1000-15*30-300=250",
+    "equation": "1000-15*30-300=250",
+    "answer": "250",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "20=20",
+    "equation": "20=20",
+    "answer": "20",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(32-4)/2/2=7",
+    "equation": "(32-4)/2/2=7",
+    "answer": "7",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "250*6*4*5-250*6*4*5*0.1=27000",
+    "equation": "250*6*4*5-250*6*4*5*0.1=27000",
+    "answer": "27000",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(12+43+15+4+22)/3=32",
+    "equation": "(12+43+15+4+22)/3=32",
+    "answer": "32",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "1.5*50*4=300",
+    "equation": "1.5*50*4=300",
+    "answer": "300",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(4*5+2*13-(5+13))*200=5600",
+    "equation": "(4*5+2*13-(5+13))*200=5600",
+    "answer": "5600",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "20-(3*20*0.5-15-12)=17",
+    "equation": "20-(3*20*0.5-15-12)=17",
+    "answer": "17",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "61-9+18=70",
+    "equation": "61-9+18=70",
+    "answer": "70",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "3*(15-3)+15-3+15+10=73",
+    "equation": "3*(15-3)+15-3+15+10=73",
+    "answer": "73",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "3*4+6=18",
+    "equation": "3*4+6=18",
+    "answer": "18",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "4*(30-30*0.01*30)=84",
+    "equation": "4*(30-30*0.01*30)=84",
+    "answer": "84",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "8*20+8*40/10=192",
+    "equation": "8*20+8*40/10=192",
+    "answer": "192",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "40+(100+40*5+40*5)/100=45",
+    "equation": "40+(100+40*5+40*5)/100=45",
+    "answer": "45",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "200/10*400-200/10*400*30*0.01=5600",
+    "equation": "200/10*400-200/10*400*30*0.01=5600",
+    "answer": "5600",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "0.5*8+2=6",
+    "equation": "0.5*8+2=6",
+    "answer": "6",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "52-8+52+(52-8+4)+(52-8+4)/2=168",
+    "equation": "52-8+52+(52-8+4)+(52-8+4)/2=168",
+    "answer": "168",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(36+30)/12*2=11",
+    "equation": "(36+30)/12*2=11",
+    "answer": "11",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "9300/3*2/100=62",
+    "equation": "9300/3*2/100=62",
+    "answer": "62",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "5*50+20=270",
+    "equation": "5*50+20=270",
+    "answer": "270",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "5+6-6/2=8",
+    "equation": "5+6-6/2=8",
+    "answer": "8",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "100+25+50+100+25+100=400",
+    "equation": "100+25+50+100+25+100=400",
+    "answer": "400",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "350000+350000*5/100+350000*12/100-400000=9500",
+    "equation": "350000+350000*5/100+350000*12/100-400000=9500",
+    "answer": "9500",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "400000-(400000*3/100+400000*5/100+250000)=118000",
+    "equation": "400000-(400000*3/100+400000*5/100+250000)=118000",
+    "answer": "118000",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "20+20*0.4+20+(20+20*0.4+20-5)=91",
+    "equation": "20+20*0.4+20+(20+20*0.4+20-5)=91",
+    "answer": "91",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "5*50+75*15=1375",
+    "equation": "5*50+75*15=1375",
+    "answer": "1375",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "16/2/2=4",
+    "equation": "16/2/2=4",
+    "answer": "4",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "300+300+12+300/2=762",
+    "equation": "300+300+12+300/2=762",
+    "answer": "762",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(3*2+4)*2=20",
+    "equation": "(3*2+4)*2=20",
+    "answer": "20",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "20-(4.2+9.45+1.35)=5",
+    "equation": "20-(4.2+9.45+1.35)=5",
+    "answer": "5",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(1800-(900+900/10+2*900/10))/2=315",
+    "equation": "(1800-(900+900/10+2*900/10))/2=315",
+    "answer": "315",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "80*30+20*40=3200",
+    "equation": "80*30+20*40=3200",
+    "answer": "3200",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "54+2*54/3+4*(54+6)/5=138",
+    "equation": "54+2*54/3+4*(54+6)/5=138",
+    "answer": "138",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "80-2/5*80-1/2*(80-2/5*80)-5/8*(80-2/5*80-1/2*(80-2/5*80))=9",
+    "equation": "80-2/5*80-1/2*(80-2/5*80)-5/8*(80-2/5*80-1/2*(80-2/5*80))=9",
+    "answer": "9",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(3*30+10*15)/60=4",
+    "equation": "(3*30+10*15)/60=4",
+    "answer": "4",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "10+10+10+10=40",
+    "equation": "10+10+10+10=40",
+    "answer": "40",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "18/3=6",
+    "equation": "18/3=6",
+    "answer": "6",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "0.25*20+0.5*4=7",
+    "equation": "0.25*20+0.5*4=7",
+    "answer": "7",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "1/2*(60*70/2+40*70)=2450",
+    "equation": "1/2*(60*70/2+40*70)=2450",
+    "answer": "2450",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "15*((12+3+12*2)/3)=195",
+    "equation": "15*((12+3+12*2)/3)=195",
+    "answer": "195",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(25-8*1)*4=68",
+    "equation": "(25-8*1)*4=68",
+    "answer": "68",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "20*2*2+20*2+20*2+20+20*2*2+20*2+20*2+20=360",
+    "equation": "20*2*2+20*2+20*2+20+20*2*2+20*2+20*2+20=360",
+    "answer": "360",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "9*2+3=21",
+    "equation": "9*2+3=21",
+    "answer": "21",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "5*25+2*10-55=90",
+    "equation": "5*25+2*10-55=90",
+    "answer": "90",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(76-(3*8+2*6))/5=8",
+    "equation": "(76-(3*8+2*6))/5=8",
+    "answer": "8",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "75*80/2000=3",
+    "equation": "75*80/2000=3",
+    "answer": "3",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "480/(1/2*60)=16",
+    "equation": "480/(1/2*60)=16",
+    "answer": "16",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "10*(22+22-5)=390",
+    "equation": "10*(22+22-5)=390",
+    "answer": "390",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(8*5-6*4)/8=2",
+    "equation": "(8*5-6*4)/8=2",
+    "answer": "2",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(11-8-0.5)*60*5/10=75",
+    "equation": "(11-8-0.5)*60*5/10=75",
+    "answer": "75",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "2*21+(21-3)+21+2=83",
+    "equation": "2*21+(21-3)+21+2=83",
+    "answer": "83",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "15-(8+8/2)=3",
+    "equation": "15-(8+8/2)=3",
+    "answer": "3",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "100+50+20+(100+20+2*20+2*20)=370",
+    "equation": "100+50+20+(100+20+2*20+2*20)=370",
+    "answer": "370",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "42/(0.2*2*5*7)=3",
+    "equation": "42/(0.2*2*5*7)=3",
+    "answer": "3",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "120-(15+12+18+20)=55",
+    "equation": "120-(15+12+18+20)=55",
+    "answer": "55",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "200+3*50+3*50=500",
+    "equation": "200+3*50+3*50=500",
+    "answer": "500",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "30*2*5*2*50+150*12=31800",
+    "equation": "30*2*5*2*50+150*12=31800",
+    "answer": "31800",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(23+16)*2=78",
+    "equation": "(23+16)*2=78",
+    "answer": "78",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "32/4=8",
+    "equation": "32/4=8",
+    "answer": "8",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "50-50/2-10=15",
+    "equation": "50-50/2-10=15",
+    "answer": "15",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "20*(250-(45*2+45)-50)=1300",
+    "equation": "20*(250-(45*2+45)-50)=1300",
+    "answer": "1300",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "5*4*10*10+300*4=3200",
+    "equation": "5*4*10*10+300*4=3200",
+    "answer": "3200",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "20-20*0.8=4",
+    "equation": "20-20*0.8=4",
+    "answer": "4",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(60-60*2/3)/2=10",
+    "equation": "(60-60*2/3)/2=10",
+    "answer": "10",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "8/(8/4/4)=16",
+    "equation": "8/(8/4/4)=16",
+    "answer": "16",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "0.5*((13-11)*(13-11))=2",
+    "equation": "0.5*((13-11)*(13-11))=2",
+    "answer": "2",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "15/3+15/(15/3)=8",
+    "equation": "15/3+15/(15/3)=8",
+    "answer": "8",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "6000-6*100-3*50-(700+5*100)-2000=2050",
+    "equation": "6000-6*100-3*50-(700+5*100)-2000=2050",
+    "answer": "2050",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(3*3+4)*7=91",
+    "equation": "(3*3+4)*7=91",
+    "answer": "91",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "30-3+5=32",
+    "equation": "30-3+5=32",
+    "answer": "32",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "3000*(1/2*(46-6))*2=120000",
+    "equation": "3000*(1/2*(46-6))*2=120000",
+    "answer": "120000",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "105/(1+2+1/2)=30",
+    "equation": "105/(1+2+1/2)=30",
+    "answer": "30",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "2*6+2*6-8/4-8=14",
+    "equation": "2*6+2*6-8/4-8=14",
+    "answer": "14",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(2/5*20+20+50)*2=156",
+    "equation": "(2/5*20+20+50)*2=156",
+    "answer": "156",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "6*4*5*0.1=12",
+    "equation": "6*4*5*0.1=12",
+    "answer": "12",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "3*30+30+10/100*30=123",
+    "equation": "3*30+30+10/100*30=123",
+    "answer": "123",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "45*(1+3)/3-45=15",
+    "equation": "45*(1+3)/3-45=15",
+    "answer": "15",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "25+15-(25+15)/4-22=8",
+    "equation": "25+15-(25+15)/4-22=8",
+    "answer": "8",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "4/2-1=1",
+    "equation": "4/2-1=1",
+    "answer": "1",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(26+46)/((26-2)/3)=9",
+    "equation": "(26+46)/((26-2)/3)=9",
+    "answer": "9",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "65/13*12+15=75",
+    "equation": "65/13*12+15=75",
+    "answer": "75",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "7*2=14",
+    "equation": "7*2=14",
+    "answer": "14",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(2000+400)*(100-2/5*100)+2000*2/5*100=224000",
+    "equation": "(2000+400)*(100-2/5*100)+2000*2/5*100=224000",
+    "answer": "224000",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "20-8+7-5=14",
+    "equation": "20-8+7-5=14",
+    "answer": "14",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "24-2-14+2*14-3-2=31",
+    "equation": "24-2-14+2*14-3-2=31",
+    "answer": "31",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(100-60)*3/60=2",
+    "equation": "(100-60)*3/60=2",
+    "answer": "2",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "7+10-3=14",
+    "equation": "7+10-3=14",
+    "answer": "14",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "43-80/20-80/20*2=31",
+    "equation": "43-80/20-80/20*2=31",
+    "answer": "31",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "42000-2000*15*0.2-(42000-2000*15*0.2)*10*0.01-(2000*15-2000*15*0.2)=8400",
+    "equation": "42000-2000*15*0.2-(42000-2000*15*0.2)*10*0.01-(2000*15-2000*15*0.2)=8400",
+    "answer": "8400",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "220*0.4/2=44",
+    "equation": "220*0.4/2=44",
+    "answer": "44",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "1350+6*350-(1100+9*250)=100",
+    "equation": "1350+6*350-(1100+9*250)=100",
+    "answer": "100",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(8+10+1+5)/4=6",
+    "equation": "(8+10+1+5)/4=6",
+    "answer": "6",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "30*8+70=310",
+    "equation": "30*8+70=310",
+    "answer": "310",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "8*8+8*8*0.5-(8*8+8*8*0.5)*25*0.01=72",
+    "equation": "8*8+8*8*0.5-(8*8+8*8*0.5)*25*0.01=72",
+    "answer": "72",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "2*3/2-2=1",
+    "equation": "2*3/2-2=1",
+    "answer": "1",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(200+10)/3-10=60",
+    "equation": "(200+10)/3-10=60",
+    "answer": "60",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(60-60*2/3)*4+(60-60*2/3)*4=160",
+    "equation": "(60-60*2/3)*4+(60-60*2/3)*4=160",
+    "answer": "160",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "3+4-3=4",
+    "equation": "3+4-3=4",
+    "answer": "4",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "50-20+(50+10+3*50)+20=260",
+    "equation": "50-20+(50+10+3*50)+20=260",
+    "answer": "260",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "24+2*24+15=87",
+    "equation": "24+2*24+15=87",
+    "answer": "87",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(5000+5000/5)*30=180000",
+    "equation": "(5000+5000/5)*30=180000",
+    "answer": "180000",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "4+7-(4+5)=2",
+    "equation": "4+7-(4+5)=2",
+    "answer": "2",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "50*3+40*4=310",
+    "equation": "50*3+40*4=310",
+    "answer": "310",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "36-4*5-1*7=9",
+    "equation": "36-4*5-1*7=9",
+    "answer": "9",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "30*2-30*2*0.4=36",
+    "equation": "30*2-30*2*0.4=36",
+    "answer": "36",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(5*220-10*100)/(10*100)*100=10",
+    "equation": "(5*220-10*100)/(10*100)*100=10",
+    "answer": "10",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(25*4+20+25*4)*12=2640",
+    "equation": "(25*4+20+25*4)*12=2640",
+    "answer": "2640",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "3*1/2=1.5",
+    "equation": "3*1/2=1.5",
+    "answer": "1.5",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "100-(30*2+30)=10",
+    "equation": "100-(30*2+30)=10",
+    "answer": "10",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "36-(11+4)=21",
+    "equation": "36-(11+4)=21",
+    "answer": "21",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(6/2*2+6/2+6/2*2)/0.3*0.4=20",
+    "equation": "(6/2*2+6/2+6/2*2)/0.3*0.4=20",
+    "answer": "20",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "400-80-10*20-5*15=45",
+    "equation": "400-80-10*20-5*15=45",
+    "answer": "45",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "2*(6+6+5)=34",
+    "equation": "2*(6+6+5)=34",
+    "answer": "34",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "28+10-(6*2+5*1)=21",
+    "equation": "28+10-(6*2+5*1)=21",
+    "answer": "21",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "90/(5+5+10*2)-1=2",
+    "equation": "90/(5+5+10*2)-1=2",
+    "answer": "2",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(5-1)*5=20",
+    "equation": "(5-1)*5=20",
+    "answer": "20",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(10-40*0.05/0.5)/1.5=4",
+    "equation": "(10-40*0.05/0.5)/1.5=4",
+    "answer": "4",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(45+5)/2=25",
+    "equation": "(45+5)/2=25",
+    "answer": "25",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "18000/(3*(100+75+100+75-50))=20",
+    "equation": "18000/(3*(100+75+100+75-50))=20",
+    "answer": "20",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "2*4+(2+8)/2*3=23",
+    "equation": "2*4+(2+8)/2*3=23",
+    "answer": "23",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(200+10)/70+(200+10)/70=6",
+    "equation": "(200+10)/70+(200+10)/70=6",
+    "answer": "6",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "96-43-4=49",
+    "equation": "96-43-4=49",
+    "answer": "49",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "6+6*2=18",
+    "equation": "6+6*2=18",
+    "answer": "18",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "42-(15+18)=9",
+    "equation": "42-(15+18)=9",
+    "answer": "9",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "50-3-(4*3-5)*3-(4*3-5)=19",
+    "equation": "50-3-(4*3-5)*3-(4*3-5)=19",
+    "answer": "19",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "8+3*8-14=18",
+    "equation": "8+3*8-14=18",
+    "answer": "18",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "44*20*1.2+2*5+1/4*44*12=1198",
+    "equation": "44*20*1.2+2*5+1/4*44*12=1198",
+    "answer": "1198",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "400-20/100*400=320",
+    "equation": "400-20/100*400=320",
+    "answer": "320",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "14*2/2+14*2+14*2/2-6=50",
+    "equation": "14*2/2+14*2+14*2/2-6=50",
+    "answer": "50",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "1+2+2*1=5",
+    "equation": "1+2+2*1=5",
+    "answer": "5",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "400000-40/100*400000=240000",
+    "equation": "400000-40/100*400000=240000",
+    "answer": "240000",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "30/2*1+30/2*1*2=45",
+    "equation": "30/2*1+30/2*1*2=45",
+    "answer": "45",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(12-6)*8=48",
+    "equation": "(12-6)*8=48",
+    "answer": "48",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "40-40/2-(40-40/2)/4=15",
+    "equation": "40-40/2-(40-40/2)/4=15",
+    "answer": "15",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "56/4+12+2*12=50",
+    "equation": "56/4+12+2*12=50",
+    "answer": "50",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "50-(10*2+15)=15",
+    "equation": "50-(10*2+15)=15",
+    "answer": "15",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "23+42-44=21",
+    "equation": "23+42-44=21",
+    "answer": "21",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(3650+3650*0.1)/5=803",
+    "equation": "(3650+3650*0.1)/5=803",
+    "answer": "803",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "14*8-9*5=67",
+    "equation": "14*8-9*5=67",
+    "answer": "67",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "50+80+80+40+2*50=350",
+    "equation": "50+80+80+40+2*50=350",
+    "answer": "350",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(3*12*1-18)/(3*12*1/4)=2",
+    "equation": "(3*12*1-18)/(3*12*1/4)=2",
+    "answer": "2",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "12.8/2*5=32",
+    "equation": "12.8/2*5=32",
+    "answer": "32",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "52/2/2+3=16",
+    "equation": "52/2/2+3=16",
+    "answer": "16",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(65+94+81+86+74)/5=80",
+    "equation": "(65+94+81+86+74)/5=80",
+    "answer": "80",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "2*6+3*8=36",
+    "equation": "2*6+3*8=36",
+    "answer": "36",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "66+66/3=88",
+    "equation": "66+66/3=88",
+    "answer": "88",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "2*2*9-30=6",
+    "equation": "2*2*9-30=6",
+    "answer": "6",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "144/(6+4+2)=12",
+    "equation": "144/(6+4+2)=12",
+    "answer": "12",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "165-5/(5+6)*165-5/(5+6)*165=15",
+    "equation": "165-5/(5+6)*165-5/(5+6)*165=15",
+    "answer": "15",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "60-(10+10-(10+10)*0.2+10)=34",
+    "equation": "60-(10+10-(10+10)*0.2+10)=34",
+    "answer": "34",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "90/(4*60+4*60/2+90)*100=20",
+    "equation": "90/(4*60+4*60/2+90)*100=20",
+    "answer": "20",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "20+2*(6*6)=92",
+    "equation": "20+2*(6*6)=92",
+    "answer": "92",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "20+2*15+17-(24+5)=38",
+    "equation": "20+2*15+17-(24+5)=38",
+    "answer": "38",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "12-12*1/3-12*1/(12*1/3)-2=3",
+    "equation": "12-12*1/3-12*1/(12*1/3)-2=3",
+    "answer": "3",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(300-50)/10=25",
+    "equation": "(300-50)/10=25",
+    "answer": "25",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "90/3*2-12+90/3+90=168",
+    "equation": "90/3*2-12+90/3+90=168",
+    "answer": "168",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "30+5+7-30=12",
+    "equation": "30+5+7-30=12",
+    "answer": "12",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "8*2*3=48",
+    "equation": "8*2*3=48",
+    "answer": "48",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "50*6*4*12=14400",
+    "equation": "50*6*4*12=14400",
+    "answer": "14400",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "3*4/2-1*4/2=4",
+    "equation": "3*4/2-1*4/2=4",
+    "answer": "4",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(900*8-900*5)/1000*30=81",
+    "equation": "(900*8-900*5)/1000*30=81",
+    "answer": "81",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(36/2+2*17+36)/4=22",
+    "equation": "(36/2+2*17+36)/4=22",
+    "answer": "22",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "7*20/4+3*20/4=50",
+    "equation": "7*20/4+3*20/4=50",
+    "answer": "50",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "40*2+40+60-40+60=200",
+    "equation": "40*2+40+60-40+60=200",
+    "answer": "200",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "10000-2000-6000=2000",
+    "equation": "10000-2000-6000=2000",
+    "answer": "2000",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "60-(45/(300/200)+10)=20",
+    "equation": "60-(45/(300/200)+10)=20",
+    "answer": "20",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(40-1/4*40)*4*15*40+40*4*15*40=168000",
+    "equation": "(40-1/4*40)*4*15*40+40*4*15*40=168000",
+    "answer": "168000",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "10-7=3.00",
+    "equation": "10-7=3.00",
+    "answer": "3.00",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "400+400*2-(400+400*2)*0.2+150=1110",
+    "equation": "400+400*2-(400+400*2)*0.2+150=1110",
+    "answer": "1110",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "2*30/12=5",
+    "equation": "2*30/12=5",
+    "answer": "5",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "0.01*0.05*50000=25",
+    "equation": "0.01*0.05*50000=25",
+    "answer": "25",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "20*4-20*4*30*0.01=56",
+    "equation": "20*4-20*4*30*0.01=56",
+    "answer": "56",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "500-(30*2+30/2*3+30/2*3)=350",
+    "equation": "500-(30*2+30/2*3+30/2*3)=350",
+    "answer": "350",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "180-(304-180)=56",
+    "equation": "180-(304-180)=56",
+    "answer": "56",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "4*200+30/100*4*200+7*300=3140",
+    "equation": "4*200+30/100*4*200+7*300=3140",
+    "answer": "3140",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "5*4*2=40",
+    "equation": "5*4*2=40",
+    "answer": "40",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "10000-4000-3000=3000",
+    "equation": "10000-4000-3000=3000",
+    "answer": "3000",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "2*4000+4000+5000=17000",
+    "equation": "2*4000+4000+5000=17000",
+    "answer": "17000",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "50-4*5-3/5*(50-4*5)=12",
+    "equation": "50-4*5-3/5*(50-4*5)=12",
+    "answer": "12",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "6*8+8*12+(24-6-8)*14=284",
+    "equation": "6*8+8*12+(24-6-8)*14=284",
+    "answer": "284",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "28+(6-6*1/3)-(28-6+6*1/3)=8",
+    "equation": "28+(6-6*1/3)-(28-6+6*1/3)=8",
+    "answer": "8",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "60*4+30*6+15*10=570",
+    "equation": "60*4+30*6+15*10=570",
+    "answer": "570",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(3+3)*20+10*3=150",
+    "equation": "(3+3)*20+10*3=150",
+    "answer": "150",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "4+4+4*25/(4*25)+4*0.5=11",
+    "equation": "4+4+4*25/(4*25)+4*0.5=11",
+    "answer": "11",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(100+50)/1.5/(2/3)=150",
+    "equation": "(100+50)/1.5/(2/3)=150",
+    "answer": "150",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "40*2-(36+36/2)=26",
+    "equation": "40*2-(36+36/2)=26",
+    "answer": "26",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "6+6/2+4=13",
+    "equation": "6+6/2+4=13",
+    "answer": "13",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "25+120+20-33=132.00",
+    "equation": "25+120+20-33=132.00",
+    "answer": "132.00",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "6+11+2-(2+16)=1",
+    "equation": "6+11+2-(2+16)=1",
+    "answer": "1",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "2*100*3/4/5=30",
+    "equation": "2*100*3/4/5=30",
+    "answer": "30",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "1/4*(15*8/5)=6",
+    "equation": "1/4*(15*8/5)=6",
+    "answer": "6",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(5-5*0.01-3*0.4)/0.75=5",
+    "equation": "(5-5*0.01-3*0.4)/0.75=5",
+    "answer": "5",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(25-5)/4=5",
+    "equation": "(25-5)/4=5",
+    "answer": "5",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "20-(20/8+20/8)=15",
+    "equation": "20-(20/8+20/8)=15",
+    "answer": "15",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(34+22)/(2+6)=7",
+    "equation": "(34+22)/(2+6)=7",
+    "answer": "7",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "12/6=2.00",
+    "equation": "12/6=2.00",
+    "answer": "2.00",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "4*4-4+5=17",
+    "equation": "4*4-4+5=17",
+    "answer": "17",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "2*(360/(3*(3/1))+3*(3/1))=98",
+    "equation": "2*(360/(3*(3/1))+3*(3/1))=98",
+    "answer": "98",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(1+2+4)*20-(1+2)*20=80",
+    "equation": "(1+2+4)*20-(1+2)*20=80",
+    "answer": "80",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "3*5+40-30/10*2=49",
+    "equation": "3*5+40-30/10*2=49",
+    "answer": "49",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "40+60+20+50+10-(60+20+5)-(40-40*0.1)=59",
+    "equation": "40+60+20+50+10-(60+20+5)-(40-40*0.1)=59",
+    "answer": "59",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "1/4*(60*1.25+5)=20",
+    "equation": "1/4*(60*1.25+5)=20",
+    "answer": "20",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "6*5-32*(30/60)*1/2*3=6",
+    "equation": "6*5-32*(30/60)*1/2*3=6",
+    "answer": "6",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(4*12+2)/5/5=2",
+    "equation": "(4*12+2)/5/5=2",
+    "answer": "2",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "214+26-(225+10)=5",
+    "equation": "214+26-(225+10)=5",
+    "answer": "5",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "17*20+(48-17)*25-576=539",
+    "equation": "17*20+(48-17)*25-576=539",
+    "answer": "539",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "6*8+4*16=112",
+    "equation": "6*8+4*16=112",
+    "answer": "112",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "20+1-2-12-3=4",
+    "equation": "20+1-2-12-3=4",
+    "answer": "4",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "170*(900/20+20)=11050",
+    "equation": "170*(900/20+20)=11050",
+    "answer": "11050",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(60*2+30*1)/3=50",
+    "equation": "(60*2+30*1)/3=50",
+    "answer": "50",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "2*1200+(8-3)*800=6400",
+    "equation": "2*1200+(8-3)*800=6400",
+    "answer": "6400",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "30*(4+4)=240",
+    "equation": "30*(4+4)=240",
+    "answer": "240",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "12*10*2*8*2/2=1920",
+    "equation": "12*10*2*8*2/2=1920",
+    "answer": "1920",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "15+15+60/100*15+15+15+60/100*15=78",
+    "equation": "15+15+60/100*15+15+15+60/100*15=78",
+    "answer": "78",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "50+1/2*50-30=45",
+    "equation": "50+1/2*50-30=45",
+    "answer": "45",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(3+4)/(8+12)*100=35",
+    "equation": "(3+4)/(8+12)*100=35",
+    "answer": "35",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(2*1+4*12+42*75+20*65)/2250=2",
+    "equation": "(2*1+4*12+42*75+20*65)/2250=2",
+    "answer": "2",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(2*3+3*5)*4=84",
+    "equation": "(2*3+3*5)*4=84",
+    "answer": "84",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "10+10*0.6-7=9",
+    "equation": "10+10*0.6-7=9",
+    "answer": "9",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "21+100/2=71",
+    "equation": "21+100/2=71",
+    "answer": "71",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "15*1+15*1/5=18",
+    "equation": "15*1+15*1/5=18",
+    "answer": "18",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "1+5-2+3-1=6",
+    "equation": "1+5-2+3-1=6",
+    "answer": "6",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(6*25+5*40-50)/10=30",
+    "equation": "(6*25+5*40-50)/10=30",
+    "answer": "30",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "20*0.5-20*0.5*(20*0.5)/100-(20*0.45-1)=1",
+    "equation": "20*0.5-20*0.5*(20*0.5)/100-(20*0.45-1)=1",
+    "answer": "1",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(2*2+2*2*2+2+1)*80=1200",
+    "equation": "(2*2+2*2*2+2+1)*80=1200",
+    "answer": "1200",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "200+(30+5+15)*2-180=120",
+    "equation": "200+(30+5+15)*2-180=120",
+    "answer": "120",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "6*8/12=4",
+    "equation": "6*8/12=4",
+    "answer": "4",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "10-(2+2*3-1)=3",
+    "equation": "10-(2+2*3-1)=3",
+    "answer": "3",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(30*10*1-30*10*1/5)*1/3=80",
+    "equation": "(30*10*1-30*10*1/5)*1/3=80",
+    "answer": "80",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(5-2)*2=6",
+    "equation": "(5-2)*2=6",
+    "answer": "6",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "6*2/(6*2)/10*100=10",
+    "equation": "6*2/(6*2)/10*100=10",
+    "answer": "10",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "4*20=80",
+    "equation": "4*20=80",
+    "answer": "80",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "240/(3*4)=20",
+    "equation": "240/(3*4)=20",
+    "answer": "20",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "300/15/4=5",
+    "equation": "300/15/4=5",
+    "answer": "5",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "32-6-9+3=20",
+    "equation": "32-6-9+3=20",
+    "answer": "20",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "3*200+3*7=621",
+    "equation": "3*200+3*7=621",
+    "answer": "621",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "5000*2+(1500+1500*0.2)*3=15400",
+    "equation": "5000*2+(1500+1500*0.2)*3=15400",
+    "answer": "15400",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "4/2+3*3=11",
+    "equation": "4/2+3*3=11",
+    "answer": "11",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "48*3/4+48=84",
+    "equation": "48*3/4+48=84",
+    "answer": "84",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "200-(83+91)=26",
+    "equation": "200-(83+91)=26",
+    "answer": "26",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "100-20-(100-20*3)=40",
+    "equation": "100-20-(100-20*3)=40",
+    "answer": "40",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "10*60*2/5=240",
+    "equation": "10*60*2/5=240",
+    "answer": "240",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "80*3-20=220",
+    "equation": "80*3-20=220",
+    "answer": "220",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "5*12/10=6",
+    "equation": "5*12/10=6",
+    "answer": "6",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "5*(2*(4*5))/50=4",
+    "equation": "5*(2*(4*5))/50=4",
+    "answer": "4",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "27*2/3/3=6",
+    "equation": "27*2/3/3=6",
+    "answer": "6",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(12-4)/2=4",
+    "equation": "(12-4)/2=4",
+    "answer": "4",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "64-24*2=16",
+    "equation": "64-24*2=16",
+    "answer": "16",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "8+3*8=32",
+    "equation": "8+3*8=32",
+    "answer": "32",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(4-2)/(4*(4-2))=0.25",
+    "equation": "(4-2)/(4*(4-2))=0.25",
+    "answer": "0.25",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(64*3+60)/12=21",
+    "equation": "(64*3+60)/12=21",
+    "answer": "21",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "8*5*5=200",
+    "equation": "8*5*5=200",
+    "answer": "200",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "14*3-4=38",
+    "equation": "14*3-4=38",
+    "answer": "38",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "14*6+14*2=112",
+    "equation": "14*6+14*2=112",
+    "answer": "112",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(5*10+(5*10+20))/3=40",
+    "equation": "(5*10+(5*10+20))/3=40",
+    "answer": "40",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "200/20=10",
+    "equation": "200/20=10",
+    "answer": "10",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(43-7)/2/2+7=16",
+    "equation": "(43-7)/2/2+7=16",
+    "answer": "16",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "3/4*364=273",
+    "equation": "3/4*364=273",
+    "answer": "273",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "2*5+3*2+2*5=26",
+    "equation": "2*5+3*2+2*5=26",
+    "answer": "26",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "2*(3+5)+2=18",
+    "equation": "2*(3+5)+2=18",
+    "answer": "18",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(7-2-2/2)/2=2",
+    "equation": "(7-2-2/2)/2=2",
+    "answer": "2",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "24/(24/4)*400=1600",
+    "equation": "24/(24/4)*400=1600",
+    "answer": "1600",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "6*4/2*6*4/2=144",
+    "equation": "6*4/2*6*4/2=144",
+    "answer": "144",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "2*5*2.2-20=2",
+    "equation": "2*5*2.2-20=2",
+    "answer": "2",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "30+1/2*20+2*30+20=120",
+    "equation": "30+1/2*20+2*30+20=120",
+    "answer": "120",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "12/4+4/4=4",
+    "equation": "12/4+4/4=4",
+    "answer": "4",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "30*3500/(3*31+28+2*30+19)=525",
+    "equation": "30*3500/(3*31+28+2*30+19)=525",
+    "answer": "525",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "30*7-100=110",
+    "equation": "30*7-100=110",
+    "answer": "110",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "60*8*0.25=120",
+    "equation": "60*8*0.25=120",
+    "answer": "120",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "500-500*0.2-(500-500*0.2)*0.25=300",
+    "equation": "500-500*0.2-(500-500*0.2)*0.25=300",
+    "answer": "300",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "3/4*120000=90000",
+    "equation": "3/4*120000=90000",
+    "answer": "90000",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "8*5*8-8*5*4=160",
+    "equation": "8*5*8-8*5*4=160",
+    "answer": "160",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "25*5*3=375",
+    "equation": "25*5*3=375",
+    "answer": "375",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "36/4*2=18",
+    "equation": "36/4*2=18",
+    "answer": "18",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "1/2*(4*10+6*20)-3/5*1/2*(4*10+6*20)=32",
+    "equation": "1/2*(4*10+6*20)-3/5*1/2*(4*10+6*20)=32",
+    "answer": "32",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "40+2*(2*60)=280",
+    "equation": "40+2*(2*60)=280",
+    "answer": "280",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "3*(2+4+12+1+2)=63",
+    "equation": "3*(2+4+12+1+2)=63",
+    "answer": "63",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "100-12-3*12-(100-12-3*12)*0.25=39",
+    "equation": "100-12-3*12-(100-12-3*12)*0.25=39",
+    "answer": "39",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "6+(6-1)+2*(6-1)+(2*(6-1)-2)=29",
+    "equation": "6+(6-1)+2*(6-1)+(2*(6-1)-2)=29",
+    "answer": "29",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "6+200-(93+39)=74",
+    "equation": "6+200-(93+39)=74",
+    "answer": "74",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "36/6+24/8=9",
+    "equation": "36/6+24/8=9",
+    "answer": "9",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "27/3/(3/4)=12",
+    "equation": "27/3/(3/4)=12",
+    "answer": "12",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(12+2)*7*1.5-12*7*1.5=21",
+    "equation": "(12+2)*7*1.5-12*7*1.5=21",
+    "answer": "21",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "24*5*2/5=48",
+    "equation": "24*5*2/5=48",
+    "answer": "48",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "3*(20+2)-2+20+3*(20+2)+20+2=172",
+    "equation": "3*(20+2)-2+20+3*(20+2)+20+2=172",
+    "answer": "172",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(48-4)/4=11",
+    "equation": "(48-4)/4=11",
+    "answer": "11",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "5*2+6+4*(8-(2+1))=36",
+    "equation": "5*2+6+4*(8-(2+1))=36",
+    "answer": "36",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "5*8+5*8-21+21/3=66",
+    "equation": "5*8+5*8-21+21/3=66",
+    "answer": "66",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(27-5+8)*2-5-8-(27-5)=25",
+    "equation": "(27-5+8)*2-5-8-(27-5)=25",
+    "answer": "25",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(2400-1100-(1100-400))/2=300",
+    "equation": "(2400-1100-(1100-400))/2=300",
+    "answer": "300",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(4*20/2*60+20/2*60)/(20/2)=300",
+    "equation": "(4*20/2*60+20/2*60)/(20/2)=300",
+    "answer": "300",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "2*(5+3)=16",
+    "equation": "2*(5+3)=16",
+    "answer": "16",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "10-4+2=8",
+    "equation": "10-4+2=8",
+    "answer": "8",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "31+50+50-5+31*2=188",
+    "equation": "31+50+50-5+31*2=188",
+    "answer": "188",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "72-(18+21+15)=18",
+    "equation": "72-(18+21+15)=18",
+    "answer": "18",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "50*1/2+50*20*0.01=35",
+    "equation": "50*1/2+50*20*0.01=35",
+    "answer": "35",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(5+18/3+10-8)*3=39",
+    "equation": "(5+18/3+10-8)*3=39",
+    "answer": "39",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "2250/45=50",
+    "equation": "2250/45=50",
+    "answer": "50",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "20-(3*1.5+5*0.8+3*1.5)=7",
+    "equation": "20-(3*1.5+5*0.8+3*1.5)=7",
+    "answer": "7",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(0.8-0.5)*20=6",
+    "equation": "(0.8-0.5)*20=6",
+    "answer": "6",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "100/5*4=80",
+    "equation": "100/5*4=80",
+    "answer": "80",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "3*2*5=30",
+    "equation": "3*2*5=30",
+    "answer": "30",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(26*2+26/2)*2=130",
+    "equation": "(26*2+26/2)*2=130",
+    "answer": "130",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "3*3*3*3=81",
+    "equation": "3*3*3*3=81",
+    "answer": "81",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "70+10*3=100",
+    "equation": "70+10*3=100",
+    "answer": "100",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "5*80-2=398",
+    "equation": "5*80-2=398",
+    "answer": "398",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "5*1.5+2*0.25+12+10-10/100*(5*1.5+2*0.25+12+10)=27",
+    "equation": "5*1.5+2*0.25+12+10-10/100*(5*1.5+2*0.25+12+10)=27",
+    "answer": "27",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "50-(5*4+10*0.3+5*2)=17",
+    "equation": "50-(5*4+10*0.3+5*2)=17",
+    "answer": "17",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "30/100*1000+10/100*1500=450",
+    "equation": "30/100*1000+10/100*1500=450",
+    "answer": "450",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "70*2-2*24=92",
+    "equation": "70*2-2*24=92",
+    "answer": "92",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "3*(2+2*16)-3*16=54",
+    "equation": "3*(2+2*16)-3*16=54",
+    "answer": "54",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "80/(2*5*4)=2",
+    "equation": "80/(2*5*4)=2",
+    "answer": "2",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "3*40+40=160",
+    "equation": "3*40+40=160",
+    "answer": "160",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(21-7)*4+21-7=70",
+    "equation": "(21-7)*4+21-7=70",
+    "answer": "70",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "24/2/4=3",
+    "equation": "24/2/4=3",
+    "answer": "3",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "10*4/2-4=16",
+    "equation": "10*4/2-4=16",
+    "answer": "16",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "3*10+3*5=45",
+    "equation": "3*10+3*5=45",
+    "answer": "45",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(150+150-20+2*(150-20))/3=180",
+    "equation": "(150+150-20+2*(150-20))/3=180",
+    "answer": "180",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "32+5*10=82",
+    "equation": "32+5*10=82",
+    "answer": "82",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(12+(12-4))/5*3=12",
+    "equation": "(12+(12-4))/5*3=12",
+    "answer": "12",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "15/1.5*2*7+100=240",
+    "equation": "15/1.5*2*7+100=240",
+    "answer": "240",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "12-(12/3+12/(12/3))=5",
+    "equation": "12-(12/3+12/(12/3))=5",
+    "answer": "5",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(44+7)/3-7=10",
+    "equation": "(44+7)/3-7=10",
+    "answer": "10",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "5+1*3+1*0.5*2=9",
+    "equation": "5+1*3+1*0.5*2=9",
+    "answer": "9",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "80-20+80+80-45=175",
+    "equation": "80-20+80+80-45=175",
+    "answer": "175",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "21*4-63=21",
+    "equation": "21*4-63=21",
+    "answer": "21",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "4*(70/7)/5+3*(70/7)/2=23",
+    "equation": "4*(70/7)/5+3*(70/7)/2=23",
+    "answer": "23",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "200+4*12+20*3=308",
+    "equation": "200+4*12+20*3=308",
+    "answer": "308",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "30*4+20*4+15*4-40*4=100",
+    "equation": "30*4+20*4+15*4-40*4=100",
+    "answer": "100",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "3000-24*100=600",
+    "equation": "3000-24*100=600",
+    "answer": "600",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "10*7-(3+30)=37",
+    "equation": "10*7-(3+30)=37",
+    "answer": "37",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "3*64/8*1.5=36.00",
+    "equation": "3*64/8*1.5=36.00",
+    "answer": "36.00",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "4*(18*12)+12*(18*12)+2*(18*12)+34*(18*12)=11232",
+    "equation": "4*(18*12)+12*(18*12)+2*(18*12)+34*(18*12)=11232",
+    "answer": "11232",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(120+20+90+50+0)/7=40",
+    "equation": "(120+20+90+50+0)/7=40",
+    "answer": "40",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(20+20/2)/5*(20-12)=48",
+    "equation": "(20+20/2)/5*(20-12)=48",
+    "answer": "48",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "5+5-3=7",
+    "equation": "5+5-3=7",
+    "answer": "7",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "520/1.04=500",
+    "equation": "520/1.04=500",
+    "answer": "500",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "60+30+(2*60+5)=215",
+    "equation": "60+30+(2*60+5)=215",
+    "answer": "215",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "76000+76000-30/100*76000=129200",
+    "equation": "76000+76000-30/100*76000=129200",
+    "answer": "129200",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "2*12+20+40+2*12+12=120",
+    "equation": "2*12+20+40+2*12+12=120",
+    "answer": "120",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "2*(100-100*0.1)/(2*(100-100*0.1)/2)=2",
+    "equation": "2*(100-100*0.1)/(2*(100-100*0.1)/2)=2",
+    "answer": "2",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "7*10-3*10=40",
+    "equation": "7*10-3*10=40",
+    "answer": "40",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(2*500+600)*100/200=800",
+    "equation": "(2*500+600)*100/200=800",
+    "answer": "800",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "4500/3+4500/3/100-(4500/3-4500/3/100)=30",
+    "equation": "4500/3+4500/3/100-(4500/3-4500/3/100)=30",
+    "answer": "30",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(47+52+(52+5))/3=52",
+    "equation": "(47+52+(52+5))/3=52",
+    "answer": "52",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "5*(1.75--1.25)=15",
+    "equation": "5*(1.75--1.25)=15",
+    "answer": "15",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(1+2)*100+10+8+1=319",
+    "equation": "(1+2)*100+10+8+1=319",
+    "answer": "319",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "10*2/4*44=220",
+    "equation": "10*2/4*44=220",
+    "answer": "220",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "13+4*2-(16+4)=1",
+    "equation": "13+4*2-(16+4)=1",
+    "answer": "1",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "4*2*2*2=32",
+    "equation": "4*2*2*2=32",
+    "answer": "32",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "200/100*3*7=42",
+    "equation": "200/100*3*7=42",
+    "answer": "42",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "10+3=13",
+    "equation": "10+3=13",
+    "answer": "13",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(2*2000+500-600)/15=260",
+    "equation": "(2*2000+500-600)/15=260",
+    "answer": "260",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "3*30=90",
+    "equation": "3*30=90",
+    "answer": "90",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(8*0.25+6*0.1+14*0.05+15*0.01)/0.05=69",
+    "equation": "(8*0.25+6*0.1+14*0.05+15*0.01)/0.05=69",
+    "answer": "69",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "5*4+2*4+5*4=48",
+    "equation": "5*4+2*4+5*4=48",
+    "answer": "48",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "8+0.5*8-2=10",
+    "equation": "8+0.5*8-2=10",
+    "answer": "10",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "5+1*12+2*1*12+4*1*12+5*3=104",
+    "equation": "5+1*12+2*1*12+4*1*12+5*3=104",
+    "answer": "104",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "2000/(1200/3)=5",
+    "equation": "2000/(1200/3)=5",
+    "answer": "5",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "3/4*120*12+12*120/2=1800",
+    "equation": "3/4*120*12+12*120/2=1800",
+    "answer": "1800",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "100-(8+8*2+8*2*4)=12",
+    "equation": "100-(8+8*2+8*2*4)=12",
+    "answer": "12",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "0.5*15*4+0.6*10*2=42",
+    "equation": "0.5*15*4+0.6*10*2=42",
+    "answer": "42",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "10440000/(400/2*725)/12=6",
+    "equation": "10440000/(400/2*725)/12=6",
+    "answer": "6",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "24/(120*2)*100=10",
+    "equation": "24/(120*2)*100=10",
+    "answer": "10",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "50-(35+25-(35+25)*0.3)=8",
+    "equation": "50-(35+25-(35+25)*0.3)=8",
+    "answer": "8",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "4*1/4*7=7",
+    "equation": "4*1/4*7=7",
+    "answer": "7",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "194*490-194*150=65960",
+    "equation": "194*490-194*150=65960",
+    "answer": "65960",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(5*10-5)*100000/5*1.5+100000=1450000",
+    "equation": "(5*10-5)*100000/5*1.5+100000=1450000",
+    "answer": "1450000",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "6+8*1+16=30",
+    "equation": "6+8*1+16=30",
+    "answer": "30",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "31*1000*3=93000",
+    "equation": "31*1000*3=93000",
+    "answer": "93000",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "20*0.15*2*52=312",
+    "equation": "20*0.15*2*52=312",
+    "answer": "312",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "20*0.5+2*2.5+3*2+20*0.5+2=33",
+    "equation": "20*0.5+2*2.5+3*2+20*0.5+2=33",
+    "answer": "33",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "2*3+4=10",
+    "equation": "2*3+4=10",
+    "answer": "10",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "750/(15*10)=5",
+    "equation": "750/(15*10)=5",
+    "answer": "5",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "4*18-4*18*1/4-(4*18-4*18*1/4)*1/3=36",
+    "equation": "4*18-4*18*1/4-(4*18-4*18*1/4)*1/3=36",
+    "answer": "36",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "6*4*4-20=76",
+    "equation": "6*4*4-20=76",
+    "answer": "76",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "1000-356+1000-135=1509",
+    "equation": "1000-356+1000-135=1509",
+    "answer": "1509",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "2*2*125*6=3000",
+    "equation": "2*2*125*6=3000",
+    "answer": "3000",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "20-(8/2+(1+2))-6=7",
+    "equation": "20-(8/2+(1+2))-6=7",
+    "answer": "7",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "16-12+16-12=8",
+    "equation": "16-12+16-12=8",
+    "answer": "8",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "8*14-9*3=85",
+    "equation": "8*14-9*3=85",
+    "answer": "85",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "10*20*4/5=160",
+    "equation": "10*20*4/5=160",
+    "answer": "160",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "20*60/1000*60=72",
+    "equation": "20*60/1000*60=72",
+    "answer": "72",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(10-4)*4+3*10=54",
+    "equation": "(10-4)*4+3*10=54",
+    "answer": "54",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(48-40)/2=4",
+    "equation": "(48-40)/2=4",
+    "answer": "4",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(25000*10-25000*0.3*10)*0.1=17500",
+    "equation": "(25000*10-25000*0.3*10)*0.1=17500",
+    "answer": "17500",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "100*0.25*0.4=10",
+    "equation": "100*0.25*0.4=10",
+    "answer": "10",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "2000*4/5-400+2000*4/5+2000=4800",
+    "equation": "2000*4/5-400+2000*4/5+2000=4800",
+    "answer": "4800",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "16+16+3+16+3-9=45",
+    "equation": "16+16+3+16+3-9=45",
+    "answer": "45",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "75/(70-55)=5",
+    "equation": "75/(70-55)=5",
+    "answer": "5",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "17-6+3=14",
+    "equation": "17-6+3=14",
+    "answer": "14",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "60/6-6=4",
+    "equation": "60/6-6=4",
+    "answer": "4",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(50*2+50)*7=1050",
+    "equation": "(50*2+50)*7=1050",
+    "answer": "1050",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "5*4-3=17",
+    "equation": "5*4-3=17",
+    "answer": "17",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "5*5.2/4+5*3.3/3=12",
+    "equation": "5*5.2/4+5*3.3/3=12",
+    "answer": "12",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "6*4*3*3=216",
+    "equation": "6*4*3*3=216",
+    "answer": "216",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "30000+7500+7500/3+2000+1500=43500",
+    "equation": "30000+7500+7500/3+2000+1500=43500",
+    "answer": "43500",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(20000+20000*0.05)*12+(20000+20000*0.05)*0.5=262500",
+    "equation": "(20000+20000*0.05)*12+(20000+20000*0.05)*0.5=262500",
+    "answer": "262500",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "750*10+750/5*10+3*10*60=10800",
+    "equation": "750*10+750/5*10+3*10*60=10800",
+    "answer": "10800",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "28*20+28*10=840",
+    "equation": "28*20+28*10=840",
+    "answer": "840",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(60+4)/2-3=29",
+    "equation": "(60+4)/2-3=29",
+    "answer": "29",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "12*4.5+10*2.5=79",
+    "equation": "12*4.5+10*2.5=79",
+    "answer": "79",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "8/(4/2)+24/(8/(4/2))=10",
+    "equation": "8/(4/2)+24/(8/(4/2))=10",
+    "answer": "10",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(25+1+1)*2=54",
+    "equation": "(25+1+1)*2=54",
+    "answer": "54",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "70*2000+2000+20000=162000",
+    "equation": "70*2000+2000+20000=162000",
+    "answer": "162000",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "20*30-10/100*(20*30)-(20*20-2)=142",
+    "equation": "20*30-10/100*(20*30)-(20*20-2)=142",
+    "answer": "142",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "2*400+400+3/4*(2*400+400)=2100",
+    "equation": "2*400+400+3/4*(2*400+400)=2100",
+    "answer": "2100",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "2*1*15*2+1*15=75",
+    "equation": "2*1*15*2+1*15=75",
+    "answer": "75",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "300-(420-200)=80",
+    "equation": "300-(420-200)=80",
+    "answer": "80",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "16*3/2/12=2",
+    "equation": "16*3/2/12=2",
+    "answer": "2",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "15*1-15*1/3=10",
+    "equation": "15*1-15*1/3=10",
+    "answer": "10",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "30-200/10=10",
+    "equation": "30-200/10=10",
+    "answer": "10",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "150000+12*(5000*2+5000)=330000",
+    "equation": "150000+12*(5000*2+5000)=330000",
+    "answer": "330000",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(20+30+30)*1/2+20+30+30=120",
+    "equation": "(20+30+30)*1/2+20+30+30=120",
+    "answer": "120",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "15/3+15/3-(10/(10/2)+15/3)=3",
+    "equation": "15/3+15/3-(10/(10/2)+15/3)=3",
+    "answer": "3",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "20-10/2=15",
+    "equation": "20-10/2=15",
+    "answer": "15",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(5+5*0.2)*5*0.2*7+2=44",
+    "equation": "(5+5*0.2)*5*0.2*7+2=44",
+    "answer": "44",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "20-(2*2+8+1)=7",
+    "equation": "20-(2*2+8+1)=7",
+    "answer": "7",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "600-(198+209)=193",
+    "equation": "600-(198+209)=193",
+    "answer": "193",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "4*2*6/1.5=32",
+    "equation": "4*2*6/1.5=32",
+    "answer": "32",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(150-60/100*150)*6=360",
+    "equation": "(150-60/100*150)*6=360",
+    "answer": "360",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(3/4*120+120+60+3/4*120)/3=120",
+    "equation": "(3/4*120+120+60+3/4*120)/3=120",
+    "answer": "120",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "12*4+5=53",
+    "equation": "12*4+5=53",
+    "answer": "53",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "50*0.2*0.3=3",
+    "equation": "50*0.2*0.3=3",
+    "answer": "3",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "16*(5+3+0.25)=132",
+    "equation": "16*(5+3+0.25)=132",
+    "answer": "132",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(3+5+4)/3=4",
+    "equation": "(3+5+4)/3=4",
+    "answer": "4",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "15-(7*0.5+10*0.75)=4",
+    "equation": "15-(7*0.5+10*0.75)=4",
+    "answer": "4",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "30-12-8=10",
+    "equation": "30-12-8=10",
+    "answer": "10",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(21-3)/2=9",
+    "equation": "(21-3)/2=9",
+    "answer": "9",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(600-20*12)/30=12",
+    "equation": "(600-20*12)/30=12",
+    "answer": "12",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(4+8)*2-(4+8)+((4+8)*2-(4+8))-3=21",
+    "equation": "(4+8)*2-(4+8)+((4+8)*2-(4+8))-3=21",
+    "answer": "21",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "1200-(2/3*(1200-2/5*1200)+2/3*(1200-2/5*1200))=240",
+    "equation": "1200-(2/3*(1200-2/5*1200)+2/3*(1200-2/5*1200))=240",
+    "answer": "240",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "100-(20+44)=36",
+    "equation": "100-(20+44)=36",
+    "answer": "36",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "10*2*3*2=120",
+    "equation": "10*2*3*2=120",
+    "answer": "120",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "36/6*96=576",
+    "equation": "36/6*96=576",
+    "answer": "576",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(8+1)*80-700=20",
+    "equation": "(8+1)*80-700=20",
+    "answer": "20",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "68+68+5+68+5-12+68+5+23=298",
+    "equation": "68+68+5+68+5-12+68+5+23=298",
+    "answer": "298",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(140-20)*2/3=80",
+    "equation": "(140-20)*2/3=80",
+    "answer": "80",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "60/2+40/2=50",
+    "equation": "60/2+40/2=50",
+    "answer": "50",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "30-6-13=11",
+    "equation": "30-6-13=11",
+    "answer": "11",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "1*4+1*4+2*3=14",
+    "equation": "1*4+1*4+2*3=14",
+    "answer": "14",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "30+30*2-10=80",
+    "equation": "30+30*2-10=80",
+    "answer": "80",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "6+7=13",
+    "equation": "6+7=13",
+    "answer": "13",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "3*(20+40)-(20+40+20)=100",
+    "equation": "3*(20+40)-(20+40+20)=100",
+    "answer": "100",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "0.4*10+(3.2-0.4*5)/4*10=7",
+    "equation": "0.4*10+(3.2-0.4*5)/4*10=7",
+    "answer": "7",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "12*10*(20+2/5*20)+20*12*10=5760",
+    "equation": "12*10*(20+2/5*20)+20*12*10=5760",
+    "answer": "5760",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "125-(100-60)/0.4=25",
+    "equation": "125-(100-60)/0.4=25",
+    "answer": "25",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "12*0.5+5*0.5*2+7*0.5*2*3=32",
+    "equation": "12*0.5+5*0.5*2+7*0.5*2*3=32",
+    "answer": "32",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "14+(14+4)+(14+4+6)+(14+4+6-12)=68",
+    "equation": "14+(14+4)+(14+4+6)+(14+4+6-12)=68",
+    "answer": "68",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "42+15-(8+8*5)=9",
+    "equation": "42+15-(8+8*5)=9",
+    "answer": "9",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "50*0.5*0.2=5",
+    "equation": "50*0.5*0.2=5",
+    "answer": "5",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "400-(50+50+30/100*50+50+30/100*50-30+3*(50+30/100*50-30))=145",
+    "equation": "400-(50+50+30/100*50+50+30/100*50-30+3*(50+30/100*50-30))=145",
+    "answer": "145",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "3*3*3=27",
+    "equation": "3*3*3=27",
+    "answer": "27",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "2400-2400*0.5-20*0.01*2400=720",
+    "equation": "2400-2400*0.5-20*0.01*2400=720",
+    "answer": "720",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(20-4)/2=8",
+    "equation": "(20-4)/2=8",
+    "answer": "8",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "15*20*40/100+3*5=135",
+    "equation": "15*20*40/100+3*5=135",
+    "answer": "135",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(2*(1+12+7)+3*(1+12+7))*2=200",
+    "equation": "(2*(1+12+7)+3*(1+12+7))*2=200",
+    "answer": "200",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "11600-4000-(4000+800)=2800",
+    "equation": "11600-4000-(4000+800)=2800",
+    "answer": "2800",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "6*3+8*(3+1)=50",
+    "equation": "6*3+8*(3+1)=50",
+    "answer": "50",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "100/(3+2)*3-10=50",
+    "equation": "100/(3+2)*3-10=50",
+    "answer": "50",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "40*15/5=120",
+    "equation": "40*15/5=120",
+    "answer": "120",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "6300/(2100/3)=9",
+    "equation": "6300/(2100/3)=9",
+    "answer": "9",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(100-80)*40/100=8",
+    "equation": "(100-80)*40/100=8",
+    "answer": "8",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "12*2*7=168",
+    "equation": "12*2*7=168",
+    "answer": "168",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "48*100/2+48*100/2/4=3000",
+    "equation": "48*100/2+48*100/2/4=3000",
+    "answer": "3000",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "5*3+4*2.5+3*4+13*1-4*2.5*0.01*(5*3+4*2.5+3*4+13*1)=45",
+    "equation": "5*3+4*2.5+3*4+13*1-4*2.5*0.01*(5*3+4*2.5+3*4+13*1)=45",
+    "answer": "45",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "6/(2*1.5/(2*1.5))=6",
+    "equation": "6/(2*1.5/(2*1.5))=6",
+    "answer": "6",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(4-3)*2*7=14",
+    "equation": "(4-3)*2*7=14",
+    "answer": "14",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "36/3*2*36/3*2=576",
+    "equation": "36/3*2*36/3*2=576",
+    "answer": "576",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "30*2.5-(30*1.5+20)=10",
+    "equation": "30*2.5-(30*1.5+20)=10",
+    "answer": "10",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(700+10/100*700)*500=385000",
+    "equation": "(700+10/100*700)*500=385000",
+    "answer": "385000",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "6*75+2*120+2*40=770",
+    "equation": "6*75+2*120+2*40=770",
+    "answer": "770",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "10-(6*0.5+8*0.25)=5",
+    "equation": "10-(6*0.5+8*0.25)=5",
+    "answer": "5",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "100*30/100*20/100/3=2",
+    "equation": "100*30/100*20/100/3=2",
+    "answer": "2",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "25*(4+3)=175",
+    "equation": "25*(4+3)=175",
+    "answer": "175",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "5+3-4=4",
+    "equation": "5+3-4=4",
+    "answer": "4",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(5-2)*300+(5-2)*250+2*200+2*200=2450",
+    "equation": "(5-2)*300+(5-2)*250+2*200+2*200=2450",
+    "answer": "2450",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "450-3*25-120=255",
+    "equation": "450-3*25-120=255",
+    "answer": "255",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "170+23-(20+13)=160",
+    "equation": "170+23-(20+13)=160",
+    "answer": "160",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "5*12-(3*(2/3*12)+2*(3/4*12))=18",
+    "equation": "5*12-(3*(2/3*12)+2*(3/4*12))=18",
+    "answer": "18",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(30*2/3+30)/2=25",
+    "equation": "(30*2/3+30)/2=25",
+    "answer": "25",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "90/9=10",
+    "equation": "90/9=10",
+    "answer": "10",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "64*1/4*4+32*3/4*2=112",
+    "equation": "64*1/4*4+32*3/4*2=112",
+    "answer": "112",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(15+45)/(40+50+(15+45))*100=40",
+    "equation": "(15+45)/(40+50+(15+45))*100=40",
+    "answer": "40",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "5000-2/5*5000-2/3*(5000-2/5*5000)=1000",
+    "equation": "5000-2/5*5000-2/3*(5000-2/5*5000)=1000",
+    "answer": "1000",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "4*30/15=8",
+    "equation": "4*30/15=8",
+    "answer": "8",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(9*2+6*1)/(9*2+6*1)=1",
+    "equation": "(9*2+6*1)/(9*2+6*1)=1",
+    "answer": "1",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "15*2+8+15+(15*2+8-4)=87",
+    "equation": "15*2+8+15+(15*2+8-4)=87",
+    "answer": "87",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "20/(3+1)=5",
+    "equation": "20/(3+1)=5",
+    "answer": "5",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "2*2+2*2+3+2*3=17",
+    "equation": "2*2+2*2+3+2*3=17",
+    "answer": "17",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "100-(100*20/100+(100*20/100+100*20/100*50/100))=50",
+    "equation": "100-(100*20/100+(100*20/100+100*20/100*50/100))=50",
+    "answer": "50",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "100-10-(100-23+10)=3",
+    "equation": "100-10-(100-23+10)=3",
+    "answer": "3",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "32-(3*4+7*2+8*1/2)=2",
+    "equation": "32-(3*4+7*2+8*1/2)=2",
+    "answer": "2",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "20-(20/2+6)=4",
+    "equation": "20-(20/2+6)=4",
+    "answer": "4",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(5-2)*16+10*5=98",
+    "equation": "(5-2)*16+10*5=98",
+    "answer": "98",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "50-2*5-5-2*5=25",
+    "equation": "50-2*5-5-2*5=25",
+    "answer": "25",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "12-1/3*12+20=28",
+    "equation": "12-1/3*12+20=28",
+    "answer": "28",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "80/2-80/2/100*80/2=24",
+    "equation": "80/2-80/2/100*80/2=24",
+    "answer": "24",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(3+2)*3-2-(3+2)=8",
+    "equation": "(3+2)*3-2-(3+2)=8",
+    "answer": "8",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(8+5+3+12)/7=4",
+    "equation": "(8+5+3+12)/7=4",
+    "answer": "4",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "30*50+4000+1000-1800*3=1100",
+    "equation": "30*50+4000+1000-1800*3=1100",
+    "answer": "1100",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "26*2+12*2-(14*2+10*2)=28",
+    "equation": "26*2+12*2-(14*2+10*2)=28",
+    "answer": "28",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "500*7*0.5-500*7*0.4=350",
+    "equation": "500*7*0.5-500*7*0.4=350",
+    "answer": "350",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "56*2+4*56=336",
+    "equation": "56*2+4*56=336",
+    "answer": "336",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "12-54/6=3",
+    "equation": "12-54/6=3",
+    "answer": "3",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(60*5+100*2)*4*2=4000",
+    "equation": "(60*5+100*2)*4*2=4000",
+    "answer": "4000",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "48/2+25-12+6=43",
+    "equation": "48/2+25-12+6=43",
+    "answer": "43",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "100*12/5=240",
+    "equation": "100*12/5=240",
+    "answer": "240",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "8*12-10+(4*12-6)=128",
+    "equation": "8*12-10+(4*12-6)=128",
+    "answer": "128",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "30*0.9/3+40*0.5+40*0.5*3=89",
+    "equation": "30*0.9/3+40*0.5+40*0.5*3=89",
+    "answer": "89",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "2+1+2*2=7",
+    "equation": "2+1+2*2=7",
+    "answer": "7",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "2*(33/3)=22",
+    "equation": "2*(33/3)=22",
+    "answer": "22",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "11+11*2+11*2-4+(11*2-4)/2+(11*2-4)/2+6=75",
+    "equation": "11+11*2+11*2-4+(11*2-4)/2+(11*2-4)/2+6=75",
+    "answer": "75",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "140-140*5/100=133",
+    "equation": "140-140*5/100=133",
+    "answer": "133",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "20*300*10=60000",
+    "equation": "20*300*10=60000",
+    "answer": "60000",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "50-0.2*50-60*0.01*(50-0.2*50)=16",
+    "equation": "50-0.2*50-60*0.01*(50-0.2*50)=16",
+    "answer": "16",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "6*3/2*3=27",
+    "equation": "6*3/2*3=27",
+    "answer": "27",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "200-(70+90/2)=85",
+    "equation": "200-(70+90/2)=85",
+    "answer": "85",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "250/(1+1+1/2)=100",
+    "equation": "250/(1+1+1/2)=100",
+    "answer": "100",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "3*2+5*1+1*3=14",
+    "equation": "3*2+5*1+1*3=14",
+    "answer": "14",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "200+200*0.45+200=490",
+    "equation": "200+200*0.45+200=490",
+    "answer": "490",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(80-20)/5=12",
+    "equation": "(80-20)/5=12",
+    "answer": "12",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "4*5*3=60",
+    "equation": "4*5*3=60",
+    "answer": "60",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(300+150)/2+300+150=675",
+    "equation": "(300+150)/2+300+150=675",
+    "answer": "675",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(5+2)*15+5=110",
+    "equation": "(5+2)*15+5=110",
+    "answer": "110",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "4*5-8*2=4",
+    "equation": "4*5-8*2=4",
+    "answer": "4",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(135-20*3)/25=3",
+    "equation": "(135-20*3)/25=3",
+    "answer": "3",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "50=50",
+    "equation": "50=50",
+    "answer": "50",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "50*1-(50*1-50*1/2+(50*1-50*1/2)*3/5)=10",
+    "equation": "50*1-(50*1-50*1/2+(50*1-50*1/2)*3/5)=10",
+    "answer": "10",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(150+150)/75+6=10",
+    "equation": "(150+150)/75+6=10",
+    "answer": "10",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "650-(57*4+73*2)=276",
+    "equation": "650-(57*4+73*2)=276",
+    "answer": "276",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "1000-20/100*1000=800",
+    "equation": "1000-20/100*1000=800",
+    "answer": "800",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "600/3*6+(600-600/3)*0.4*5+(600-600/3-(600-600/3)*0.4)*10=4400",
+    "equation": "600/3*6+(600-600/3)*0.4*5+(600-600/3-(600-600/3)*0.4)*10=4400",
+    "answer": "4400",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "6*2+8*1+6*3=38",
+    "equation": "6*2+8*1+6*3=38",
+    "answer": "38",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(50/2-5)*1.5+50*(6-1.5)=255",
+    "equation": "(50/2-5)*1.5+50*(6-1.5)=255",
+    "answer": "255",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "4*30-8*10-3*5=25",
+    "equation": "4*30-8*10-3*5=25",
+    "answer": "25",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(64-30)/2=17",
+    "equation": "(64-30)/2=17",
+    "answer": "17",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "3*2*2+3*2*2+3*5+3*5=54",
+    "equation": "3*2*2+3*2*2+3*5+3*5=54",
+    "answer": "54",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(7+17)/3-4=4",
+    "equation": "(7+17)/3-4=4",
+    "answer": "4",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "5*2*5/(5*2)*3=15",
+    "equation": "5*2*5/(5*2)*3=15",
+    "answer": "15",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "3/5*10*20+140*0.25=155",
+    "equation": "3/5*10*20+140*0.25=155",
+    "answer": "155",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "22*5+4*8=142",
+    "equation": "22*5+4*8=142",
+    "answer": "142",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "40-(1/4*40+1/8*40)=25",
+    "equation": "40-(1/4*40+1/8*40)=25",
+    "answer": "25",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "300-(300/2+50)=100",
+    "equation": "300-(300/2+50)=100",
+    "answer": "100",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(32-(45-33))/5=4",
+    "equation": "(32-(45-33))/5=4",
+    "answer": "4",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "3/5*90/9*9*2=108",
+    "equation": "3/5*90/9*9*2=108",
+    "answer": "108",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "13+172-47-38=100",
+    "equation": "13+172-47-38=100",
+    "answer": "100",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "10*30*0.25=75",
+    "equation": "10*30*0.25=75",
+    "answer": "75",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "20*8+(11-8)*1.5*20=250",
+    "equation": "20*8+(11-8)*1.5*20=250",
+    "answer": "250",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "12+12/2+14=32",
+    "equation": "12+12/2+14=32",
+    "answer": "32",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "50-(40-40*0.25)=20",
+    "equation": "50-(40-40*0.25)=20",
+    "answer": "20",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(200+20)*4000+(200+20+20)*4000+(200+20+20+20)*4000=2880000",
+    "equation": "(200+20)*4000+(200+20+20)*4000+(200+20+20+20)*4000=2880000",
+    "answer": "2880000",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "2*150+240=540",
+    "equation": "2*150+240=540",
+    "answer": "540",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "20*11.5-20*(10+0.5)=20",
+    "equation": "20*11.5-20*(10+0.5)=20",
+    "answer": "20",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "3*2-2*1=4",
+    "equation": "3*2-2*1=4",
+    "answer": "4",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "278+(1/2*278+11)=428",
+    "equation": "278+(1/2*278+11)=428",
+    "answer": "428",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "40*25*1+40*3*2=1240",
+    "equation": "40*25*1+40*3*2=1240",
+    "answer": "1240",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "4.2/0.7=6",
+    "equation": "4.2/0.7=6",
+    "answer": "6",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "30-0.5*2*7-2*7=9",
+    "equation": "30-0.5*2*7-2*7=9",
+    "answer": "9",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "70*2-60*2=20",
+    "equation": "70*2-60*2=20",
+    "answer": "20",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "600+300+(600+300)*0.3=1170",
+    "equation": "600+300+(600+300)*0.3=1170",
+    "answer": "1170",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(40/100*2*400+40+340)/(400+100+500)*100=70",
+    "equation": "(40/100*2*400+40+340)/(400+100+500)*100=70",
+    "answer": "70",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "72*2/12/3=4",
+    "equation": "72*2/12/3=4",
+    "answer": "4",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(4*1.5+16*2+10)/4=12",
+    "equation": "(4*1.5+16*2+10)/4=12",
+    "answer": "12",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "-50+100=50",
+    "equation": "-50+100=50",
+    "answer": "50",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "2*2*2*2*2*10-10=310",
+    "equation": "2*2*2*2*2*10-10=310",
+    "answer": "310",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "105/0.25/7=60",
+    "equation": "105/0.25/7=60",
+    "answer": "60",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "3*5+4*6+5*4+6*7-(5+6+4+7)=79",
+    "equation": "3*5+4*6+5*4+6*7-(5+6+4+7)=79",
+    "answer": "79",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(35-(9+9+3))/2=7",
+    "equation": "(35-(9+9+3))/2=7",
+    "answer": "7",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(60/20*0.25+60/20*2*0.25+60/20/(60/20*2*0.25)*0.25)*4=11",
+    "equation": "(60/20*0.25+60/20*2*0.25+60/20/(60/20*2*0.25)*0.25)*4=11",
+    "answer": "11",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(2+2+2+2+2)/(2+2+2+2+2)=1",
+    "equation": "(2+2+2+2+2)/(2+2+2+2+2)=1",
+    "answer": "1",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "3*500+2*3*500=4500",
+    "equation": "3*500+2*3*500=4500",
+    "answer": "4500",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "63-(8+40)=15",
+    "equation": "63-(8+40)=15",
+    "answer": "15",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "2*20-20/100*(2*20)-2*(20/100*(2*20))=16",
+    "equation": "2*20-20/100*(2*20)-2*(20/100*(2*20))=16",
+    "answer": "16",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(175000-50000)/20=6250",
+    "equation": "(175000-50000)/20=6250",
+    "answer": "6250",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(8*1+8*1/2)*60=720",
+    "equation": "(8*1+8*1/2)*60=720",
+    "answer": "720",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(50+20)/2=35",
+    "equation": "(50+20)/2=35",
+    "answer": "35",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "5*1.2*30*7=1260",
+    "equation": "5*1.2*30*7=1260",
+    "answer": "1260",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "14-4+(14-4-6)=14",
+    "equation": "14-4+(14-4-6)=14",
+    "answer": "14",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "8*11-6*6=52",
+    "equation": "8*11-6*6=52",
+    "answer": "52",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "3*((341-12)/7)+12=153",
+    "equation": "3*((341-12)/7)+12=153",
+    "answer": "153",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "5+5*2+(5*2-1)+(5*2-1)/3=27",
+    "equation": "5+5*2+(5*2-1)+(5*2-1)/3=27",
+    "answer": "27",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "32-32*0.75+0.35*4+0.08*20=11",
+    "equation": "32-32*0.75+0.35*4+0.08*20=11",
+    "answer": "11",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "40+100-(2*30+20)=60",
+    "equation": "40+100-(2*30+20)=60",
+    "answer": "60",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "50000-(8000+8000/2+8000*3)=14000",
+    "equation": "50000-(8000+8000/2+8000*3)=14000",
+    "answer": "14000",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(18*4+15*6+2*60)*4=1128",
+    "equation": "(18*4+15*6+2*60)*4=1128",
+    "answer": "1128",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "129+30+15+150=324.00",
+    "equation": "129+30+15+150=324.00",
+    "answer": "324.00",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "12+30=42.00",
+    "equation": "12+30=42.00",
+    "answer": "42.00",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "10*4*1=40",
+    "equation": "10*4*1=40",
+    "answer": "40",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "8*4+6*8=80",
+    "equation": "8*4+6*8=80",
+    "answer": "80",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "4*2*18/3=48",
+    "equation": "4*2*18/3=48",
+    "answer": "48",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "2*(20+20)+20+20+20=140",
+    "equation": "2*(20+20)+20+20+20=140",
+    "answer": "140",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "600-200-50-80-150=120",
+    "equation": "600-200-50-80-150=120",
+    "answer": "120",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "3*5+3*5-3*5=15",
+    "equation": "3*5+3*5-3*5=15",
+    "answer": "15",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(25-5*3)/5=2",
+    "equation": "(25-5*3)/5=2",
+    "answer": "2",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "12*1/6+12*1*12*1/6/3+12*1/(12*1/6)=16",
+    "equation": "12*1/6+12*1*12*1/6/3+12*1/(12*1/6)=16",
+    "answer": "16",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "10000+800-(5000+200)=5600",
+    "equation": "10000+800-(5000+200)=5600",
+    "answer": "5600",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "4*20-70=10",
+    "equation": "4*20-70=10",
+    "answer": "10",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "2*20-(6*2+3*3)=19",
+    "equation": "2*20-(6*2+3*3)=19",
+    "answer": "19",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "2*30/2+2*30+2*30/2+2*30=180",
+    "equation": "2*30/2+2*30+2*30/2+2*30=180",
+    "answer": "180",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "20-8=12",
+    "equation": "20-8=12",
+    "answer": "12",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(2*60-10)/(2+6+2)=11",
+    "equation": "(2*60-10)/(2+6+2)=11",
+    "answer": "11",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "300+3/4*300*3=975",
+    "equation": "300+3/4*300*3=975",
+    "answer": "975",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "50-40/2-40/2=10",
+    "equation": "50-40/2-40/2=10",
+    "answer": "10",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "900/30*2.5=75",
+    "equation": "900/30*2.5=75",
+    "answer": "75",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "55-10+55-10-10*2=70",
+    "equation": "55-10+55-10-10*2=70",
+    "answer": "70",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "2640/(2*12)=110",
+    "equation": "2640/(2*12)=110",
+    "answer": "110",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "25*3+18*3-2*3=123",
+    "equation": "25*3+18*3-2*3=123",
+    "answer": "123",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "90*20/2/60=15",
+    "equation": "90*20/2/60=15",
+    "answer": "15",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "12*3+12+(12*3+12)*2=144",
+    "equation": "12*3+12+(12*3+12)*2=144",
+    "answer": "144",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "78/6=13",
+    "equation": "78/6=13",
+    "answer": "13",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "27*2/8=6.75",
+    "equation": "27*2/8=6.75",
+    "answer": "6.75",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "2*4000+6000=14000",
+    "equation": "2*4000+6000=14000",
+    "answer": "14000",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "10+10*6+(10+10*6)*6+(10+10*6+(10+10*6)*6)*6=3430",
+    "equation": "10+10*6+(10+10*6)*6+(10+10*6+(10+10*6)*6)*6=3430",
+    "answer": "3430",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "40*20-10/100*40*20+40*20=1520",
+    "equation": "40*20-10/100*40*20+40*20=1520",
+    "answer": "1520",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "12-(3*2+3)=3",
+    "equation": "12-(3*2+3)=3",
+    "answer": "3",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "3*(1*12)-1*12/2=30",
+    "equation": "3*(1*12)-1*12/2=30",
+    "answer": "30",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(6-1)*2*8*0.5=40",
+    "equation": "(6-1)*2*8*0.5=40",
+    "answer": "40",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "70+70-30=110",
+    "equation": "70+70-30=110",
+    "answer": "110",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "600-(50*10+20)=80",
+    "equation": "600-(50*10+20)=80",
+    "answer": "80",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "75-(12+12-2+(12-2)*3)=23",
+    "equation": "75-(12+12-2+(12-2)*3)=23",
+    "answer": "23",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(85-37)/3+12=28",
+    "equation": "(85-37)/3+12=28",
+    "answer": "28",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "5*2-3=7",
+    "equation": "5*2-3=7",
+    "answer": "7",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "1.25*(30*4/10)=15.00",
+    "equation": "1.25*(30*4/10)=15.00",
+    "answer": "15.00",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "4000-700*5=500",
+    "equation": "4000-700*5=500",
+    "answer": "500",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "400/4*(400/4-60)/(400/4)=40",
+    "equation": "400/4*(400/4-60)/(400/4)=40",
+    "answer": "40",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "7/13*(60-(2/5*60+10))+2/5*60+10=48",
+    "equation": "7/13*(60-(2/5*60+10))+2/5*60+10=48",
+    "answer": "48",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "9+4=13.00",
+    "equation": "9+4=13.00",
+    "answer": "13.00",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "12.48-16*0.03=12",
+    "equation": "12.48-16*0.03=12",
+    "answer": "12",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "12*33/3=132",
+    "equation": "12*33/3=132",
+    "answer": "132",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "52+28-(52+28)/4=60",
+    "equation": "52+28-(52+28)/4=60",
+    "answer": "60",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "10*80*0.01+20*90*0.01+5*60*0.01*5=41",
+    "equation": "10*80*0.01+20*90*0.01+5*60*0.01*5=41",
+    "answer": "41",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "50*3/5*300-2000=7000",
+    "equation": "50*3/5*300-2000=7000",
+    "answer": "7000",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "14-(32-14)/2=5",
+    "equation": "14-(32-14)/2=5",
+    "answer": "5",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "400+1/4*400+3/4*1/4*400=575",
+    "equation": "400+1/4*400+3/4*1/4*400=575",
+    "answer": "575",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "20*2-20*1.5=10",
+    "equation": "20*2-20*1.5=10",
+    "answer": "10",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(18-10)*3-(18-10)=16",
+    "equation": "(18-10)*3-(18-10)=16",
+    "answer": "16",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "65-(10+6*10/5*10/5+3*10/5*10/5+7*10/5*10/5/(10/5))=5",
+    "equation": "65-(10+6*10/5*10/5+3*10/5*10/5+7*10/5*10/5/(10/5))=5",
+    "answer": "5",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(65-15)/2=25",
+    "equation": "(65-15)/2=25",
+    "answer": "25",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "200-40=160",
+    "equation": "200-40=160",
+    "answer": "160",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "125*2+125*2=500",
+    "equation": "125*2+125*2=500",
+    "answer": "500",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(50-20/100*50)/2=20",
+    "equation": "(50-20/100*50)/2=20",
+    "answer": "20",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "6*2/3+3*8+6=34",
+    "equation": "6*2/3+3*8+6=34",
+    "answer": "34",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(55-5)/5=10",
+    "equation": "(55-5)/5=10",
+    "answer": "10",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "4*10-5*5=15",
+    "equation": "4*10-5*5=15",
+    "answer": "15",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(100-100*1/4-(100-100*1/4)*2/3)/100*100=25",
+    "equation": "(100-100*1/4-(100-100*1/4)*2/3)/100*100=25",
+    "answer": "25",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "121/11*5=55",
+    "equation": "121/11*5=55",
+    "answer": "55",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(11-6-6/2)/(11-6-6/2)=1",
+    "equation": "(11-6-6/2)/(11-6-6/2)=1",
+    "answer": "1",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "8*5*(10+2)=480",
+    "equation": "8*5*(10+2)=480",
+    "answer": "480",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "80-(6+3*6+5*6)=26",
+    "equation": "80-(6+3*6+5*6)=26",
+    "answer": "26",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "55+16+8-5=74",
+    "equation": "55+16+8-5=74",
+    "answer": "74",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "25*10*3-500=250",
+    "equation": "25*10*3-500=250",
+    "answer": "250",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "7-3*(7-5)=1",
+    "equation": "7-3*(7-5)=1",
+    "answer": "1",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "50+1/5*50+50=110",
+    "equation": "50+1/5*50+50=110",
+    "answer": "110",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(100-4)/6=16",
+    "equation": "(100-4)/6=16",
+    "answer": "16",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "10+13+5-13=15",
+    "equation": "10+13+5-13=15",
+    "answer": "15",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(8-(8/4*8/4+8/4))/(8-(8/4*8/4+8/4))=1",
+    "equation": "(8-(8/4*8/4+8/4))/(8-(8/4*8/4+8/4))=1",
+    "answer": "1",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "7.5+0.5=8",
+    "equation": "7.5+0.5=8",
+    "answer": "8",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "20*(2/4)+8*(2.25/3)=16",
+    "equation": "20*(2/4)+8*(2.25/3)=16",
+    "answer": "16",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "216/(9*3)=8",
+    "equation": "216/(9*3)=8",
+    "answer": "8",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "24-(10+10-2+1)=5",
+    "equation": "24-(10+10-2+1)=5",
+    "answer": "5",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "9-1/3*9+7-3=10",
+    "equation": "9-1/3*9+7-3=10",
+    "answer": "10",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "9*2-2=16",
+    "equation": "9*2-2=16",
+    "answer": "16",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "30*1-(30*1/5+10)=14",
+    "equation": "30*1-(30*1/5+10)=14",
+    "answer": "14",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(60-8)/2+4+8=38",
+    "equation": "(60-8)/2+4+8=38",
+    "answer": "38",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "200+2*200+100=700",
+    "equation": "200+2*200+100=700",
+    "answer": "700",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(50-10)*0.2*(50-10)*0.2=64",
+    "equation": "(50-10)*0.2*(50-10)*0.2=64",
+    "answer": "64",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "45*4/(60/2)=6",
+    "equation": "45*4/(60/2)=6",
+    "answer": "6",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(58-2*20)/3=6",
+    "equation": "(58-2*20)/3=6",
+    "answer": "6",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "100*30/1000=3",
+    "equation": "100*30/1000=3",
+    "answer": "3",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "5+2*5+2*5-2=23",
+    "equation": "5+2*5+2*5-2=23",
+    "answer": "23",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(11+0.5*(12/2)+7*2)/2=14",
+    "equation": "(11+0.5*(12/2)+7*2)/2=14",
+    "answer": "14",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "3+5+6-2=12",
+    "equation": "3+5+6-2=12",
+    "answer": "12",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "6+6*2+16+22=56",
+    "equation": "6+6*2+16+22=56",
+    "answer": "56",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(0.8-0.5)*10*30=90",
+    "equation": "(0.8-0.5)*10*30=90",
+    "answer": "90",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "3*3+(3*3-2)*3/3+(3*3-2)*3+(3*3-2)*3/3+3=47",
+    "equation": "3*3+(3*3-2)*3/3+(3*3-2)*3+(3*3-2)*3/3+3=47",
+    "answer": "47",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "24/(2+2*2)=4",
+    "equation": "24/(2+2*2)=4",
+    "answer": "4",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "12*1*(10-5)=60",
+    "equation": "12*1*(10-5)=60",
+    "answer": "60",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(27-15)/2/3=2",
+    "equation": "(27-15)/2/3=2",
+    "answer": "2",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "24/(8/4)=12",
+    "equation": "24/(8/4)=12",
+    "answer": "12",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "1/2*10000-500*6=2000",
+    "equation": "1/2*10000-500*6=2000",
+    "answer": "2000",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(150-(5*10+8*7+2*8+4*2)-(4*2+2))/(150-(5*10+8*7+2*8+4*2)-(4*2+2))=1",
+    "equation": "(150-(5*10+8*7+2*8+4*2)-(4*2+2))/(150-(5*10+8*7+2*8+4*2)-(4*2+2))=1",
+    "answer": "1",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "450/3*300+600/3*600/3=85000",
+    "equation": "450/3*300+600/3*600/3=85000",
+    "answer": "85000",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(39+2*39+2*39+48+57)/5=60",
+    "equation": "(39+2*39+2*39+48+57)/5=60",
+    "answer": "60",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "60*5-30*8=60",
+    "equation": "60*5-30*8=60",
+    "answer": "60",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "62-(31+8+9)=14",
+    "equation": "62-(31+8+9)=14",
+    "answer": "14",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "2*(80/4)+10=50",
+    "equation": "2*(80/4)+10=50",
+    "answer": "50",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "1+2*4+5*3=24",
+    "equation": "1+2*4+5*3=24",
+    "answer": "24",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(10*5+10)/2-15=15",
+    "equation": "(10*5+10)/2-15=15",
+    "answer": "15",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(40*10+35*12)/2=410",
+    "equation": "(40*10+35*12)/2=410",
+    "answer": "410",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(60-45)*24*30*6=64800",
+    "equation": "(60-45)*24*30*6=64800",
+    "answer": "64800",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "1600-(1000+70*(10-5))=250",
+    "equation": "1600-(1000+70*(10-5))=250",
+    "answer": "250",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(5*2-3)*12+5*15=159",
+    "equation": "(5*2-3)*12+5*15=159",
+    "answer": "159",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(50*6-100-5*10-5*10)/25=4",
+    "equation": "(50*6-100-5*10-5*10)/25=4",
+    "answer": "4",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "20*15+50+20*15=650",
+    "equation": "20*15+50+20*15=650",
+    "answer": "650",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "5*8*7=280",
+    "equation": "5*8*7=280",
+    "answer": "280",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "9*100-29*2=842",
+    "equation": "9*100-29*2=842",
+    "answer": "842",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "40+3*35+60=205",
+    "equation": "40+3*35+60=205",
+    "answer": "205",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "10*(15-15*0.4)-40=50",
+    "equation": "10*(15-15*0.4)-40=50",
+    "answer": "50",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "1.5*6+2*10+1.25*4=34",
+    "equation": "1.5*6+2*10+1.25*4=34",
+    "answer": "34",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "20*0.6/2+20*0.6/2/2+(20-20*0.6)/(2/2)=17",
+    "equation": "20*0.6/2+20*0.6/2/2+(20-20*0.6)/(2/2)=17",
+    "answer": "17",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "7*70-40=450",
+    "equation": "7*70-40=450",
+    "answer": "450",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "15-7+5=13",
+    "equation": "15-7+5=13",
+    "answer": "13",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "6*5*(10/100)+10*15*(8/100)=15",
+    "equation": "6*5*(10/100)+10*15*(8/100)=15",
+    "answer": "15",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(26-5)*2=42",
+    "equation": "(26-5)*2=42",
+    "answer": "42",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "75/3-20=5",
+    "equation": "75/3-20=5",
+    "answer": "5",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "1.5*100*2=300",
+    "equation": "1.5*100*2=300",
+    "answer": "300",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(11-8)*60/15*30=360",
+    "equation": "(11-8)*60/15*30=360",
+    "answer": "360",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(24-22+6)*60-(38-15+5)=452",
+    "equation": "(24-22+6)*60-(38-15+5)=452",
+    "answer": "452",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "2/3*24-6+24=34",
+    "equation": "2/3*24-6+24=34",
+    "answer": "34",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "1000-1000*1/5-50*7*2=100",
+    "equation": "1000-1000*1/5-50*7*2=100",
+    "answer": "100",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(16-7-(16-7)*2/3)*1/((16-7-(16-7)*2/3)*1)=1",
+    "equation": "(16-7-(16-7)*2/3)*1/((16-7-(16-7)*2/3)*1)=1",
+    "answer": "1",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "3*3*5=45",
+    "equation": "3*3*5=45",
+    "answer": "45",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(100/120)*48=40",
+    "equation": "(100/120)*48=40",
+    "answer": "40",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "2*2+2+2/2=7",
+    "equation": "2*2+2+2/2=7",
+    "answer": "7",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "4*10-(10+13+8-2)=11",
+    "equation": "4*10-(10+13+8-2)=11",
+    "answer": "11",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "70+15+70*2=225",
+    "equation": "70+15+70*2=225",
+    "answer": "225",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "400+400*0.5+400=1000",
+    "equation": "400+400*0.5+400=1000",
+    "answer": "1000",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "4*(360/9)-13=147",
+    "equation": "4*(360/9)-13=147",
+    "answer": "147",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "20/2*20=200",
+    "equation": "20/2*20=200",
+    "answer": "200",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "10*30-2*18+5*22=374",
+    "equation": "10*30-2*18+5*22=374",
+    "answer": "374",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "12*(1+4-1.5)+12/2=48",
+    "equation": "12*(1+4-1.5)+12/2=48",
+    "answer": "48",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "8*2+8-25/100*8+8=30",
+    "equation": "8*2+8-25/100*8+8=30",
+    "answer": "30",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "3*15+5*22+4*18=227",
+    "equation": "3*15+5*22+4*18=227",
+    "answer": "227",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "2*600+600/2*2=1800",
+    "equation": "2*600+600/2*2=1800",
+    "answer": "1800",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "13+7+13=33",
+    "equation": "13+7+13=33",
+    "answer": "33",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "2*(2*15+2*10)=100",
+    "equation": "2*(2*15+2*10)=100",
+    "answer": "100",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "((12-2*2)*1-(12-2*2)*1/(2*2))*20=120",
+    "equation": "((12-2*2)*1-(12-2*2)*1/(2*2))*20=120",
+    "answer": "120",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "50+4+25=79",
+    "equation": "50+4+25=79",
+    "answer": "79",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(18+13+8-14)/5=5",
+    "equation": "(18+13+8-14)/5=5",
+    "answer": "5",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "60-30-(60-30-(60-30-10))=20",
+    "equation": "60-30-(60-30-(60-30-10))=20",
+    "answer": "20",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(10+(10+5))*6+(10+5+(10+5-4))*(10+5)=540",
+    "equation": "(10+(10+5))*6+(10+5+(10+5-4))*(10+5)=540",
+    "answer": "540",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "1*(4*8)/8=4",
+    "equation": "1*(4*8)/8=4",
+    "answer": "4",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "100+100-40/100*100=160",
+    "equation": "100+100-40/100*100=160",
+    "answer": "160",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "24*2-(24-19)+24/2-(24-19)=50",
+    "equation": "24*2-(24-19)+24/2-(24-19)=50",
+    "answer": "50",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "20+20+10+2*20=90",
+    "equation": "20+20+10+2*20=90",
+    "answer": "90",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(3+3*4+3*4/2)/3=7",
+    "equation": "(3+3*4+3*4/2)/3=7",
+    "answer": "7",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(30-30*20/100)*25/100+(30-30*20/100)*25/100=12",
+    "equation": "(30-30*20/100)*25/100+(30-30*20/100)*25/100=12",
+    "answer": "12",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(5*5+5)/2=15",
+    "equation": "(5*5+5)/2=15",
+    "answer": "15",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(111/1.5-17)*6=342",
+    "equation": "(111/1.5-17)*6=342",
+    "answer": "342",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "18/2*7=63",
+    "equation": "18/2*7=63",
+    "answer": "63",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(3*3+2.5*2)*2.5*2=70",
+    "equation": "(3*3+2.5*2)*2.5*2=70",
+    "answer": "70",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(30-(4*3+10*1.5))/1=3",
+    "equation": "(30-(4*3+10*1.5))/1=3",
+    "answer": "3",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "6000/1000=6",
+    "equation": "6000/1000=6",
+    "answer": "6",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "90/30*10+90/6=45",
+    "equation": "90/30*10+90/6=45",
+    "answer": "45",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "3*2+3*4-2*2=14",
+    "equation": "3*2+3*4-2*2=14",
+    "answer": "14",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "30*3-75=15",
+    "equation": "30*3-75=15",
+    "answer": "15",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "1*12+1*12+1*12+1*12+1*4=52",
+    "equation": "1*12+1*12+1*12+1*12+1*4=52",
+    "answer": "52",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "44*2/4/2=11",
+    "equation": "44*2/4/2=11",
+    "answer": "11",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(20+20*2+20+20*2)/(20+20*2)=2",
+    "equation": "(20+20*2+20+20*2)/(20+20*2)=2",
+    "answer": "2",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "30-6*2-6=12",
+    "equation": "30-6*2-6=12",
+    "answer": "12",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "20-(2*20/4+3+4)=3",
+    "equation": "20-(2*20/4+3+4)=3",
+    "answer": "3",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "3*(500+1500+200)=6600",
+    "equation": "3*(500+1500+200)=6600",
+    "answer": "6600",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "1/2*100*15/15=50",
+    "equation": "1/2*100*15/15=50",
+    "answer": "50",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "100/4=25",
+    "equation": "100/4=25",
+    "answer": "25",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "9-(9*20+10*30)/60=1",
+    "equation": "9-(9*20+10*30)/60=1",
+    "answer": "1",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(20+30+2*60+10)/60=3",
+    "equation": "(20+30+2*60+10)/60=3",
+    "answer": "3",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "64/8=8",
+    "equation": "64/8=8",
+    "answer": "8",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(1.5*10+25)*3*4=480",
+    "equation": "(1.5*10+25)*3*4=480",
+    "answer": "480",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "64/4-56/7=8",
+    "equation": "64/4-56/7=8",
+    "answer": "8",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "50+3/5*50*4*12=1490",
+    "equation": "50+3/5*50*4*12=1490",
+    "answer": "1490",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "0.1*14*25*4*5.9=826",
+    "equation": "0.1*14*25*4*5.9=826",
+    "answer": "826",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "9+9+5+9+5-3=34",
+    "equation": "9+9+5+9+5-3=34",
+    "answer": "34",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "45*10-55*4=230",
+    "equation": "45*10-55*4=230",
+    "answer": "230",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "3000-((3000-1500)*0.25+3000/2*0.5)=1875",
+    "equation": "3000-((3000-1500)*0.25+3000/2*0.5)=1875",
+    "answer": "1875",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "10-((10+4)/2-2)=5",
+    "equation": "10-((10+4)/2-2)=5",
+    "answer": "5",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "18000-(2/3*1/4*18000+3/4*1/4*18000*1/3+3/4*1/4*18000+1/4*18000)=6000",
+    "equation": "18000-(2/3*1/4*18000+3/4*1/4*18000*1/3+3/4*1/4*18000+1/4*18000)=6000",
+    "answer": "6000",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "9*5+7*3+28=94",
+    "equation": "9*5+7*3+28=94",
+    "answer": "94",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "10000*0.2/((10+15)*40)=2",
+    "equation": "10000*0.2/((10+15)*40)=2",
+    "answer": "2",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(10-(7*0.5+2*1+5*0.75))/0.25=3",
+    "equation": "(10-(7*0.5+2*1+5*0.75))/0.25=3",
+    "answer": "3",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(15-2)*60/10=78",
+    "equation": "(15-2)*60/10=78",
+    "answer": "78",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "120+5/100*120*3=138",
+    "equation": "120+5/100*120*3=138",
+    "answer": "138",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "3*72/8+2*72/8=45",
+    "equation": "3*72/8+2*72/8=45",
+    "answer": "45",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "18/3*10=60",
+    "equation": "18/3*10=60",
+    "answer": "60",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "100-(24+15)+2*15+7=98",
+    "equation": "100-(24+15)+2*15+7=98",
+    "answer": "98",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "4+6+3*4=22",
+    "equation": "4+6+3*4=22",
+    "answer": "22",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(100-40)*(100-40)/100/2+(100-40)*(100-40)/100/2=36",
+    "equation": "(100-40)*(100-40)/100/2+(100-40)*(100-40)/100/2=36",
+    "answer": "36",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "120/20*2=12",
+    "equation": "120/20*2=12",
+    "answer": "12",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(5+4+2)*7=77",
+    "equation": "(5+4+2)*7=77",
+    "answer": "77",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "60*4+80*1-10*2=300",
+    "equation": "60*4+80*1-10*2=300",
+    "answer": "300",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "100-30*2-10=30",
+    "equation": "100-30*2-10=30",
+    "answer": "30",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "12*2*150*0.01*40*30=43200",
+    "equation": "12*2*150*0.01*40*30=43200",
+    "answer": "43200",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "3/2*8=12",
+    "equation": "3/2*8=12",
+    "answer": "12",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(3000-1000)*0.1=200",
+    "equation": "(3000-1000)*0.1=200",
+    "answer": "200",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "25+7+12-0.4*25-75*0.01*8+75*0.01*8=34",
+    "equation": "25+7+12-0.4*25-75*0.01*8+75*0.01*8=34",
+    "answer": "34",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "0.5*0.6*0.8*100=24",
+    "equation": "0.5*0.6*0.8*100=24",
+    "answer": "24",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(6000-(950+300))/950=5",
+    "equation": "(6000-(950+300))/950=5",
+    "answer": "5",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "75*2*3=450",
+    "equation": "75*2*3=450",
+    "answer": "450",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(15-3)/6=2",
+    "equation": "(15-3)/6=2",
+    "answer": "2",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "3*16+3*6=66",
+    "equation": "3*16+3*6=66",
+    "answer": "66",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "5*7=35",
+    "equation": "5*7=35",
+    "answer": "35",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "2*40/8=10",
+    "equation": "2*40/8=10",
+    "answer": "10",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "50-(11*2+6*3)=10",
+    "equation": "50-(11*2+6*3)=10",
+    "answer": "10",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "((25000*3-25000)*4+25000*4)/(25000*3-25000)=6",
+    "equation": "((25000*3-25000)*4+25000*4)/(25000*3-25000)=6",
+    "answer": "6",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(6+2)*(6+2+2)*2=160",
+    "equation": "(6+2)*(6+2+2)*2=160",
+    "answer": "160",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "425+(1/5*425+17)+(2*(1/5*425+17)+5)=736",
+    "equation": "425+(1/5*425+17)+(2*(1/5*425+17)+5)=736",
+    "answer": "736",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "10*6.5+6*6=101",
+    "equation": "10*6.5+6*6=101",
+    "answer": "101",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "9/3=3",
+    "equation": "9/3=3",
+    "answer": "3",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "26*5*1000=130000",
+    "equation": "26*5*1000=130000",
+    "answer": "130000",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "50+2-(12*4+3)=1",
+    "equation": "50+2-(12*4+3)=1",
+    "answer": "1",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "1680/4=420",
+    "equation": "1680/4=420",
+    "answer": "420",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "3/8*24*7*3=189",
+    "equation": "3/8*24*7*3=189",
+    "answer": "189",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "2*((19-4)/5)+4=10",
+    "equation": "2*((19-4)/5)+4=10",
+    "answer": "10",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "20000-20000*21/100*(2010-2007)=7400",
+    "equation": "20000-20000*21/100*(2010-2007)=7400",
+    "answer": "7400",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "50-50*0.5-10/100*50=20",
+    "equation": "50-50*0.5-10/100*50=20",
+    "answer": "20",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "1955-325*4=655",
+    "equation": "1955-325*4=655",
+    "answer": "655",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "8*30/16=15",
+    "equation": "8*30/16=15",
+    "answer": "15",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "120+20-50+50*2-80=110",
+    "equation": "120+20-50+50*2-80=110",
+    "answer": "110",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "10+(5+10)+48/2+(8-2)=55",
+    "equation": "10+(5+10)+48/2+(8-2)=55",
+    "answer": "55",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "12*200/(1*1)=2400",
+    "equation": "12*200/(1*1)=2400",
+    "answer": "2400",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "12*(120+120*0.6)=2304",
+    "equation": "12*(120+120*0.6)=2304",
+    "answer": "2304",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(4/2+1)*52=156",
+    "equation": "(4/2+1)*52=156",
+    "answer": "156",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(4+4/2)*4=24",
+    "equation": "(4+4/2)*4=24",
+    "answer": "24",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "100+50+2*50=250",
+    "equation": "100+50+2*50=250",
+    "answer": "250",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "720/(60*3*2)=2",
+    "equation": "720/(60*3*2)=2",
+    "answer": "2",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "10+10-3+(10-3)*2=31",
+    "equation": "10+10-3+(10-3)*2=31",
+    "answer": "31",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "40+18=58",
+    "equation": "40+18=58",
+    "answer": "58",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "6*2+4*30+300*(30/60)+200=482",
+    "equation": "6*2+4*30+300*(30/60)+200=482",
+    "answer": "482",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(80-80*0.2)*5=320",
+    "equation": "(80-80*0.2)*5=320",
+    "answer": "320",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "32+32*2+32+32*2+30+25=247",
+    "equation": "32+32*2+32+32*2+30+25=247",
+    "answer": "247",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(100+100+100+80)/4=95",
+    "equation": "(100+100+100+80)/4=95",
+    "answer": "95",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(100-70)*0.01*20+(100-80)*0.01*(20*2)=14",
+    "equation": "(100-70)*0.01*20+(100-80)*0.01*(20*2)=14",
+    "answer": "14",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "0.15*700*2+700*0.05=245",
+    "equation": "0.15*700*2+700*0.05=245",
+    "answer": "245",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(10-3-4+(10-3-4))*4=24",
+    "equation": "(10-3-4+(10-3-4))*4=24",
+    "answer": "24",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(20*1-20*1/4)*20*1=300",
+    "equation": "(20*1-20*1/4)*20*1=300",
+    "answer": "300",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "1*6*(1*6/2)=18.00",
+    "equation": "1*6*(1*6/2)=18.00",
+    "answer": "18.00",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "125+(25+7+13-4-20)*6=251",
+    "equation": "125+(25+7+13-4-20)*6=251",
+    "answer": "251",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "60-60/4+60-60/3=85",
+    "equation": "60-60/4+60-60/3=85",
+    "answer": "85",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "315/7-(10+10+4)=21",
+    "equation": "315/7-(10+10+4)=21",
+    "answer": "21",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "500/2+500=750",
+    "equation": "500/2+500=750",
+    "answer": "750",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(5*5-(15+(15-12)*2))*(5*5-(15+(15-12)*2))=16",
+    "equation": "(5*5-(15+(15-12)*2))*(5*5-(15+(15-12)*2))=16",
+    "answer": "16",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "6*5.5+9*11+20*1.5=162",
+    "equation": "6*5.5+9*11+20*1.5=162",
+    "answer": "162",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "10*2+10+10*2+10+10*2/4+60*1+10*2=145",
+    "equation": "10*2+10+10*2+10+10*2/4+60*1+10*2=145",
+    "answer": "145",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(200-10*12)/10=8",
+    "equation": "(200-10*12)/10=8",
+    "answer": "8",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(2000-2000*75/100*120/100)/2000*100=10",
+    "equation": "(2000-2000*75/100*120/100)/2000*100=10",
+    "answer": "10",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "4*3600*5=72000",
+    "equation": "4*3600*5=72000",
+    "answer": "72000",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "2*90+15=195",
+    "equation": "2*90+15=195",
+    "answer": "195",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(4/2+4/2+4/2+4/2)/(4/2+4/2)=2",
+    "equation": "(4/2+4/2+4/2+4/2)/(4/2+4/2)=2",
+    "answer": "2",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "10*4*0.8-10*3=2",
+    "equation": "10*4*0.8-10*3=2",
+    "answer": "2",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "13*8/4=26",
+    "equation": "13*8/4=26",
+    "answer": "26",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(300-300*0.5)*450+300*15/100*500*0.5+(300-300*0.5-300*15/100)*500=131250",
+    "equation": "(300-300*0.5)*450+300*15/100*500*0.5+(300-300*0.5-300*15/100)*500=131250",
+    "answer": "131250",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "5*6-3*6=12",
+    "equation": "5*6-3*6=12",
+    "answer": "12",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(40*(6+2)*5+40*(6+2)*5/16+40*(6+2)*5/16)/60=30",
+    "equation": "(40*(6+2)*5+40*(6+2)*5/16+40*(6+2)*5/16)/60=30",
+    "answer": "30",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "24*3*2/3*2/3=32",
+    "equation": "24*3*2/3*2/3=32",
+    "answer": "32",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "6*12+2-5+3=72",
+    "equation": "6*12+2-5+3=72",
+    "answer": "72",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "2000/10*5=1000",
+    "equation": "2000/10*5=1000",
+    "answer": "1000",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "2*270*2=1080",
+    "equation": "2*270*2=1080",
+    "answer": "1080",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(10*8*2+5*8*2)/20*(10*8*2+5*8*2)/20=144",
+    "equation": "(10*8*2+5*8*2)/20*(10*8*2+5*8*2)/20=144",
+    "answer": "144",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(3-1)/(3-1+12-3-1-2)*100=25",
+    "equation": "(3-1)/(3-1+12-3-1-2)*100=25",
+    "answer": "25",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "90*3=270",
+    "equation": "90*3=270",
+    "answer": "270",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "2*3*((31+19)*(100-20)*0.01)=240",
+    "equation": "2*3*((31+19)*(100-20)*0.01)=240",
+    "answer": "240",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "20*3+12*35=480",
+    "equation": "20*3+12*35=480",
+    "answer": "480",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "24-4+10=30",
+    "equation": "24-4+10=30",
+    "answer": "30",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "300/60-240/80=2",
+    "equation": "300/60-240/80=2",
+    "answer": "2",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(2*15+2*15)*5/(2*15+2*15)=5",
+    "equation": "(2*15+2*15)*5/(2*15+2*15)=5",
+    "answer": "5",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "52-8-3.5*8=16",
+    "equation": "52-8-3.5*8=16",
+    "answer": "16",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "85-15+20-20*0.01*20+30-10*0.01*30=113",
+    "equation": "85-15+20-20*0.01*20+30-10*0.01*30=113",
+    "answer": "113",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "6*3*5=90",
+    "equation": "6*3*5=90",
+    "answer": "90",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "20*40*0.01*100000/(100000*20*0.01)=40",
+    "equation": "20*40*0.01*100000/(100000*20*0.01)=40",
+    "answer": "40",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "100/4/5=5",
+    "equation": "100/4/5=5",
+    "answer": "5",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(100-40)*(240/40)=360",
+    "equation": "(100-40)*(240/40)=360",
+    "answer": "360",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "19+26-7=38",
+    "equation": "19+26-7=38",
+    "answer": "38",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(3*4+3*2)/(3*2)=3",
+    "equation": "(3*4+3*2)/(3*2)=3",
+    "answer": "3",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "9300/30-2*125=60",
+    "equation": "9300/30-2*125=60",
+    "answer": "60",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "3*9+11*5+25*3=157",
+    "equation": "3*9+11*5+25*3=157",
+    "answer": "157",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "12*1-(12*1/4+12*1/(12*1/4))=5",
+    "equation": "12*1-(12*1/4+12*1/(12*1/4))=5",
+    "answer": "5",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "21+11-(5+19)=8",
+    "equation": "21+11-(5+19)=8",
+    "answer": "8",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(16-4-2)/2=5",
+    "equation": "(16-4-2)/2=5",
+    "answer": "5",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "50+50*20/100=60",
+    "equation": "50+50*20/100=60",
+    "answer": "60",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "459/(255/5)=9",
+    "equation": "459/(255/5)=9",
+    "answer": "9",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "4+3+5+1+3-(4+3+2+2)=5",
+    "equation": "4+3+5+1+3-(4+3+2+2)=5",
+    "answer": "5",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "4+2+4+(4+4)=18",
+    "equation": "4+2+4+(4+4)=18",
+    "answer": "18",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "70*2*2*2=560",
+    "equation": "70*2*2*2=560",
+    "answer": "560",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "10*7/2=35",
+    "equation": "10*7/2=35",
+    "answer": "35",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(400-20-(6*10*2+4*10*2))/10=18",
+    "equation": "(400-20-(6*10*2+4*10*2))/10=18",
+    "answer": "18",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "60/4+60/2+60=105",
+    "equation": "60/4+60/2+60=105",
+    "answer": "105",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(9+7)*2*2=64",
+    "equation": "(9+7)*2*2=64",
+    "answer": "64",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "3*10*3*10/10=90",
+    "equation": "3*10*3*10/10=90",
+    "answer": "90",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "40000/2/400=50",
+    "equation": "40000/2/400=50",
+    "answer": "50",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "1.25*5*120=750",
+    "equation": "1.25*5*120=750",
+    "answer": "750",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(16-2)/2+2=9",
+    "equation": "(16-2)/2+2=9",
+    "answer": "9",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(30-12)/2+12-(56-30)/2=8",
+    "equation": "(30-12)/2+12-(56-30)/2=8",
+    "answer": "8",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(200/8*8+200/8*8)/16=25",
+    "equation": "(200/8*8+200/8*8)/16=25",
+    "answer": "25",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "80*0.8/4*5*1.2=96",
+    "equation": "80*0.8/4*5*1.2=96",
+    "answer": "96",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "5000+2*5000+2*(5000+2*5000)=45000",
+    "equation": "5000+2*5000+2*(5000+2*5000)=45000",
+    "answer": "45000",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "40+1/(1/10)=50",
+    "equation": "40+1/(1/10)=50",
+    "answer": "50",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(60-8*4)/4=7",
+    "equation": "(60-8*4)/4=7",
+    "answer": "7",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "7*3+4*2+3=32",
+    "equation": "7*3+4*2+3=32",
+    "answer": "32",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "60-2*12-10=26",
+    "equation": "60-2*12-10=26",
+    "answer": "26",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "200-4*33=68",
+    "equation": "200-4*33=68",
+    "answer": "68",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "50+20+10*3*7+3*7*20=700",
+    "equation": "50+20+10*3*7+3*7*20=700",
+    "answer": "700",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(4*10-4)/(4*10-4)=1",
+    "equation": "(4*10-4)/(4*10-4)=1",
+    "answer": "1",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(23-5)*(6-3)/(6-3-1)=27",
+    "equation": "(23-5)*(6-3)/(6-3-1)=27",
+    "answer": "27",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(3*30+5*30)/12=20",
+    "equation": "(3*30+5*30)/12=20",
+    "answer": "20",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "60-(17+17*2)=9",
+    "equation": "60-(17+17*2)=9",
+    "answer": "9",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "5*6*10=300",
+    "equation": "5*6*10=300",
+    "answer": "300",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "9/(5+9)*84-20=34",
+    "equation": "9/(5+9)*84-20=34",
+    "answer": "34",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(12*56/8+26/2)*3=291",
+    "equation": "(12*56/8+26/2)*3=291",
+    "answer": "291",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "100-100/5*0.6*7=16",
+    "equation": "100-100/5*0.6*7=16",
+    "answer": "16",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "45/5+36/6+49/7=22",
+    "equation": "45/5+36/6+49/7=22",
+    "answer": "22",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "3*12/4=9",
+    "equation": "3*12/4=9",
+    "answer": "9",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "3*1*31=93",
+    "equation": "3*1*31=93",
+    "answer": "93",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "30-24+15=21",
+    "equation": "30-24+15=21",
+    "answer": "21",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(110+140)/(3+2)=50",
+    "equation": "(110+140)/(3+2)=50",
+    "answer": "50",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "0.2*(0.2*3)*100=12",
+    "equation": "0.2*(0.2*3)*100=12",
+    "answer": "12",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(27+27-5+(27-5)/2)/3=20",
+    "equation": "(27+27-5+(27-5)/2)/3=20",
+    "answer": "20",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "4*5+5*2=30",
+    "equation": "4*5+5*2=30",
+    "answer": "30",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "5+5+5*0.6=13",
+    "equation": "5+5+5*0.6=13",
+    "answer": "13",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "2*20*4+2*20*2-(4*20+2*20)=120",
+    "equation": "2*20*4+2*20*2-(4*20+2*20)=120",
+    "answer": "120",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(7-2+1)/2=3",
+    "equation": "(7-2+1)/2=3",
+    "answer": "3",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "2300*(100/20)-4200=7300",
+    "equation": "2300*(100/20)-4200=7300",
+    "answer": "7300",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "0.5*100=50",
+    "equation": "0.5*100=50",
+    "answer": "50",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "5168-(1907+2136)=1125",
+    "equation": "5168-(1907+2136)=1125",
+    "answer": "1125",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "50+80-50+3*(80-50)=170",
+    "equation": "50+80-50+3*(80-50)=170",
+    "answer": "170",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "26/2-10=3",
+    "equation": "26/2-10=3",
+    "answer": "3",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "2*3*2=12",
+    "equation": "2*3*2=12",
+    "answer": "12",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "3*12-(5+5*2+(5*2-2)+(5*2-2)/2)=9",
+    "equation": "3*12-(5+5*2+(5*2-2)+(5*2-2)/2)=9",
+    "answer": "9",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(200+200+(200+200)*0.6+200+200)*3*0.4=1248",
+    "equation": "(200+200+(200+200)*0.6+200+200)*3*0.4=1248",
+    "answer": "1248",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "50+50*3+50*7+(50*20-200)+50*20=2350",
+    "equation": "50+50*3+50*7+(50*20-200)+50*20=2350",
+    "answer": "2350",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "100*1+100*1/5=120",
+    "equation": "100*1+100*1/5=120",
+    "answer": "120",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "4*(72/6-7)=20",
+    "equation": "4*(72/6-7)=20",
+    "answer": "20",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "5-(5*3-5*3*4/5)=2",
+    "equation": "5-(5*3-5*3*4/5)=2",
+    "answer": "2",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "12/2/3=2",
+    "equation": "12/2/3=2",
+    "answer": "2",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "20*12*5+1000+20*12*4=3160",
+    "equation": "20*12*5+1000+20*12*4=3160",
+    "answer": "3160",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "3+3*2+3*2*2+3*2*2*2+3*2*2*2*2=93",
+    "equation": "3+3*2+3*2*2+3*2*2*2+3*2*2*2*2=93",
+    "answer": "93",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "1/(1*(12/(100*20/100+100)))=10",
+    "equation": "1/(1*(12/(100*20/100+100)))=10",
+    "answer": "10",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(1000/20-10)/2*3*((1000/20-10)/2)/5=240",
+    "equation": "(1000/20-10)/2*3*((1000/20-10)/2)/5=240",
+    "answer": "240",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "4-2+4+4*(4-2)+1/4*4*(4-2)=16",
+    "equation": "4-2+4+4*(4-2)+1/4*4*(4-2)=16",
+    "answer": "16",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "5-5*0.45-(5-5*0.45)*0.2-(5-5*0.45-(5-5*0.45)*0.2)*0.2=1.76",
+    "equation": "5-5*0.45-(5-5*0.45)*0.2-(5-5*0.45-(5-5*0.45)*0.2)*0.2=1.76",
+    "answer": "1.76",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "12+12-(12*1/3+12*1/(12*1/3))=17",
+    "equation": "12+12-(12*1/3+12*1/(12*1/3))=17",
+    "answer": "17",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "5*3+2=17",
+    "equation": "5*3+2=17",
+    "answer": "17",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(4+7+4)/30*100=50",
+    "equation": "(4+7+4)/30*100=50",
+    "answer": "50",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "3.5*2/5*4000=5600",
+    "equation": "3.5*2/5*4000=5600",
+    "answer": "5600",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "40/2=20",
+    "equation": "40/2=20",
+    "answer": "20",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "27000/3/(500/100)=1800",
+    "equation": "27000/3/(500/100)=1800",
+    "answer": "1800",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "5+(2-1)-(2-1)+(5+(2-1))=11",
+    "equation": "5+(2-1)-(2-1)+(5+(2-1))=11",
+    "answer": "11",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "850/50*18=306",
+    "equation": "850/50*18=306",
+    "answer": "306",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "6*4/8+6*4/8=6",
+    "equation": "6*4/8+6*4/8=6",
+    "answer": "6",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "5*2+3*3=19",
+    "equation": "5*2+3*3=19",
+    "answer": "19",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "60/(20-2*60/15)=5",
+    "equation": "60/(20-2*60/15)=5",
+    "answer": "5",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(28-20)/2+20=24",
+    "equation": "(28-20)/2+20=24",
+    "answer": "24",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "1+1+1+1+1+1=6",
+    "equation": "1+1+1+1+1+1=6",
+    "answer": "6",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "78-59=19",
+    "equation": "78-59=19",
+    "answer": "19",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "40+(10-8)*30=100",
+    "equation": "40+(10-8)*30=100",
+    "answer": "100",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "7.5*6*4*1.5+10=280",
+    "equation": "7.5*6*4*1.5+10=280",
+    "answer": "280",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "1*6*0.5+1*2*0.75+1*2*0.75+1*6*0.5=9",
+    "equation": "1*6*0.5+1*2*0.75+1*2*0.75+1*6*0.5=9",
+    "answer": "9",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "10*3*40=1200",
+    "equation": "10*3*40=1200",
+    "answer": "1200",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "2*40+50*3+50+40=320",
+    "equation": "2*40+50*3+50+40=320",
+    "answer": "320",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "5*2*5+5*5=75",
+    "equation": "5*2*5+5*5=75",
+    "answer": "75",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "600+(600/10+0.5*600/10)*10*2=2400",
+    "equation": "600+(600/10+0.5*600/10)*10*2=2400",
+    "answer": "2400",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "1/4*2*20+2*20+20+10+2*20+20=140",
+    "equation": "1/4*2*20+2*20+20+10+2*20+20=140",
+    "answer": "140",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(24-4-7-5)/(3+1)=2",
+    "equation": "(24-4-7-5)/(3+1)=2",
+    "answer": "2",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(40-8)/4=8",
+    "equation": "(40-8)/4=8",
+    "answer": "8",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "5/11*(66-1/3*66)+1/3*66=42",
+    "equation": "5/11*(66-1/3*66)+1/3*66=42",
+    "answer": "42",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "2*4+3*6-4-6/2=19",
+    "equation": "2*4+3*6-4-6/2=19",
+    "answer": "19",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "60*7-60*3=240",
+    "equation": "60*7-60*3=240",
+    "answer": "240",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "700-40/100*700-60/100*(700-40/100*700)=168",
+    "equation": "700-40/100*700-60/100*(700-40/100*700)=168",
+    "answer": "168",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "4*3-(1+4+3)=4",
+    "equation": "4*3-(1+4+3)=4",
+    "answer": "4",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "250000*0.4-250000*0.4*0.6=40000",
+    "equation": "250000*0.4-250000*0.4*0.6=40000",
+    "answer": "40000",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "56*0.5+46*0.5+26*0.5=64",
+    "equation": "56*0.5+46*0.5+26*0.5=64",
+    "answer": "64",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "11/8*72-72=27",
+    "equation": "11/8*72-72=27",
+    "answer": "27",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "3*1+3*1*2*1+5*2*1*2*1=29",
+    "equation": "3*1+3*1*2*1+5*2*1*2*1=29",
+    "answer": "29",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "10*30-12=288",
+    "equation": "10*30-12=288",
+    "answer": "288",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "8*(14+3*14)=448",
+    "equation": "8*(14+3*14)=448",
+    "answer": "448",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "120*1+120*1/8*2=150",
+    "equation": "120*1+120*1/8*2=150",
+    "answer": "150",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "300+300*2/100-25*11=31",
+    "equation": "300+300*2/100-25*11=31",
+    "answer": "31",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "2*5/2=5",
+    "equation": "2*5/2=5",
+    "answer": "5",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "900-6*6*15/0.15*0.8*0.3=36",
+    "equation": "900-6*6*15/0.15*0.8*0.3=36",
+    "answer": "36",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "200-(20+40+3/4*40)*2=20",
+    "equation": "200-(20+40+3/4*40)*2=20",
+    "answer": "20",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "5*3*2+150/100*2*150/100*2*(2+150/100*2)=75",
+    "equation": "5*3*2+150/100*2*150/100*2*(2+150/100*2)=75",
+    "answer": "75",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "4*10/8*45=225",
+    "equation": "4*10/8*45=225",
+    "answer": "225",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "10*2+20*4=100",
+    "equation": "10*2+20*4=100",
+    "answer": "100",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "4*(40/5)=32",
+    "equation": "4*(40/5)=32",
+    "answer": "32",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "80/16*2=10",
+    "equation": "80/16*2=10",
+    "answer": "10",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "35*5*2=350",
+    "equation": "35*5*2=350",
+    "answer": "350",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(36-16)*0.2+(36-16)*0.2=8",
+    "equation": "(36-16)*0.2+(36-16)*0.2=8",
+    "answer": "8",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "2*2+1=5",
+    "equation": "2*2+1=5",
+    "answer": "5",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "12/4=3",
+    "equation": "12/4=3",
+    "answer": "3",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "35+40-(35+40)*0.2+3*10=90",
+    "equation": "35+40-(35+40)*0.2+3*10=90",
+    "answer": "90",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "3*12+4*6+6=66",
+    "equation": "3*12+4*6+6=66",
+    "answer": "66",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "27+12-8=31",
+    "equation": "27+12-8=31",
+    "answer": "31",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "40+40*0.8-(40+40*0.8)*0.5=36",
+    "equation": "40+40*0.8-(40+40*0.8)*0.5=36",
+    "answer": "36",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "4*80+2*(80-80/4)=440",
+    "equation": "4*80+2*(80-80/4)=440",
+    "answer": "440",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(50+80+80+60+40+90+100+70+60)/9=70",
+    "equation": "(50+80+80+60+40+90+100+70+60)/9=70",
+    "answer": "70",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "20*1-20*1/4=15",
+    "equation": "20*1-20*1/4=15",
+    "answer": "15",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(60-2/5*60-25/100*(60-2/5*60))*3=81",
+    "equation": "(60-2/5*60-25/100*(60-2/5*60))*3=81",
+    "answer": "81",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "4/3*9=12",
+    "equation": "4/3*9=12",
+    "answer": "12",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "50*(3*24)/6000*100=60",
+    "equation": "50*(3*24)/6000*100=60",
+    "answer": "60",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "6*5+12*4+6=84",
+    "equation": "6*5+12*4+6=84",
+    "answer": "84",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "82-13+9=78",
+    "equation": "82-13+9=78",
+    "answer": "78",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "52*(1+3+2*3)=520",
+    "equation": "52*(1+3+2*3)=520",
+    "answer": "520",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "80/5*15/60/8*100=50",
+    "equation": "80/5*15/60/8*100=50",
+    "answer": "50",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "110/(2*10+2*10+(2*10-5))=2",
+    "equation": "110/(2*10+2*10+(2*10-5))=2",
+    "answer": "2",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "2.4*5*5/3-2.4*5=8",
+    "equation": "2.4*5*5/3-2.4*5=8",
+    "answer": "8",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "100-1/2*100-3/5*(100-1/2*100)=20",
+    "equation": "100-1/2*100-3/5*(100-1/2*100)=20",
+    "answer": "20",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(18-3)/30*100=50",
+    "equation": "(18-3)/30*100=50",
+    "answer": "50",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(70+40)*0.7-70*0.6=35",
+    "equation": "(70+40)*0.7-70*0.6=35",
+    "answer": "35",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "5*20-4=96",
+    "equation": "5*20-4=96",
+    "answer": "96",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "21*40*4=3360",
+    "equation": "21*40*4=3360",
+    "answer": "3360",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "10/2+3-1=7",
+    "equation": "10/2+3-1=7",
+    "answer": "7",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "25*2*15=750",
+    "equation": "25*2*15=750",
+    "answer": "750",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "8/2*5+(8/2*(1*4)+8/2*5)=56",
+    "equation": "8/2*5+(8/2*(1*4)+8/2*5)=56",
+    "answer": "56",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "2*55/5=22",
+    "equation": "2*55/5=22",
+    "answer": "22",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "5/2*2+2*5*2+5/2*2=30",
+    "equation": "5/2*2+2*5*2+5/2*2=30",
+    "answer": "30",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "1/2*20+20*2+20=70",
+    "equation": "1/2*20+20*2+20=70",
+    "answer": "70",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "5*6*60/15=120",
+    "equation": "5*6*60/15=120",
+    "answer": "120",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "6*12-7*6=30",
+    "equation": "6*12-7*6=30",
+    "answer": "30",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "0.25*(20-4-1*8)+20-4-1*8+0.25*(20-4-1*8)=12",
+    "equation": "0.25*(20-4-1*8)+20-4-1*8+0.25*(20-4-1*8)=12",
+    "answer": "12",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "200/2/20+200/2/10=15",
+    "equation": "200/2/20+200/2/10=15",
+    "answer": "15",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "2*(56/8)=14.00",
+    "equation": "2*(56/8)=14.00",
+    "answer": "14.00",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "4*20/2+20=60",
+    "equation": "4*20/2+20=60",
+    "answer": "60",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "30*10*12*2=7200",
+    "equation": "30*10*12*2=7200",
+    "answer": "7200",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "210/7/6=5",
+    "equation": "210/7/6=5",
+    "answer": "5",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "5*(5*5+6+8*2)=235",
+    "equation": "5*(5*5+6+8*2)=235",
+    "answer": "235",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "450*10/(150*2.5)=12",
+    "equation": "450*10/(150*2.5)=12",
+    "answer": "12",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "60*4+(50+20)*2+50+20+50=500",
+    "equation": "60*4+(50+20)*2+50+20+50=500",
+    "answer": "500",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "20+3*20+20+3*20+4*20/2+4*20/2/4=210",
+    "equation": "20+3*20+20+3*20+4*20/2+4*20/2/4=210",
+    "answer": "210",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(2*1+4*1)*(2*1+4*1)=36",
+    "equation": "(2*1+4*1)*(2*1+4*1)=36",
+    "answer": "36",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(3*5+2*3)*7=147",
+    "equation": "(3*5+2*3)*7=147",
+    "answer": "147",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(10*2+15*4)/2=40",
+    "equation": "(10*2+15*4)/2=40",
+    "answer": "40",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "32-4-4*2=20",
+    "equation": "32-4-4*2=20",
+    "answer": "20",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "8*18-5*18=54",
+    "equation": "8*18-5*18=54",
+    "answer": "54",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "9000-9000*0.3-(9000-9000*0.3)*0.3-(9000-9000*0.3-(9000-9000*0.3)*0.3)*0.2=3528",
+    "equation": "9000-9000*0.3-(9000-9000*0.3)*0.3-(9000-9000*0.3-(9000-9000*0.3)*0.3)*0.2=3528",
+    "answer": "3528",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "232-(54+54*2+54/2)=43",
+    "equation": "232-(54+54*2+54/2)=43",
+    "answer": "43",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "3*80+7*80*10/100=296",
+    "equation": "3*80+7*80*10/100=296",
+    "answer": "296",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "52-(21+4)=27",
+    "equation": "52-(21+4)=27",
+    "answer": "27",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "12*2+8+2*3=38",
+    "equation": "12*2+8+2*3=38",
+    "answer": "38",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(1200+250+75*2)*0.01=16",
+    "equation": "(1200+250+75*2)*0.01=16",
+    "answer": "16",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "20*2+15*2=70",
+    "equation": "20*2+15*2=70",
+    "answer": "70",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(40+16+40)/2=48",
+    "equation": "(40+16+40)/2=48",
+    "answer": "48",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "214+432+86-67=665",
+    "equation": "214+432+86-67=665",
+    "answer": "665",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "12*(6+5+4)=180",
+    "equation": "12*(6+5+4)=180",
+    "answer": "180",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "10/2+2=7",
+    "equation": "10/2+2=7",
+    "answer": "7",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "300-4*2*5*7=20",
+    "equation": "300-4*2*5*7=20",
+    "answer": "20",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(2*20-4)/6*2=12",
+    "equation": "(2*20-4)/6*2=12",
+    "answer": "12",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "20*2*1+20*2*1-5*4=60",
+    "equation": "20*2*1+20*2*1-5*4=60",
+    "answer": "60",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "5*2*3-5=25",
+    "equation": "5*2*3-5=25",
+    "answer": "25",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "1360-(64+30+48)=1218",
+    "equation": "1360-(64+30+48)=1218",
+    "answer": "1218",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "25+2*5+7*2*5=105",
+    "equation": "25+2*5+7*2*5=105",
+    "answer": "105",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "3*16+12+12*2=84",
+    "equation": "3*16+12+12*2=84",
+    "answer": "84",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(15+15)*7*4/60+4*1*5=34",
+    "equation": "(15+15)*7*4/60+4*1*5=34",
+    "answer": "34",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "11*3+8*4+6*6=101",
+    "equation": "11*3+8*4+6*6=101",
+    "answer": "101",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "3*12+3*12+3*12*50*0.01=90",
+    "equation": "3*12+3*12+3*12*50*0.01=90",
+    "answer": "90",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "18*3/2=27",
+    "equation": "18*3/2=27",
+    "answer": "27",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "2*36-2-3=67",
+    "equation": "2*36-2-3=67",
+    "answer": "67",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "14*5000*2=140000",
+    "equation": "14*5000*2=140000",
+    "answer": "140000",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "8+8*0.5+40-40*0.4=36",
+    "equation": "8+8*0.5+40-40*0.4=36",
+    "answer": "36",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(6*3-1.25*(1+3))/6.5=2",
+    "equation": "(6*3-1.25*(1+3))/6.5=2",
+    "answer": "2",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "100+5+30+2*100=335",
+    "equation": "100+5+30+2*100=335",
+    "answer": "335",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "10*(50-(2*6+2*6+2*10))=60",
+    "equation": "10*(50-(2*6+2*6+2*10))=60",
+    "answer": "60",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "32/4+95/10+120/20+750/100=31",
+    "equation": "32/4+95/10+120/20+750/100=31",
+    "answer": "31",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "40-(3.5+7.5*2+8.5)=13",
+    "equation": "40-(3.5+7.5*2+8.5)=13",
+    "answer": "13",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(7-2)*3*4*2=120",
+    "equation": "(7-2)*3*4*2=120",
+    "answer": "120",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "9+4+5-3-2-2+4*3=23",
+    "equation": "9+4+5-3-2-2+4*3=23",
+    "answer": "23",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "12*0.5*5+12*0.5*7=72",
+    "equation": "12*0.5*5+12*0.5*7=72",
+    "answer": "72",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "14*6/(9-6)/7=4",
+    "equation": "14*6/(9-6)/7=4",
+    "answer": "4",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "4000-4000*3/4=1000",
+    "equation": "4000-4000*3/4=1000",
+    "answer": "1000",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "7995-(2595+3075)=2325",
+    "equation": "7995-(2595+3075)=2325",
+    "answer": "2325",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "7-(29-16/2-(14+2))=2",
+    "equation": "7-(29-16/2-(14+2))=2",
+    "answer": "2",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "40-4*2*4=8",
+    "equation": "40-4*2*4=8",
+    "answer": "8",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "10+10*2=30",
+    "equation": "10+10*2=30",
+    "answer": "30",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "320+430+430+400+(400+300)=2280",
+    "equation": "320+430+430+400+(400+300)=2280",
+    "answer": "2280",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "4*16/(4/2)*4/2=64",
+    "equation": "4*16/(4/2)*4/2=64",
+    "answer": "64",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "200*3-6=594",
+    "equation": "200*3-6=594",
+    "answer": "594",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "6*(2*5+5)*2=180",
+    "equation": "6*(2*5+5)*2=180",
+    "answer": "180",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(80+80*25/100)/50=2",
+    "equation": "(80+80*25/100)/50=2",
+    "answer": "2",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(12-3)*2+19-32+3=8",
+    "equation": "(12-3)*2+19-32+3=8",
+    "answer": "8",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "60/3-60/4=5",
+    "equation": "60/3-60/4=5",
+    "answer": "5",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "400-400*0.8+3*50=230",
+    "equation": "400-400*0.8+3*50=230",
+    "answer": "230",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "(4*20-70)/(4-2)=5",
+    "equation": "(4*20-70)/(4-2)=5",
+    "answer": "5",
+    "q_type": "base"
+  },
+  {
+    "ori_equation": "7*8/(1+3)=14",
+    "equation": "7*8/(1+3)=14",
+    "answer": "14",
+    "q_type": "base"
+  }
+]

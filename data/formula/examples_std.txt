@@ -1,0 +1,32 @@
+Instruction: Answer the given question. You will end your response with a sentence in the format of `So the answer is <number>.`
+Question: What is 21 - 15 equal to?
+Answer: So the answer is 6.
+
+Instruction: Answer the given question. You will end your response with a sentence in the format of `So the answer is <number>.`
+Question: What is 3 + 2 equal to?
+Answer: So the answer is 5.
+
+Instruction: Answer the given question. You will end your response with a sentence in the format of `So the answer is <number>.`
+Question: What is 32 + 42 - 35 equal to?
+Answer: So the answer is 39.
+
+Instruction: Answer the given question. You will end your response with a sentence in the format of `So the answer is <number>.`
+Question: What is 20 - 12 equal to?
+Answer: So the answer is 8.
+
+Instruction: Answer the given question. You will end your response with a sentence in the format of `So the answer is <number>.`
+Question: What is 5 + 4 equal to?
+Answer: So the answer is 9.
+
+Instruction: Answer the given question. You will end your response with a sentence in the format of `So the answer is <number>.`
+Question: What is 9 + 5 * 4 equal to?
+Answer: So the answer is 29.
+
+Instruction: Answer the given question. You will end your response with a sentence in the format of `So the answer is <number>.`
+Question: What is 58 - 23 - 2 equal to?
+Answer: So the answer is 33.
+
+Instruction: Answer the given question. You will end your response with a sentence in the format of `So the answer is <number>.`
+Question: What is 23 - 5 * 3 equal to?
+Answer: So the answer is 8.
+

@@ -1,0 +1,2402 @@
+[
+  {
+    "num_a": 1,
+    "num_b": 29,
+    "seed": 42,
+    "fruit_pair": [
+      "longan",
+      "mangosteen"
+    ],
+    "question": "Here is a list: [mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, longan, mangosteen, mangosteen]. How many times does 'longan' appear on it?",
+    "target": "0",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 1,
+    "num_b": 29,
+    "seed": 42,
+    "fruit_pair": [
+      "longan",
+      "mangosteen"
+    ],
+    "question": "Here is a list: [mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, longan, mangosteen, mangosteen]. How many times does 'mangosteen' appear on it?",
+    "target": "1",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 4,
+    "num_b": 6,
+    "seed": 44,
+    "fruit_pair": [
+      "yumberry",
+      "pitanga"
+    ],
+    "question": "Here is a list: [pitanga, pitanga, yumberry, yumberry, pitanga, yumberry, pitanga, yumberry, pitanga, pitanga]. How many times does 'yumberry' appear on it?",
+    "target": "0",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 4,
+    "num_b": 6,
+    "seed": 44,
+    "fruit_pair": [
+      "yumberry",
+      "pitanga"
+    ],
+    "question": "Here is a list: [pitanga, pitanga, yumberry, yumberry, pitanga, yumberry, pitanga, yumberry, pitanga, pitanga]. How many times does 'pitanga' appear on it?",
+    "target": "1",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 4,
+    "num_b": 26,
+    "seed": 42,
+    "fruit_pair": [
+      "longan",
+      "mangosteen"
+    ],
+    "question": "Here is a list: [mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, longan, mangosteen, mangosteen, longan, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, longan, longan, mangosteen]. How many times does 'mangosteen' appear on it?",
+    "target": "1",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 9,
+    "num_b": 21,
+    "seed": 42,
+    "fruit_pair": [
+      "longan",
+      "mangosteen"
+    ],
+    "question": "Here is a list: [mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, longan, longan, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, longan, mangosteen, mangosteen, longan, mangosteen, mangosteen, longan, mangosteen, longan, longan, mangosteen, longan, longan, mangosteen]. How many times does 'longan' appear on it?",
+    "target": "0",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 5,
+    "num_b": 5,
+    "seed": 41,
+    "fruit_pair": [
+      "yumberry",
+      "pitanga"
+    ],
+    "question": "Here is a list: [yumberry, pitanga, pitanga, yumberry, yumberry, pitanga, yumberry, yumberry, pitanga, pitanga]. How many times does 'yumberry' appear on it?",
+    "target": "0",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 4,
+    "num_b": 6,
+    "seed": 41,
+    "fruit_pair": [
+      "ugli",
+      "keule"
+    ],
+    "question": "Here is a list: [ugli, keule, keule, ugli, keule, keule, ugli, ugli, keule, keule]. How many times does 'ugli' appear on it?",
+    "target": "0",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 3,
+    "num_b": 7,
+    "seed": 47,
+    "fruit_pair": [
+      "ugli",
+      "pequi"
+    ],
+    "question": "Here is a list: [ugli, pequi, pequi, ugli, pequi, pequi, pequi, pequi, ugli, pequi]. How many times does 'ugli' appear on it?",
+    "target": "0",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 3,
+    "num_b": 7,
+    "seed": 47,
+    "fruit_pair": [
+      "ugli",
+      "pequi"
+    ],
+    "question": "Here is a list: [ugli, pequi, pequi, ugli, pequi, pequi, pequi, pequi, ugli, pequi]. How many times does 'pequi' appear on it?",
+    "target": "1",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 9,
+    "num_b": 21,
+    "seed": 42,
+    "fruit_pair": [
+      "longan",
+      "mangosteen"
+    ],
+    "question": "Here is a list: [mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, longan, longan, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, longan, mangosteen, mangosteen, longan, mangosteen, mangosteen, longan, mangosteen, longan, longan, mangosteen, longan, longan, mangosteen]. How many times does 'mangosteen' appear on it?",
+    "target": "1",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 9,
+    "num_b": 31,
+    "seed": 40,
+    "fruit_pair": [
+      "jujube",
+      "mangosteen"
+    ],
+    "question": "Here is a list: [jujube, jujube, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, jujube, mangosteen, mangosteen, jujube, mangosteen, jujube, jujube, mangosteen, mangosteen, jujube, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, jujube, mangosteen, mangosteen, mangosteen, jujube, mangosteen, mangosteen, mangosteen]. How many times does 'jujube' appear on it?",
+    "target": "0",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 2,
+    "num_b": 8,
+    "seed": 44,
+    "fruit_pair": [
+      "keule",
+      "pequi"
+    ],
+    "question": "Here is a list: [pequi, pequi, keule, pequi, pequi, pequi, pequi, keule, pequi, pequi]. How many times does 'keule' appear on it?",
+    "target": "0",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 2,
+    "num_b": 8,
+    "seed": 44,
+    "fruit_pair": [
+      "keule",
+      "pequi"
+    ],
+    "question": "Here is a list: [pequi, pequi, keule, pequi, pequi, pequi, pequi, keule, pequi, pequi]. How many times does 'pequi' appear on it?",
+    "target": "1",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 9,
+    "num_b": 31,
+    "seed": 40,
+    "fruit_pair": [
+      "jujube",
+      "mangosteen"
+    ],
+    "question": "Here is a list: [jujube, jujube, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, jujube, mangosteen, mangosteen, jujube, mangosteen, jujube, jujube, mangosteen, mangosteen, jujube, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, jujube, mangosteen, mangosteen, mangosteen, jujube, mangosteen, mangosteen, mangosteen]. How many times does 'mangosteen' appear on it?",
+    "target": "1",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 12,
+    "num_b": 28,
+    "seed": 40,
+    "fruit_pair": [
+      "jujube",
+      "yuzu"
+    ],
+    "question": "Here is a list: [jujube, jujube, yuzu, jujube, yuzu, jujube, yuzu, yuzu, yuzu, yuzu, yuzu, yuzu, yuzu, yuzu, yuzu, jujube, jujube, yuzu, yuzu, jujube, yuzu, jujube, jujube, yuzu, yuzu, jujube, yuzu, yuzu, yuzu, yuzu, yuzu, yuzu, jujube, yuzu, yuzu, yuzu, jujube, yuzu, yuzu, yuzu]. How many times does 'jujube' appear on it?",
+    "target": "0",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 9,
+    "num_b": 11,
+    "seed": 41,
+    "fruit_pair": [
+      "yumberry",
+      "pequi"
+    ],
+    "question": "Here is a list: [yumberry, pequi, pequi, yumberry, pequi, pequi, pequi, yumberry, yumberry, yumberry, pequi, yumberry, yumberry, pequi, pequi, pequi, yumberry, yumberry, pequi, pequi]. How many times does 'yumberry' appear on it?",
+    "target": "0",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 9,
+    "num_b": 11,
+    "seed": 41,
+    "fruit_pair": [
+      "yumberry",
+      "pequi"
+    ],
+    "question": "Here is a list: [yumberry, pequi, pequi, yumberry, pequi, pequi, pequi, yumberry, yumberry, yumberry, pequi, yumberry, yumberry, pequi, pequi, pequi, yumberry, yumberry, pequi, pequi]. How many times does 'pequi' appear on it?",
+    "target": "1",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 16,
+    "num_b": 24,
+    "seed": 40,
+    "fruit_pair": [
+      "longan",
+      "mangosteen"
+    ],
+    "question": "Here is a list: [longan, longan, mangosteen, longan, longan, longan, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, longan, longan, mangosteen, mangosteen, longan, mangosteen, longan, longan, mangosteen, mangosteen, longan, mangosteen, longan, mangosteen, mangosteen, mangosteen, mangosteen, longan, longan, mangosteen, longan, longan, mangosteen, mangosteen, mangosteen]. How many times does 'longan' appear on it?",
+    "target": "0",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 16,
+    "num_b": 24,
+    "seed": 40,
+    "fruit_pair": [
+      "longan",
+      "mangosteen"
+    ],
+    "question": "Here is a list: [longan, longan, mangosteen, longan, longan, longan, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, longan, longan, mangosteen, mangosteen, longan, mangosteen, longan, longan, mangosteen, mangosteen, longan, mangosteen, longan, mangosteen, mangosteen, mangosteen, mangosteen, longan, longan, mangosteen, longan, longan, mangosteen, mangosteen, mangosteen]. How many times does 'mangosteen' appear on it?",
+    "target": "1",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 3,
+    "num_b": 37,
+    "seed": 41,
+    "fruit_pair": [
+      "longan",
+      "yuzu"
+    ],
+    "question": "Here is a list: [yuzu, longan, yuzu, yuzu, yuzu, yuzu, yuzu, yuzu, yuzu, yuzu, yuzu, yuzu, yuzu, yuzu, yuzu, yuzu, yuzu, longan, yuzu, yuzu, yuzu, yuzu, yuzu, yuzu, yuzu, yuzu, yuzu, yuzu, yuzu, yuzu, yuzu, longan, yuzu, yuzu, yuzu, yuzu, yuzu, yuzu, yuzu, yuzu]. How many times does 'longan' appear on it?",
+    "target": "0",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 3,
+    "num_b": 37,
+    "seed": 41,
+    "fruit_pair": [
+      "longan",
+      "yuzu"
+    ],
+    "question": "Here is a list: [yuzu, longan, yuzu, yuzu, yuzu, yuzu, yuzu, yuzu, yuzu, yuzu, yuzu, yuzu, yuzu, yuzu, yuzu, yuzu, yuzu, longan, yuzu, yuzu, yuzu, yuzu, yuzu, yuzu, yuzu, yuzu, yuzu, yuzu, yuzu, yuzu, yuzu, longan, yuzu, yuzu, yuzu, yuzu, yuzu, yuzu, yuzu, yuzu]. How many times does 'yuzu' appear on it?",
+    "target": "1",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 5,
+    "num_b": 15,
+    "seed": 40,
+    "fruit_pair": [
+      "ugli",
+      "keule"
+    ],
+    "question": "Here is a list: [keule, keule, keule, keule, ugli, keule, keule, keule, keule, ugli, ugli, keule, keule, keule, ugli, keule, ugli, keule, keule, keule]. How many times does 'ugli' appear on it?",
+    "target": "0",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 5,
+    "num_b": 15,
+    "seed": 40,
+    "fruit_pair": [
+      "ugli",
+      "keule"
+    ],
+    "question": "Here is a list: [keule, keule, keule, keule, ugli, keule, keule, keule, keule, ugli, ugli, keule, keule, keule, ugli, keule, ugli, keule, keule, keule]. How many times does 'keule' appear on it?",
+    "target": "1",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 17,
+    "num_b": 23,
+    "seed": 40,
+    "fruit_pair": [
+      "longan",
+      "lychee"
+    ],
+    "question": "Here is a list: [longan, longan, lychee, longan, longan, longan, lychee, lychee, lychee, lychee, lychee, lychee, lychee, lychee, lychee, longan, longan, lychee, lychee, longan, lychee, longan, longan, lychee, longan, longan, lychee, longan, lychee, lychee, lychee, lychee, longan, longan, lychee, longan, longan, lychee, lychee, lychee]. How many times does 'lychee' appear on it?",
+    "target": "1",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 7,
+    "num_b": 43,
+    "seed": 41,
+    "fruit_pair": [
+      "jujube",
+      "mangosteen"
+    ],
+    "question": "Here is a list: [mangosteen, mangosteen, jujube, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, jujube, mangosteen, mangosteen, jujube, jujube, mangosteen, mangosteen, mangosteen, mangosteen, jujube, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, jujube, mangosteen, jujube, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen]. How many times does 'mangosteen' appear on it?",
+    "target": "1",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 9,
+    "num_b": 11,
+    "seed": 43,
+    "fruit_pair": [
+      "ugli",
+      "keule"
+    ],
+    "question": "Here is a list: [ugli, keule, ugli, ugli, ugli, ugli, keule, ugli, keule, keule, ugli, keule, keule, keule, keule, keule, keule, ugli, keule, ugli]. How many times does 'ugli' appear on it?",
+    "target": "0",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 9,
+    "num_b": 11,
+    "seed": 43,
+    "fruit_pair": [
+      "ugli",
+      "keule"
+    ],
+    "question": "Here is a list: [ugli, keule, ugli, ugli, ugli, ugli, keule, ugli, keule, keule, ugli, keule, keule, keule, keule, keule, keule, ugli, keule, ugli]. How many times does 'keule' appear on it?",
+    "target": "1",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 4,
+    "num_b": 16,
+    "seed": 42,
+    "fruit_pair": [
+      "ugli",
+      "pitanga"
+    ],
+    "question": "Here is a list: [pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, ugli, pitanga, ugli, pitanga, pitanga, pitanga, ugli, ugli]. How many times does 'ugli' appear on it?",
+    "target": "0",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 4,
+    "num_b": 16,
+    "seed": 42,
+    "fruit_pair": [
+      "ugli",
+      "pitanga"
+    ],
+    "question": "Here is a list: [pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, ugli, pitanga, ugli, pitanga, pitanga, pitanga, ugli, ugli]. How many times does 'pitanga' appear on it?",
+    "target": "1",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 16,
+    "num_b": 34,
+    "seed": 41,
+    "fruit_pair": [
+      "jujube",
+      "yuzu"
+    ],
+    "question": "Here is a list: [yuzu, yuzu, jujube, jujube, yuzu, yuzu, yuzu, jujube, yuzu, yuzu, yuzu, yuzu, yuzu, yuzu, yuzu, jujube, yuzu, jujube, jujube, jujube, yuzu, jujube, yuzu, yuzu, jujube, yuzu, yuzu, yuzu, yuzu, yuzu, jujube, yuzu, yuzu, yuzu, jujube, yuzu, jujube, jujube, jujube, yuzu, yuzu, yuzu, yuzu, yuzu, yuzu, yuzu, jujube, jujube, yuzu, yuzu]. How many times does 'jujube' appear on it?",
+    "target": "0",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 16,
+    "num_b": 34,
+    "seed": 41,
+    "fruit_pair": [
+      "jujube",
+      "yuzu"
+    ],
+    "question": "Here is a list: [yuzu, yuzu, jujube, jujube, yuzu, yuzu, yuzu, jujube, yuzu, yuzu, yuzu, yuzu, yuzu, yuzu, yuzu, jujube, yuzu, jujube, jujube, jujube, yuzu, jujube, yuzu, yuzu, jujube, yuzu, yuzu, yuzu, yuzu, yuzu, jujube, yuzu, yuzu, yuzu, jujube, yuzu, jujube, jujube, jujube, yuzu, yuzu, yuzu, yuzu, yuzu, yuzu, yuzu, jujube, jujube, yuzu, yuzu]. How many times does 'yuzu' appear on it?",
+    "target": "1",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 11,
+    "num_b": 19,
+    "seed": 41,
+    "fruit_pair": [
+      "yumberry",
+      "pitanga"
+    ],
+    "question": "Here is a list: [pitanga, pitanga, yumberry, yumberry, yumberry, pitanga, pitanga, pitanga, yumberry, pitanga, pitanga, pitanga, pitanga, yumberry, pitanga, pitanga, pitanga, yumberry, pitanga, pitanga, yumberry, pitanga, yumberry, pitanga, pitanga, pitanga, yumberry, yumberry, yumberry, pitanga]. How many times does 'yumberry' appear on it?",
+    "target": "0",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 14,
+    "num_b": 16,
+    "seed": 41,
+    "fruit_pair": [
+      "yumberry",
+      "pitanga"
+    ],
+    "question": "Here is a list: [pitanga, pitanga, yumberry, yumberry, yumberry, pitanga, pitanga, pitanga, yumberry, pitanga, pitanga, yumberry, yumberry, yumberry, pitanga, pitanga, pitanga, yumberry, pitanga, pitanga, yumberry, pitanga, yumberry, pitanga, pitanga, pitanga, yumberry, yumberry, yumberry, yumberry]. How many times does 'yumberry' appear on it?",
+    "target": "0",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 7,
+    "num_b": 23,
+    "seed": 40,
+    "fruit_pair": [
+      "ugli",
+      "pequi"
+    ],
+    "question": "Here is a list: [pequi, ugli, pequi, pequi, pequi, pequi, pequi, pequi, pequi, ugli, pequi, pequi, ugli, pequi, pequi, ugli, pequi, pequi, pequi, ugli, ugli, pequi, pequi, pequi, pequi, pequi, ugli, pequi, pequi, pequi]. How many times does 'ugli' appear on it?",
+    "target": "0",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 7,
+    "num_b": 23,
+    "seed": 40,
+    "fruit_pair": [
+      "ugli",
+      "pequi"
+    ],
+    "question": "Here is a list: [pequi, ugli, pequi, pequi, pequi, pequi, pequi, pequi, pequi, ugli, pequi, pequi, ugli, pequi, pequi, ugli, pequi, pequi, pequi, ugli, ugli, pequi, pequi, pequi, pequi, pequi, ugli, pequi, pequi, pequi]. How many times does 'pequi' appear on it?",
+    "target": "1",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 6,
+    "num_b": 44,
+    "seed": 41,
+    "fruit_pair": [
+      "longan",
+      "lychee"
+    ],
+    "question": "Here is a list: [lychee, lychee, longan, lychee, lychee, lychee, lychee, lychee, lychee, lychee, lychee, lychee, lychee, lychee, lychee, longan, lychee, lychee, longan, lychee, lychee, lychee, lychee, lychee, longan, lychee, lychee, lychee, lychee, lychee, lychee, lychee, lychee, lychee, lychee, lychee, longan, lychee, longan, lychee, lychee, lychee, lychee, lychee, lychee, lychee, lychee, lychee, lychee, lychee]. How many times does 'longan' appear on it?",
+    "target": "0",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 6,
+    "num_b": 44,
+    "seed": 41,
+    "fruit_pair": [
+      "longan",
+      "lychee"
+    ],
+    "question": "Here is a list: [lychee, lychee, longan, lychee, lychee, lychee, lychee, lychee, lychee, lychee, lychee, lychee, lychee, lychee, lychee, longan, lychee, lychee, longan, lychee, lychee, lychee, lychee, lychee, longan, lychee, lychee, lychee, lychee, lychee, lychee, lychee, lychee, lychee, lychee, lychee, longan, lychee, longan, lychee, lychee, lychee, lychee, lychee, lychee, lychee, lychee, lychee, lychee, lychee]. How many times does 'lychee' appear on it?",
+    "target": "1",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 11,
+    "num_b": 19,
+    "seed": 42,
+    "fruit_pair": [
+      "ugli",
+      "pequi"
+    ],
+    "question": "Here is a list: [pequi, pequi, ugli, pequi, pequi, ugli, ugli, pequi, pequi, pequi, ugli, pequi, pequi, pequi, pequi, pequi, ugli, pequi, pequi, ugli, pequi, pequi, ugli, pequi, ugli, ugli, pequi, ugli, ugli, pequi]. How many times does 'ugli' appear on it?",
+    "target": "0",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 15,
+    "num_b": 15,
+    "seed": 40,
+    "fruit_pair": [
+      "keule",
+      "pequi"
+    ],
+    "question": "Here is a list: [pequi, keule, pequi, pequi, keule, pequi, pequi, keule, pequi, keule, keule, pequi, keule, pequi, pequi, keule, pequi, keule, keule, keule, keule, pequi, pequi, pequi, keule, keule, keule, pequi, pequi, keule]. How many times does 'keule' appear on it?",
+    "target": "0",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 21,
+    "num_b": 29,
+    "seed": 40,
+    "fruit_pair": [
+      "longan",
+      "lychee"
+    ],
+    "question": "Here is a list: [longan, longan, longan, lychee, longan, lychee, lychee, longan, lychee, lychee, lychee, lychee, lychee, lychee, longan, lychee, lychee, lychee, lychee, longan, longan, longan, lychee, lychee, lychee, longan, longan, lychee, longan, lychee, lychee, lychee, longan, longan, lychee, lychee, longan, lychee, longan, lychee, longan, longan, lychee, lychee, longan, longan, longan, lychee, lychee, lychee]. How many times does 'lychee' appear on it?",
+    "target": "1",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 25,
+    "num_b": 25,
+    "seed": 41,
+    "fruit_pair": [
+      "mangosteen",
+      "yuzu"
+    ],
+    "question": "Here is a list: [mangosteen, yuzu, mangosteen, mangosteen, yuzu, yuzu, yuzu, mangosteen, yuzu, mangosteen, yuzu, yuzu, yuzu, yuzu, yuzu, mangosteen, yuzu, mangosteen, mangosteen, mangosteen, yuzu, mangosteen, yuzu, yuzu, mangosteen, yuzu, yuzu, mangosteen, mangosteen, yuzu, mangosteen, yuzu, mangosteen, yuzu, mangosteen, yuzu, mangosteen, mangosteen, mangosteen, yuzu, yuzu, mangosteen, yuzu, mangosteen, yuzu, yuzu, mangosteen, mangosteen, mangosteen, mangosteen]. How many times does 'mangosteen' appear on it?",
+    "target": "0",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 15,
+    "num_b": 15,
+    "seed": 40,
+    "fruit_pair": [
+      "keule",
+      "pequi"
+    ],
+    "question": "Here is a list: [pequi, keule, pequi, pequi, keule, pequi, pequi, keule, pequi, keule, keule, pequi, keule, pequi, pequi, keule, pequi, keule, keule, keule, keule, pequi, pequi, pequi, keule, keule, keule, pequi, pequi, keule]. How many times does 'pequi' appear on it?",
+    "target": "1",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 14,
+    "num_b": 16,
+    "seed": 41,
+    "fruit_pair": [
+      "keule",
+      "pitanga"
+    ],
+    "question": "Here is a list: [pitanga, pitanga, keule, keule, keule, pitanga, pitanga, pitanga, keule, pitanga, pitanga, keule, keule, keule, pitanga, pitanga, pitanga, keule, pitanga, pitanga, keule, pitanga, keule, pitanga, pitanga, pitanga, keule, keule, keule, keule]. How many times does 'keule' appear on it?",
+    "target": "0",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 7,
+    "num_b": 33,
+    "seed": 41,
+    "fruit_pair": [
+      "yumberry",
+      "pequi"
+    ],
+    "question": "Here is a list: [pequi, yumberry, pequi, pequi, pequi, pequi, pequi, pequi, pequi, pequi, pequi, pequi, pequi, pequi, yumberry, pequi, yumberry, yumberry, pequi, pequi, pequi, yumberry, pequi, pequi, yumberry, pequi, pequi, pequi, pequi, pequi, pequi, yumberry, pequi, pequi, pequi, pequi, pequi, pequi, pequi, pequi]. How many times does 'yumberry' appear on it?",
+    "target": "0",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 7,
+    "num_b": 33,
+    "seed": 41,
+    "fruit_pair": [
+      "yumberry",
+      "pequi"
+    ],
+    "question": "Here is a list: [pequi, yumberry, pequi, pequi, pequi, pequi, pequi, pequi, pequi, pequi, pequi, pequi, pequi, pequi, yumberry, pequi, yumberry, yumberry, pequi, pequi, pequi, yumberry, pequi, pequi, yumberry, pequi, pequi, pequi, pequi, pequi, pequi, yumberry, pequi, pequi, pequi, pequi, pequi, pequi, pequi, pequi]. How many times does 'pequi' appear on it?",
+    "target": "1",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 5,
+    "num_b": 5,
+    "seed": 49,
+    "fruit_pair": [
+      "peach",
+      "prune"
+    ],
+    "question": "Here is a list: [prune, peach, prune, prune, peach, peach, peach, prune, prune, peach]. How many times does 'peach' appear on it?",
+    "target": "0",
+    "q_type": "base"
+  },
+  {
+    "num_a": 5,
+    "num_b": 5,
+    "seed": 49,
+    "fruit_pair": [
+      "peach",
+      "prune"
+    ],
+    "question": "Here is a list: [prune, peach, prune, prune, peach, peach, peach, prune, prune, peach]. How many times does 'prune' appear on it?",
+    "target": "1",
+    "q_type": "base"
+  },
+  {
+    "num_a": 8,
+    "num_b": 32,
+    "seed": 40,
+    "fruit_pair": [
+      "yumberry",
+      "pitanga"
+    ],
+    "question": "Here is a list: [yumberry, yumberry, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, yumberry, pitanga, pitanga, yumberry, pitanga, yumberry, yumberry, pitanga, pitanga, yumberry, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, yumberry, pitanga, pitanga, pitanga]. How many times does 'yumberry' appear on it?",
+    "target": "0",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 11,
+    "num_b": 29,
+    "seed": 41,
+    "fruit_pair": [
+      "ugli",
+      "pequi"
+    ],
+    "question": "Here is a list: [pequi, ugli, pequi, pequi, pequi, pequi, ugli, pequi, pequi, pequi, pequi, pequi, pequi, pequi, ugli, pequi, ugli, ugli, pequi, pequi, ugli, ugli, pequi, pequi, ugli, pequi, pequi, pequi, pequi, ugli, pequi, ugli, pequi, pequi, pequi, pequi, ugli, pequi, pequi, pequi]. How many times does 'ugli' appear on it?",
+    "target": "0",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 4,
+    "num_b": 6,
+    "seed": 46,
+    "fruit_pair": [
+      "peach",
+      "mango"
+    ],
+    "question": "Here is a list: [peach, mango, peach, mango, mango, mango, mango, peach, mango, peach]. How many times does 'peach' appear on it?",
+    "target": "0",
+    "q_type": "base"
+  },
+  {
+    "num_a": 4,
+    "num_b": 6,
+    "seed": 46,
+    "fruit_pair": [
+      "peach",
+      "mango"
+    ],
+    "question": "Here is a list: [peach, mango, peach, mango, mango, mango, mango, peach, mango, peach]. How many times does 'mango' appear on it?",
+    "target": "1",
+    "q_type": "base"
+  },
+  {
+    "num_a": 11,
+    "num_b": 29,
+    "seed": 41,
+    "fruit_pair": [
+      "ugli",
+      "pequi"
+    ],
+    "question": "Here is a list: [pequi, ugli, pequi, pequi, pequi, pequi, ugli, pequi, pequi, pequi, pequi, pequi, pequi, pequi, ugli, pequi, ugli, ugli, pequi, pequi, ugli, ugli, pequi, pequi, ugli, pequi, pequi, pequi, pequi, ugli, pequi, ugli, pequi, pequi, pequi, pequi, ugli, pequi, pequi, pequi]. How many times does 'pequi' appear on it?",
+    "target": "1",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 11,
+    "num_b": 29,
+    "seed": 40,
+    "fruit_pair": [
+      "ugli",
+      "pitanga"
+    ],
+    "question": "Here is a list: [ugli, ugli, pitanga, ugli, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, ugli, ugli, pitanga, pitanga, ugli, pitanga, ugli, ugli, pitanga, pitanga, ugli, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, ugli, pitanga, pitanga, pitanga, ugli, pitanga, pitanga, pitanga]. How many times does 'ugli' appear on it?",
+    "target": "0",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 5,
+    "num_b": 5,
+    "seed": 44,
+    "fruit_pair": [
+      "peach",
+      "mango"
+    ],
+    "question": "Here is a list: [peach, mango, peach, peach, mango, peach, mango, peach, mango, mango]. How many times does 'peach' appear on it?",
+    "target": "0",
+    "q_type": "base"
+  },
+  {
+    "num_a": 5,
+    "num_b": 5,
+    "seed": 44,
+    "fruit_pair": [
+      "peach",
+      "mango"
+    ],
+    "question": "Here is a list: [peach, mango, peach, peach, mango, peach, mango, peach, mango, mango]. How many times does 'mango' appear on it?",
+    "target": "1",
+    "q_type": "base"
+  },
+  {
+    "num_a": 4,
+    "num_b": 6,
+    "seed": 40,
+    "fruit_pair": [
+      "peach",
+      "watermelon"
+    ],
+    "question": "Here is a list: [watermelon, watermelon, peach, watermelon, watermelon, peach, peach, peach, watermelon, watermelon]. How many times does 'peach' appear on it?",
+    "target": "0",
+    "q_type": "base"
+  },
+  {
+    "num_a": 4,
+    "num_b": 6,
+    "seed": 40,
+    "fruit_pair": [
+      "peach",
+      "watermelon"
+    ],
+    "question": "Here is a list: [watermelon, watermelon, peach, watermelon, watermelon, peach, peach, peach, watermelon, watermelon]. How many times does 'watermelon' appear on it?",
+    "target": "1",
+    "q_type": "base"
+  },
+  {
+    "num_a": 11,
+    "num_b": 29,
+    "seed": 40,
+    "fruit_pair": [
+      "ugli",
+      "pitanga"
+    ],
+    "question": "Here is a list: [ugli, ugli, pitanga, ugli, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, ugli, ugli, pitanga, pitanga, ugli, pitanga, ugli, ugli, pitanga, pitanga, ugli, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, ugli, pitanga, pitanga, pitanga, ugli, pitanga, pitanga, pitanga]. How many times does 'pitanga' appear on it?",
+    "target": "1",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 12,
+    "num_b": 28,
+    "seed": 41,
+    "fruit_pair": [
+      "ugli",
+      "pitanga"
+    ],
+    "question": "Here is a list: [pitanga, ugli, pitanga, pitanga, pitanga, pitanga, ugli, pitanga, pitanga, pitanga, pitanga, ugli, pitanga, pitanga, ugli, pitanga, ugli, ugli, pitanga, pitanga, ugli, ugli, pitanga, pitanga, ugli, pitanga, pitanga, pitanga, pitanga, ugli, pitanga, ugli, pitanga, pitanga, pitanga, pitanga, ugli, pitanga, pitanga, pitanga]. How many times does 'ugli' appear on it?",
+    "target": "0",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 8,
+    "num_b": 12,
+    "seed": 41,
+    "fruit_pair": [
+      "peach",
+      "melon"
+    ],
+    "question": "Here is a list: [peach, melon, melon, peach, melon, melon, melon, peach, peach, peach, melon, melon, peach, melon, melon, melon, peach, peach, melon, melon]. How many times does 'peach' appear on it?",
+    "target": "0",
+    "q_type": "base"
+  },
+  {
+    "num_a": 8,
+    "num_b": 12,
+    "seed": 41,
+    "fruit_pair": [
+      "peach",
+      "melon"
+    ],
+    "question": "Here is a list: [peach, melon, melon, peach, melon, melon, melon, peach, peach, peach, melon, melon, peach, melon, melon, melon, peach, peach, melon, melon]. How many times does 'melon' appear on it?",
+    "target": "1",
+    "q_type": "base"
+  },
+  {
+    "num_a": 4,
+    "num_b": 46,
+    "seed": 41,
+    "fruit_pair": [
+      "ugli",
+      "keule"
+    ],
+    "question": "Here is a list: [keule, keule, keule, keule, keule, keule, keule, keule, keule, keule, keule, keule, keule, keule, keule, keule, keule, keule, ugli, keule, keule, keule, keule, keule, ugli, keule, keule, keule, keule, keule, keule, keule, keule, keule, keule, keule, ugli, keule, ugli, keule, keule, keule, keule, keule, keule, keule, keule, keule, keule, keule]. How many times does 'ugli' appear on it?",
+    "target": "0",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 4,
+    "num_b": 46,
+    "seed": 41,
+    "fruit_pair": [
+      "ugli",
+      "keule"
+    ],
+    "question": "Here is a list: [keule, keule, keule, keule, keule, keule, keule, keule, keule, keule, keule, keule, keule, keule, keule, keule, keule, keule, ugli, keule, keule, keule, keule, keule, ugli, keule, keule, keule, keule, keule, keule, keule, keule, keule, keule, keule, ugli, keule, ugli, keule, keule, keule, keule, keule, keule, keule, keule, keule, keule, keule]. How many times does 'keule' appear on it?",
+    "target": "1",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 7,
+    "num_b": 13,
+    "seed": 43,
+    "fruit_pair": [
+      "melon",
+      "watermelon"
+    ],
+    "question": "Here is a list: [watermelon, watermelon, melon, melon, melon, melon, watermelon, melon, watermelon, watermelon, watermelon, watermelon, watermelon, watermelon, watermelon, watermelon, watermelon, melon, watermelon, melon]. How many times does 'watermelon' appear on it?",
+    "target": "1",
+    "q_type": "base"
+  },
+  {
+    "num_a": 10,
+    "num_b": 10,
+    "seed": 41,
+    "fruit_pair": [
+      "melon",
+      "watermelon"
+    ],
+    "question": "Here is a list: [melon, watermelon, watermelon, melon, watermelon, watermelon, watermelon, melon, melon, melon, watermelon, melon, melon, watermelon, melon, watermelon, melon, melon, watermelon, watermelon]. How many times does 'melon' appear on it?",
+    "target": "0",
+    "q_type": "base"
+  },
+  {
+    "num_a": 22,
+    "num_b": 28,
+    "seed": 41,
+    "fruit_pair": [
+      "ugli",
+      "keule"
+    ],
+    "question": "Here is a list: [ugli, keule, ugli, ugli, keule, keule, keule, ugli, keule, keule, keule, keule, keule, keule, keule, ugli, keule, ugli, ugli, ugli, keule, ugli, keule, keule, ugli, keule, keule, ugli, keule, keule, ugli, keule, ugli, keule, ugli, keule, ugli, ugli, ugli, keule, keule, ugli, keule, ugli, keule, keule, ugli, ugli, ugli, keule]. How many times does 'ugli' appear on it?",
+    "target": "0",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 22,
+    "num_b": 28,
+    "seed": 41,
+    "fruit_pair": [
+      "ugli",
+      "keule"
+    ],
+    "question": "Here is a list: [ugli, keule, ugli, ugli, keule, keule, keule, ugli, keule, keule, keule, keule, keule, keule, keule, ugli, keule, ugli, ugli, ugli, keule, ugli, keule, keule, ugli, keule, keule, ugli, keule, keule, ugli, keule, ugli, keule, ugli, keule, ugli, ugli, ugli, keule, keule, ugli, keule, ugli, keule, keule, ugli, ugli, ugli, keule]. How many times does 'keule' appear on it?",
+    "target": "1",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 10,
+    "num_b": 10,
+    "seed": 41,
+    "fruit_pair": [
+      "melon",
+      "watermelon"
+    ],
+    "question": "Here is a list: [melon, watermelon, watermelon, melon, watermelon, watermelon, watermelon, melon, melon, melon, watermelon, melon, melon, watermelon, melon, watermelon, melon, melon, watermelon, watermelon]. How many times does 'watermelon' appear on it?",
+    "target": "1",
+    "q_type": "base"
+  },
+  {
+    "num_a": 1,
+    "num_b": 19,
+    "seed": 44,
+    "fruit_pair": [
+      "prune",
+      "watermelon"
+    ],
+    "question": "Here is a list: [watermelon, watermelon, watermelon, watermelon, watermelon, watermelon, watermelon, watermelon, watermelon, watermelon, watermelon, prune, watermelon, watermelon, watermelon, watermelon, watermelon, watermelon, watermelon, watermelon]. How many times does 'prune' appear on it?",
+    "target": "0",
+    "q_type": "base"
+  },
+  {
+    "num_a": 20,
+    "num_b": 30,
+    "seed": 40,
+    "fruit_pair": [
+      "ugli",
+      "pequi"
+    ],
+    "question": "Here is a list: [ugli, ugli, ugli, pequi, ugli, pequi, pequi, ugli, pequi, pequi, pequi, pequi, pequi, pequi, ugli, pequi, pequi, pequi, pequi, pequi, ugli, ugli, pequi, pequi, pequi, ugli, ugli, pequi, ugli, pequi, pequi, pequi, ugli, ugli, pequi, pequi, ugli, pequi, ugli, pequi, ugli, ugli, pequi, pequi, ugli, ugli, ugli, pequi, pequi, pequi]. How many times does 'ugli' appear on it?",
+    "target": "0",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 4,
+    "num_b": 46,
+    "seed": 41,
+    "fruit_pair": [
+      "pequi",
+      "pitanga"
+    ],
+    "question": "Here is a list: [pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, pequi, pitanga, pitanga, pitanga, pitanga, pitanga, pequi, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, pequi, pitanga, pequi, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga]. How many times does 'pequi' appear on it?",
+    "target": "0",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 1,
+    "num_b": 19,
+    "seed": 44,
+    "fruit_pair": [
+      "prune",
+      "watermelon"
+    ],
+    "question": "Here is a list: [watermelon, watermelon, watermelon, watermelon, watermelon, watermelon, watermelon, watermelon, watermelon, watermelon, watermelon, prune, watermelon, watermelon, watermelon, watermelon, watermelon, watermelon, watermelon, watermelon]. How many times does 'watermelon' appear on it?",
+    "target": "1",
+    "q_type": "base"
+  },
+  {
+    "num_a": 7,
+    "num_b": 13,
+    "seed": 43,
+    "fruit_pair": [
+      "prune",
+      "watermelon"
+    ],
+    "question": "Here is a list: [watermelon, watermelon, prune, prune, prune, prune, watermelon, prune, watermelon, watermelon, watermelon, watermelon, watermelon, watermelon, watermelon, watermelon, watermelon, prune, watermelon, prune]. How many times does 'prune' appear on it?",
+    "target": "0",
+    "q_type": "base"
+  },
+  {
+    "num_a": 4,
+    "num_b": 46,
+    "seed": 41,
+    "fruit_pair": [
+      "pequi",
+      "pitanga"
+    ],
+    "question": "Here is a list: [pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, pequi, pitanga, pitanga, pitanga, pitanga, pitanga, pequi, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, pequi, pitanga, pequi, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga]. How many times does 'pitanga' appear on it?",
+    "target": "1",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 9,
+    "num_b": 41,
+    "seed": 41,
+    "fruit_pair": [
+      "pequi",
+      "pitanga"
+    ],
+    "question": "Here is a list: [pitanga, pitanga, pequi, pequi, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, pequi, pitanga, pitanga, pequi, pequi, pitanga, pitanga, pitanga, pitanga, pequi, pitanga, pitanga, pitanga, pitanga, pitanga, pequi, pitanga, pitanga, pitanga, pitanga, pitanga, pequi, pitanga, pequi, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga, pitanga]. How many times does 'pequi' appear on it?",
+    "target": "0",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 14,
+    "num_b": 16,
+    "seed": 40,
+    "fruit_pair": [
+      "peach",
+      "melon"
+    ],
+    "question": "Here is a list: [melon, peach, melon, melon, peach, melon, melon, peach, melon, peach, peach, melon, peach, melon, melon, peach, melon, peach, peach, peach, peach, melon, melon, melon, peach, peach, peach, melon, melon, melon]. How many times does 'melon' appear on it?",
+    "target": "1",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 3,
+    "num_b": 27,
+    "seed": 40,
+    "fruit_pair": [
+      "peach",
+      "prune"
+    ],
+    "question": "Here is a list: [prune, prune, prune, prune, prune, prune, prune, prune, prune, prune, prune, prune, peach, prune, prune, peach, prune, prune, prune, prune, prune, prune, prune, prune, prune, prune, peach, prune, prune, prune]. How many times does 'peach' appear on it?",
+    "target": "0",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 2,
+    "num_b": 8,
+    "seed": 44,
+    "fruit_pair": [
+      "feijoa",
+      "loquat"
+    ],
+    "question": "Here is a list: [loquat, loquat, feijoa, loquat, loquat, loquat, loquat, feijoa, loquat, loquat]. How many times does 'feijoa' appear on it?",
+    "target": "0",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 2,
+    "num_b": 8,
+    "seed": 44,
+    "fruit_pair": [
+      "feijoa",
+      "loquat"
+    ],
+    "question": "Here is a list: [loquat, loquat, feijoa, loquat, loquat, loquat, loquat, feijoa, loquat, loquat]. How many times does 'loquat' appear on it?",
+    "target": "1",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 3,
+    "num_b": 27,
+    "seed": 40,
+    "fruit_pair": [
+      "peach",
+      "prune"
+    ],
+    "question": "Here is a list: [prune, prune, prune, prune, prune, prune, prune, prune, prune, prune, prune, prune, peach, prune, prune, peach, prune, prune, prune, prune, prune, prune, prune, prune, prune, prune, peach, prune, prune, prune]. How many times does 'prune' appear on it?",
+    "target": "1",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 6,
+    "num_b": 24,
+    "seed": 42,
+    "fruit_pair": [
+      "peach",
+      "prune"
+    ],
+    "question": "Here is a list: [prune, prune, prune, prune, prune, prune, peach, prune, prune, prune, prune, prune, prune, prune, prune, prune, peach, prune, prune, peach, prune, prune, peach, prune, prune, prune, prune, peach, peach, prune]. How many times does 'peach' appear on it?",
+    "target": "0",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 3,
+    "num_b": 7,
+    "seed": 44,
+    "fruit_pair": [
+      "feijoa",
+      "loquat"
+    ],
+    "question": "Here is a list: [loquat, loquat, feijoa, feijoa, loquat, loquat, loquat, feijoa, loquat, loquat]. How many times does 'feijoa' appear on it?",
+    "target": "0",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 3,
+    "num_b": 7,
+    "seed": 44,
+    "fruit_pair": [
+      "feijoa",
+      "loquat"
+    ],
+    "question": "Here is a list: [loquat, loquat, feijoa, feijoa, loquat, loquat, loquat, feijoa, loquat, loquat]. How many times does 'loquat' appear on it?",
+    "target": "1",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 6,
+    "num_b": 24,
+    "seed": 42,
+    "fruit_pair": [
+      "peach",
+      "prune"
+    ],
+    "question": "Here is a list: [prune, prune, prune, prune, prune, prune, peach, prune, prune, prune, prune, prune, prune, prune, prune, prune, peach, prune, prune, peach, prune, prune, peach, prune, prune, prune, prune, peach, peach, prune]. How many times does 'prune' appear on it?",
+    "target": "1",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 13,
+    "num_b": 17,
+    "seed": 41,
+    "fruit_pair": [
+      "peach",
+      "prune"
+    ],
+    "question": "Here is a list: [prune, prune, peach, peach, peach, prune, prune, prune, peach, prune, prune, peach, prune, peach, prune, prune, prune, peach, prune, prune, peach, prune, peach, prune, prune, prune, peach, peach, peach, peach]. How many times does 'peach' appear on it?",
+    "target": "0",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 4,
+    "num_b": 6,
+    "seed": 44,
+    "fruit_pair": [
+      "feijoa",
+      "ackee"
+    ],
+    "question": "Here is a list: [ackee, ackee, feijoa, feijoa, ackee, feijoa, ackee, feijoa, ackee, ackee]. How many times does 'feijoa' appear on it?",
+    "target": "0",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 4,
+    "num_b": 6,
+    "seed": 44,
+    "fruit_pair": [
+      "feijoa",
+      "ackee"
+    ],
+    "question": "Here is a list: [ackee, ackee, feijoa, feijoa, ackee, feijoa, ackee, feijoa, ackee, ackee]. How many times does 'ackee' appear on it?",
+    "target": "1",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 15,
+    "num_b": 15,
+    "seed": 42,
+    "fruit_pair": [
+      "peach",
+      "prune"
+    ],
+    "question": "Here is a list: [prune, peach, peach, prune, prune, peach, peach, peach, peach, prune, peach, prune, prune, prune, prune, prune, peach, peach, prune, peach, prune, prune, peach, prune, peach, peach, prune, peach, peach, prune]. How many times does 'peach' appear on it?",
+    "target": "0",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 15,
+    "num_b": 15,
+    "seed": 42,
+    "fruit_pair": [
+      "peach",
+      "prune"
+    ],
+    "question": "Here is a list: [prune, peach, peach, prune, prune, peach, peach, peach, peach, prune, peach, prune, prune, prune, prune, prune, peach, peach, prune, peach, prune, prune, peach, prune, peach, peach, prune, peach, peach, prune]. How many times does 'prune' appear on it?",
+    "target": "1",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 4,
+    "num_b": 6,
+    "seed": 46,
+    "fruit_pair": [
+      "feijoa",
+      "ackee"
+    ],
+    "question": "Here is a list: [feijoa, ackee, feijoa, ackee, ackee, ackee, ackee, feijoa, ackee, feijoa]. How many times does 'feijoa' appear on it?",
+    "target": "0",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 4,
+    "num_b": 6,
+    "seed": 46,
+    "fruit_pair": [
+      "feijoa",
+      "ackee"
+    ],
+    "question": "Here is a list: [feijoa, ackee, feijoa, ackee, ackee, ackee, ackee, feijoa, ackee, feijoa]. How many times does 'ackee' appear on it?",
+    "target": "1",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 13,
+    "num_b": 27,
+    "seed": 41,
+    "fruit_pair": [
+      "peach",
+      "prune"
+    ],
+    "question": "Here is a list: [prune, peach, prune, prune, prune, peach, peach, prune, prune, prune, prune, peach, prune, prune, peach, prune, peach, peach, prune, prune, peach, peach, prune, prune, peach, prune, prune, prune, prune, peach, prune, peach, prune, prune, prune, prune, peach, prune, prune, prune]. How many times does 'peach' appear on it?",
+    "target": "0",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 13,
+    "num_b": 27,
+    "seed": 41,
+    "fruit_pair": [
+      "peach",
+      "prune"
+    ],
+    "question": "Here is a list: [prune, peach, prune, prune, prune, peach, peach, prune, prune, prune, prune, peach, prune, prune, peach, prune, peach, peach, prune, prune, peach, peach, prune, prune, peach, prune, prune, prune, prune, peach, prune, peach, prune, prune, prune, prune, peach, prune, prune, prune]. How many times does 'prune' appear on it?",
+    "target": "1",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 17,
+    "num_b": 23,
+    "seed": 41,
+    "fruit_pair": [
+      "peach",
+      "mango"
+    ],
+    "question": "Here is a list: [mango, peach, mango, mango, mango, peach, peach, mango, mango, peach, peach, peach, mango, peach, peach, mango, peach, peach, mango, mango, peach, peach, mango, mango, peach, mango, mango, mango, mango, peach, mango, peach, mango, mango, mango, mango, peach, peach, mango, mango]. How many times does 'peach' appear on it?",
+    "target": "0",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 18,
+    "num_b": 22,
+    "seed": 41,
+    "fruit_pair": [
+      "peach",
+      "mango"
+    ],
+    "question": "Here is a list: [mango, peach, mango, mango, mango, peach, peach, mango, mango, peach, peach, peach, mango, peach, peach, mango, peach, peach, mango, mango, peach, peach, mango, mango, peach, mango, mango, mango, mango, peach, mango, peach, mango, peach, mango, mango, peach, peach, mango, mango]. How many times does 'peach' appear on it?",
+    "target": "0",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 7,
+    "num_b": 13,
+    "seed": 43,
+    "fruit_pair": [
+      "salak",
+      "feijoa"
+    ],
+    "question": "Here is a list: [feijoa, feijoa, salak, salak, salak, salak, feijoa, salak, feijoa, feijoa, feijoa, feijoa, feijoa, feijoa, feijoa, feijoa, feijoa, salak, feijoa, salak]. How many times does 'salak' appear on it?",
+    "target": "0",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 7,
+    "num_b": 13,
+    "seed": 43,
+    "fruit_pair": [
+      "salak",
+      "feijoa"
+    ],
+    "question": "Here is a list: [feijoa, feijoa, salak, salak, salak, salak, feijoa, salak, feijoa, feijoa, feijoa, feijoa, feijoa, feijoa, feijoa, feijoa, feijoa, salak, feijoa, salak]. How many times does 'feijoa' appear on it?",
+    "target": "1",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 3,
+    "num_b": 37,
+    "seed": 41,
+    "fruit_pair": [
+      "peach",
+      "watermelon"
+    ],
+    "question": "Here is a list: [watermelon, peach, watermelon, watermelon, watermelon, watermelon, watermelon, watermelon, watermelon, watermelon, watermelon, watermelon, watermelon, watermelon, watermelon, watermelon, watermelon, peach, watermelon, watermelon, watermelon, watermelon, watermelon, watermelon, watermelon, watermelon, watermelon, watermelon, watermelon, watermelon, watermelon, peach, watermelon, watermelon, watermelon, watermelon, watermelon, watermelon, watermelon, watermelon]. How many times does 'peach' appear on it?",
+    "target": "0",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 3,
+    "num_b": 37,
+    "seed": 41,
+    "fruit_pair": [
+      "peach",
+      "watermelon"
+    ],
+    "question": "Here is a list: [watermelon, peach, watermelon, watermelon, watermelon, watermelon, watermelon, watermelon, watermelon, watermelon, watermelon, watermelon, watermelon, watermelon, watermelon, watermelon, watermelon, peach, watermelon, watermelon, watermelon, watermelon, watermelon, watermelon, watermelon, watermelon, watermelon, watermelon, watermelon, watermelon, watermelon, peach, watermelon, watermelon, watermelon, watermelon, watermelon, watermelon, watermelon, watermelon]. How many times does 'watermelon' appear on it?",
+    "target": "1",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 5,
+    "num_b": 15,
+    "seed": 44,
+    "fruit_pair": [
+      "salak",
+      "ackee"
+    ],
+    "question": "Here is a list: [ackee, ackee, ackee, ackee, salak, ackee, ackee, ackee, ackee, salak, ackee, salak, salak, ackee, ackee, ackee, salak, ackee, ackee, ackee]. How many times does 'salak' appear on it?",
+    "target": "0",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 5,
+    "num_b": 15,
+    "seed": 44,
+    "fruit_pair": [
+      "salak",
+      "ackee"
+    ],
+    "question": "Here is a list: [ackee, ackee, ackee, ackee, salak, ackee, ackee, ackee, ackee, salak, ackee, salak, salak, ackee, ackee, ackee, salak, ackee, ackee, ackee]. How many times does 'ackee' appear on it?",
+    "target": "1",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 3,
+    "num_b": 37,
+    "seed": 41,
+    "fruit_pair": [
+      "melon",
+      "prune"
+    ],
+    "question": "Here is a list: [prune, melon, prune, prune, prune, prune, prune, prune, prune, prune, prune, prune, prune, prune, prune, prune, prune, melon, prune, prune, prune, prune, prune, prune, prune, prune, prune, prune, prune, prune, prune, melon, prune, prune, prune, prune, prune, prune, prune, prune]. How many times does 'melon' appear on it?",
+    "target": "0",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 3,
+    "num_b": 37,
+    "seed": 41,
+    "fruit_pair": [
+      "melon",
+      "prune"
+    ],
+    "question": "Here is a list: [prune, melon, prune, prune, prune, prune, prune, prune, prune, prune, prune, prune, prune, prune, prune, prune, prune, melon, prune, prune, prune, prune, prune, prune, prune, prune, prune, prune, prune, prune, prune, melon, prune, prune, prune, prune, prune, prune, prune, prune]. How many times does 'prune' appear on it?",
+    "target": "1",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 9,
+    "num_b": 41,
+    "seed": 40,
+    "fruit_pair": [
+      "peach",
+      "prune"
+    ],
+    "question": "Here is a list: [peach, peach, peach, prune, prune, prune, prune, prune, prune, prune, prune, prune, prune, prune, prune, prune, prune, prune, prune, prune, prune, peach, prune, prune, prune, prune, prune, prune, peach, prune, prune, prune, prune, peach, prune, prune, peach, prune, prune, prune, peach, prune, prune, prune, prune, prune, peach, prune, prune, prune]. How many times does 'peach' appear on it?",
+    "target": "0",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 9,
+    "num_b": 41,
+    "seed": 40,
+    "fruit_pair": [
+      "peach",
+      "prune"
+    ],
+    "question": "Here is a list: [peach, peach, peach, prune, prune, prune, prune, prune, prune, prune, prune, prune, prune, prune, prune, prune, prune, prune, prune, prune, prune, peach, prune, prune, prune, prune, prune, prune, peach, prune, prune, prune, prune, peach, prune, prune, peach, prune, prune, prune, peach, prune, prune, prune, prune, prune, peach, prune, prune, prune]. How many times does 'prune' appear on it?",
+    "target": "1",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 8,
+    "num_b": 12,
+    "seed": 41,
+    "fruit_pair": [
+      "salak",
+      "ackee"
+    ],
+    "question": "Here is a list: [salak, ackee, ackee, salak, ackee, ackee, ackee, salak, salak, salak, ackee, ackee, salak, ackee, ackee, ackee, salak, salak, ackee, ackee]. How many times does 'salak' appear on it?",
+    "target": "0",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 8,
+    "num_b": 12,
+    "seed": 41,
+    "fruit_pair": [
+      "salak",
+      "ackee"
+    ],
+    "question": "Here is a list: [salak, ackee, ackee, salak, ackee, ackee, ackee, salak, salak, salak, ackee, ackee, salak, ackee, ackee, ackee, salak, salak, ackee, ackee]. How many times does 'ackee' appear on it?",
+    "target": "1",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 14,
+    "num_b": 36,
+    "seed": 41,
+    "fruit_pair": [
+      "peach",
+      "prune"
+    ],
+    "question": "Here is a list: [prune, prune, peach, peach, prune, prune, prune, peach, prune, prune, prune, prune, prune, prune, prune, peach, prune, peach, peach, peach, prune, peach, prune, prune, peach, prune, prune, prune, prune, prune, peach, prune, prune, prune, peach, prune, peach, prune, peach, prune, prune, prune, prune, prune, prune, prune, peach, prune, prune, prune]. How many times does 'peach' appear on it?",
+    "target": "0",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 14,
+    "num_b": 36,
+    "seed": 41,
+    "fruit_pair": [
+      "peach",
+      "prune"
+    ],
+    "question": "Here is a list: [prune, prune, peach, peach, prune, prune, prune, peach, prune, prune, prune, prune, prune, prune, prune, peach, prune, peach, peach, peach, prune, peach, prune, prune, peach, prune, prune, prune, prune, prune, peach, prune, prune, prune, peach, prune, peach, prune, peach, prune, prune, prune, prune, prune, prune, prune, peach, prune, prune, prune]. How many times does 'prune' appear on it?",
+    "target": "1",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 13,
+    "num_b": 37,
+    "seed": 41,
+    "fruit_pair": [
+      "melon",
+      "watermelon"
+    ],
+    "question": "Here is a list: [watermelon, watermelon, melon, melon, watermelon, watermelon, watermelon, melon, watermelon, watermelon, watermelon, watermelon, watermelon, watermelon, watermelon, melon, watermelon, melon, melon, melon, watermelon, watermelon, watermelon, watermelon, melon, watermelon, watermelon, watermelon, watermelon, watermelon, melon, watermelon, watermelon, watermelon, melon, watermelon, melon, watermelon, melon, watermelon, watermelon, watermelon, watermelon, watermelon, watermelon, watermelon, melon, watermelon, watermelon, watermelon]. How many times does 'melon' appear on it?",
+    "target": "0",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 13,
+    "num_b": 37,
+    "seed": 41,
+    "fruit_pair": [
+      "melon",
+      "watermelon"
+    ],
+    "question": "Here is a list: [watermelon, watermelon, melon, melon, watermelon, watermelon, watermelon, melon, watermelon, watermelon, watermelon, watermelon, watermelon, watermelon, watermelon, melon, watermelon, melon, melon, melon, watermelon, watermelon, watermelon, watermelon, melon, watermelon, watermelon, watermelon, watermelon, watermelon, melon, watermelon, watermelon, watermelon, melon, watermelon, melon, watermelon, melon, watermelon, watermelon, watermelon, watermelon, watermelon, watermelon, watermelon, melon, watermelon, watermelon, watermelon]. How many times does 'watermelon' appear on it?",
+    "target": "1",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 8,
+    "num_b": 12,
+    "seed": 44,
+    "fruit_pair": [
+      "salak",
+      "ackee"
+    ],
+    "question": "Here is a list: [ackee, ackee, ackee, ackee, salak, ackee, salak, ackee, ackee, salak, ackee, salak, salak, ackee, salak, salak, salak, ackee, ackee, ackee]. How many times does 'salak' appear on it?",
+    "target": "0",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 8,
+    "num_b": 12,
+    "seed": 44,
+    "fruit_pair": [
+      "salak",
+      "ackee"
+    ],
+    "question": "Here is a list: [ackee, ackee, ackee, ackee, salak, ackee, salak, ackee, ackee, salak, ackee, salak, salak, ackee, salak, salak, salak, ackee, ackee, ackee]. How many times does 'ackee' appear on it?",
+    "target": "1",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 23,
+    "num_b": 27,
+    "seed": 40,
+    "fruit_pair": [
+      "melon",
+      "watermelon"
+    ],
+    "question": "Here is a list: [melon, melon, melon, watermelon, melon, watermelon, watermelon, melon, watermelon, melon, watermelon, watermelon, watermelon, watermelon, melon, watermelon, watermelon, watermelon, watermelon, melon, melon, melon, watermelon, watermelon, watermelon, melon, melon, watermelon, melon, watermelon, watermelon, watermelon, melon, melon, watermelon, watermelon, melon, watermelon, melon, melon, melon, melon, watermelon, watermelon, melon, melon, melon, watermelon, watermelon, watermelon]. How many times does 'watermelon' appear on it?",
+    "target": "1",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 25,
+    "num_b": 25,
+    "seed": 41,
+    "fruit_pair": [
+      "melon",
+      "watermelon"
+    ],
+    "question": "Here is a list: [melon, watermelon, melon, melon, watermelon, watermelon, watermelon, melon, watermelon, melon, watermelon, watermelon, watermelon, watermelon, watermelon, melon, watermelon, melon, melon, melon, watermelon, melon, watermelon, watermelon, melon, watermelon, watermelon, melon, melon, watermelon, melon, watermelon, melon, watermelon, melon, watermelon, melon, melon, melon, watermelon, watermelon, melon, watermelon, melon, watermelon, watermelon, melon, melon, melon, melon]. How many times does 'melon' appear on it?",
+    "target": "0",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 7,
+    "num_b": 23,
+    "seed": 40,
+    "fruit_pair": [
+      "salak",
+      "feijoa"
+    ],
+    "question": "Here is a list: [feijoa, salak, feijoa, feijoa, feijoa, feijoa, feijoa, feijoa, feijoa, salak, feijoa, feijoa, salak, feijoa, feijoa, salak, feijoa, feijoa, feijoa, salak, salak, feijoa, feijoa, feijoa, feijoa, feijoa, salak, feijoa, feijoa, feijoa]. How many times does 'salak' appear on it?",
+    "target": "0",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 7,
+    "num_b": 23,
+    "seed": 40,
+    "fruit_pair": [
+      "salak",
+      "feijoa"
+    ],
+    "question": "Here is a list: [feijoa, salak, feijoa, feijoa, feijoa, feijoa, feijoa, feijoa, feijoa, salak, feijoa, feijoa, salak, feijoa, feijoa, salak, feijoa, feijoa, feijoa, salak, salak, feijoa, feijoa, feijoa, feijoa, feijoa, salak, feijoa, feijoa, feijoa]. How many times does 'feijoa' appear on it?",
+    "target": "1",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 3,
+    "num_b": 7,
+    "seed": 43,
+    "fruit_pair": [
+      "apple",
+      "orange"
+    ],
+    "question": "Here is a list: [orange, apple, orange, orange, orange, orange, orange, apple, orange, apple]. How many times does 'apple' appear on it?",
+    "target": "0",
+    "q_type": "base"
+  },
+  {
+    "num_a": 3,
+    "num_b": 7,
+    "seed": 43,
+    "fruit_pair": [
+      "apple",
+      "orange"
+    ],
+    "question": "Here is a list: [orange, apple, orange, orange, orange, orange, orange, apple, orange, apple]. How many times does 'orange' appear on it?",
+    "target": "1",
+    "q_type": "base"
+  },
+  {
+    "num_a": 13,
+    "num_b": 17,
+    "seed": 42,
+    "fruit_pair": [
+      "salak",
+      "loquat"
+    ],
+    "question": "Here is a list: [loquat, loquat, salak, loquat, loquat, salak, salak, salak, salak, loquat, salak, loquat, loquat, loquat, loquat, loquat, salak, loquat, loquat, salak, loquat, loquat, salak, loquat, salak, salak, loquat, salak, salak, loquat]. How many times does 'loquat' appear on it?",
+    "target": "1",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 4,
+    "num_b": 26,
+    "seed": 40,
+    "fruit_pair": [
+      "feijoa",
+      "loquat"
+    ],
+    "question": "Here is a list: [loquat, loquat, loquat, loquat, loquat, loquat, loquat, loquat, loquat, feijoa, loquat, loquat, feijoa, loquat, loquat, feijoa, loquat, loquat, loquat, loquat, loquat, loquat, loquat, loquat, loquat, loquat, feijoa, loquat, loquat, loquat]. How many times does 'feijoa' appear on it?",
+    "target": "0",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 5,
+    "num_b": 5,
+    "seed": 40,
+    "fruit_pair": [
+      "apple",
+      "orange"
+    ],
+    "question": "Here is a list: [orange, orange, apple, apple, orange, apple, apple, apple, orange, orange]. How many times does 'apple' appear on it?",
+    "target": "0",
+    "q_type": "base"
+  },
+  {
+    "num_a": 5,
+    "num_b": 5,
+    "seed": 40,
+    "fruit_pair": [
+      "apple",
+      "orange"
+    ],
+    "question": "Here is a list: [orange, orange, apple, apple, orange, apple, apple, apple, orange, orange]. How many times does 'orange' appear on it?",
+    "target": "1",
+    "q_type": "base"
+  },
+  {
+    "num_a": 4,
+    "num_b": 6,
+    "seed": 49,
+    "fruit_pair": [
+      "apple",
+      "pear"
+    ],
+    "question": "Here is a list: [pear, apple, pear, pear, pear, apple, apple, pear, pear, apple]. How many times does 'apple' appear on it?",
+    "target": "0",
+    "q_type": "base"
+  },
+  {
+    "num_a": 4,
+    "num_b": 6,
+    "seed": 49,
+    "fruit_pair": [
+      "apple",
+      "pear"
+    ],
+    "question": "Here is a list: [pear, apple, pear, pear, pear, apple, apple, pear, pear, apple]. How many times does 'pear' appear on it?",
+    "target": "1",
+    "q_type": "base"
+  },
+  {
+    "num_a": 4,
+    "num_b": 26,
+    "seed": 40,
+    "fruit_pair": [
+      "feijoa",
+      "loquat"
+    ],
+    "question": "Here is a list: [loquat, loquat, loquat, loquat, loquat, loquat, loquat, loquat, loquat, feijoa, loquat, loquat, feijoa, loquat, loquat, feijoa, loquat, loquat, loquat, loquat, loquat, loquat, loquat, loquat, loquat, loquat, feijoa, loquat, loquat, loquat]. How many times does 'loquat' appear on it?",
+    "target": "1",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 1,
+    "num_b": 29,
+    "seed": 40,
+    "fruit_pair": [
+      "feijoa",
+      "ackee"
+    ],
+    "question": "Here is a list: [ackee, ackee, ackee, ackee, ackee, ackee, ackee, ackee, ackee, ackee, ackee, ackee, ackee, ackee, ackee, feijoa, ackee, ackee, ackee, ackee, ackee, ackee, ackee, ackee, ackee, ackee, ackee, ackee, ackee, ackee]. How many times does 'feijoa' appear on it?",
+    "target": "0",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 5,
+    "num_b": 5,
+    "seed": 46,
+    "fruit_pair": [
+      "apple",
+      "banana"
+    ],
+    "question": "Here is a list: [apple, banana, apple, banana, banana, banana, apple, apple, banana, apple]. How many times does 'apple' appear on it?",
+    "target": "0",
+    "q_type": "base"
+  },
+  {
+    "num_a": 5,
+    "num_b": 5,
+    "seed": 46,
+    "fruit_pair": [
+      "apple",
+      "banana"
+    ],
+    "question": "Here is a list: [apple, banana, apple, banana, banana, banana, apple, apple, banana, apple]. How many times does 'banana' appear on it?",
+    "target": "1",
+    "q_type": "base"
+  },
+  {
+    "num_a": 4,
+    "num_b": 16,
+    "seed": 44,
+    "fruit_pair": [
+      "apple",
+      "orange"
+    ],
+    "question": "Here is a list: [orange, orange, orange, orange, apple, orange, orange, orange, orange, apple, orange, apple, orange, orange, orange, orange, apple, orange, orange, orange]. How many times does 'apple' appear on it?",
+    "target": "0",
+    "q_type": "base"
+  },
+  {
+    "num_a": 4,
+    "num_b": 16,
+    "seed": 44,
+    "fruit_pair": [
+      "apple",
+      "orange"
+    ],
+    "question": "Here is a list: [orange, orange, orange, orange, apple, orange, orange, orange, orange, apple, orange, apple, orange, orange, orange, orange, apple, orange, orange, orange]. How many times does 'orange' appear on it?",
+    "target": "1",
+    "q_type": "base"
+  },
+  {
+    "num_a": 1,
+    "num_b": 29,
+    "seed": 40,
+    "fruit_pair": [
+      "feijoa",
+      "ackee"
+    ],
+    "question": "Here is a list: [ackee, ackee, ackee, ackee, ackee, ackee, ackee, ackee, ackee, ackee, ackee, ackee, ackee, ackee, ackee, feijoa, ackee, ackee, ackee, ackee, ackee, ackee, ackee, ackee, ackee, ackee, ackee, ackee, ackee, ackee]. How many times does 'ackee' appear on it?",
+    "target": "1",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 5,
+    "num_b": 25,
+    "seed": 42,
+    "fruit_pair": [
+      "feijoa",
+      "ackee"
+    ],
+    "question": "Here is a list: [ackee, ackee, ackee, ackee, ackee, ackee, ackee, ackee, ackee, ackee, ackee, ackee, ackee, ackee, ackee, ackee, feijoa, ackee, ackee, feijoa, ackee, ackee, feijoa, ackee, ackee, ackee, ackee, feijoa, feijoa, ackee]. How many times does 'ackee' appear on it?",
+    "target": "1",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 7,
+    "num_b": 13,
+    "seed": 41,
+    "fruit_pair": [
+      "apple",
+      "orange"
+    ],
+    "question": "Here is a list: [apple, orange, orange, apple, orange, orange, orange, apple, apple, apple, orange, orange, apple, orange, orange, orange, apple, orange, orange, orange]. How many times does 'apple' appear on it?",
+    "target": "0",
+    "q_type": "base"
+  },
+  {
+    "num_a": 9,
+    "num_b": 11,
+    "seed": 44,
+    "fruit_pair": [
+      "apple",
+      "orange"
+    ],
+    "question": "Here is a list: [apple, orange, orange, orange, apple, orange, apple, orange, orange, apple, orange, apple, apple, orange, apple, apple, apple, orange, orange, orange]. How many times does 'apple' appear on it?",
+    "target": "0",
+    "q_type": "base"
+  },
+  {
+    "num_a": 3,
+    "num_b": 37,
+    "seed": 41,
+    "fruit_pair": [
+      "salak",
+      "ackee"
+    ],
+    "question": "Here is a list: [ackee, salak, ackee, ackee, ackee, ackee, ackee, ackee, ackee, ackee, ackee, ackee, ackee, ackee, ackee, ackee, ackee, salak, ackee, ackee, ackee, ackee, ackee, ackee, ackee, ackee, ackee, ackee, ackee, ackee, ackee, salak, ackee, ackee, ackee, ackee, ackee, ackee, ackee, ackee]. How many times does 'salak' appear on it?",
+    "target": "0",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 3,
+    "num_b": 37,
+    "seed": 41,
+    "fruit_pair": [
+      "salak",
+      "ackee"
+    ],
+    "question": "Here is a list: [ackee, salak, ackee, ackee, ackee, ackee, ackee, ackee, ackee, ackee, ackee, ackee, ackee, ackee, ackee, ackee, ackee, salak, ackee, ackee, ackee, ackee, ackee, ackee, ackee, ackee, ackee, ackee, ackee, ackee, ackee, salak, ackee, ackee, ackee, ackee, ackee, ackee, ackee, ackee]. How many times does 'ackee' appear on it?",
+    "target": "1",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 5,
+    "num_b": 15,
+    "seed": 40,
+    "fruit_pair": [
+      "apple",
+      "pear"
+    ],
+    "question": "Here is a list: [pear, pear, pear, pear, apple, pear, pear, pear, pear, apple, apple, pear, pear, pear, apple, pear, apple, pear, pear, pear]. How many times does 'apple' appear on it?",
+    "target": "0",
+    "q_type": "base"
+  },
+  {
+    "num_a": 5,
+    "num_b": 15,
+    "seed": 40,
+    "fruit_pair": [
+      "apple",
+      "pear"
+    ],
+    "question": "Here is a list: [pear, pear, pear, pear, apple, pear, pear, pear, pear, apple, apple, pear, pear, pear, apple, pear, apple, pear, pear, pear]. How many times does 'pear' appear on it?",
+    "target": "1",
+    "q_type": "base"
+  },
+  {
+    "num_a": 3,
+    "num_b": 37,
+    "seed": 40,
+    "fruit_pair": [
+      "salak",
+      "marula"
+    ],
+    "question": "Here is a list: [marula, marula, marula, marula, marula, marula, marula, marula, marula, marula, marula, marula, marula, marula, marula, marula, marula, marula, marula, marula, marula, salak, marula, marula, marula, salak, marula, marula, marula, marula, marula, marula, marula, marula, marula, marula, salak, marula, marula, marula]. How many times does 'salak' appear on it?",
+    "target": "0",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 3,
+    "num_b": 37,
+    "seed": 40,
+    "fruit_pair": [
+      "salak",
+      "marula"
+    ],
+    "question": "Here is a list: [marula, marula, marula, marula, marula, marula, marula, marula, marula, marula, marula, marula, marula, marula, marula, marula, marula, marula, marula, marula, marula, salak, marula, marula, marula, salak, marula, marula, marula, marula, marula, marula, marula, marula, marula, marula, salak, marula, marula, marula]. How many times does 'marula' appear on it?",
+    "target": "1",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 3,
+    "num_b": 17,
+    "seed": 44,
+    "fruit_pair": [
+      "apple",
+      "banana"
+    ],
+    "question": "Here is a list: [banana, banana, banana, banana, apple, banana, banana, banana, banana, apple, banana, apple, banana, banana, banana, banana, banana, banana, banana, banana]. How many times does 'apple' appear on it?",
+    "target": "0",
+    "q_type": "base"
+  },
+  {
+    "num_a": 3,
+    "num_b": 17,
+    "seed": 44,
+    "fruit_pair": [
+      "apple",
+      "banana"
+    ],
+    "question": "Here is a list: [banana, banana, banana, banana, apple, banana, banana, banana, banana, apple, banana, apple, banana, banana, banana, banana, banana, banana, banana, banana]. How many times does 'banana' appear on it?",
+    "target": "1",
+    "q_type": "base"
+  },
+  {
+    "num_a": 13,
+    "num_b": 27,
+    "seed": 40,
+    "fruit_pair": [
+      "salak",
+      "marula"
+    ],
+    "question": "Here is a list: [salak, salak, marula, salak, salak, salak, marula, marula, marula, marula, marula, marula, marula, marula, marula, salak, salak, marula, marula, salak, marula, salak, salak, marula, marula, salak, marula, marula, marula, marula, marula, marula, salak, marula, marula, marula, salak, marula, marula, marula]. How many times does 'salak' appear on it?",
+    "target": "0",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 14,
+    "num_b": 26,
+    "seed": 40,
+    "fruit_pair": [
+      "salak",
+      "marula"
+    ],
+    "question": "Here is a list: [salak, salak, marula, salak, salak, salak, marula, marula, marula, marula, marula, marula, marula, marula, marula, salak, salak, marula, marula, salak, marula, salak, salak, marula, marula, salak, marula, marula, marula, marula, marula, marula, salak, salak, marula, marula, salak, marula, marula, marula]. How many times does 'salak' appear on it?",
+    "target": "0",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 4,
+    "num_b": 26,
+    "seed": 40,
+    "fruit_pair": [
+      "apple",
+      "cherry"
+    ],
+    "question": "Here is a list: [cherry, cherry, cherry, cherry, cherry, cherry, cherry, cherry, cherry, apple, cherry, cherry, apple, cherry, cherry, apple, cherry, cherry, cherry, cherry, cherry, cherry, cherry, cherry, cherry, cherry, apple, cherry, cherry, cherry]. How many times does 'apple' appear on it?",
+    "target": "0",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 4,
+    "num_b": 26,
+    "seed": 40,
+    "fruit_pair": [
+      "apple",
+      "cherry"
+    ],
+    "question": "Here is a list: [cherry, cherry, cherry, cherry, cherry, cherry, cherry, cherry, cherry, apple, cherry, cherry, apple, cherry, cherry, apple, cherry, cherry, cherry, cherry, cherry, cherry, cherry, cherry, cherry, cherry, apple, cherry, cherry, cherry]. How many times does 'cherry' appear on it?",
+    "target": "1",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 15,
+    "num_b": 25,
+    "seed": 40,
+    "fruit_pair": [
+      "feijoa",
+      "ackee"
+    ],
+    "question": "Here is a list: [feijoa, feijoa, ackee, feijoa, feijoa, feijoa, ackee, ackee, ackee, ackee, ackee, ackee, ackee, ackee, ackee, feijoa, feijoa, ackee, ackee, feijoa, ackee, feijoa, feijoa, ackee, ackee, feijoa, ackee, feijoa, ackee, ackee, ackee, ackee, feijoa, feijoa, ackee, ackee, feijoa, ackee, ackee, ackee]. How many times does 'feijoa' appear on it?",
+    "target": "0",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 15,
+    "num_b": 25,
+    "seed": 41,
+    "fruit_pair": [
+      "feijoa",
+      "ackee"
+    ],
+    "question": "Here is a list: [ackee, feijoa, ackee, ackee, ackee, feijoa, feijoa, ackee, ackee, ackee, ackee, feijoa, ackee, feijoa, feijoa, ackee, feijoa, feijoa, ackee, ackee, feijoa, feijoa, ackee, ackee, feijoa, ackee, ackee, ackee, ackee, feijoa, ackee, feijoa, ackee, ackee, ackee, ackee, feijoa, feijoa, ackee, ackee]. How many times does 'feijoa' appear on it?",
+    "target": "0",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 5,
+    "num_b": 25,
+    "seed": 40,
+    "fruit_pair": [
+      "apple",
+      "cherry"
+    ],
+    "question": "Here is a list: [cherry, cherry, cherry, cherry, cherry, cherry, cherry, cherry, cherry, apple, cherry, cherry, apple, cherry, cherry, apple, cherry, cherry, cherry, apple, cherry, cherry, cherry, cherry, cherry, cherry, apple, cherry, cherry, cherry]. How many times does 'apple' appear on it?",
+    "target": "0",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 8,
+    "num_b": 22,
+    "seed": 41,
+    "fruit_pair": [
+      "apple",
+      "cherry"
+    ],
+    "question": "Here is a list: [cherry, cherry, apple, apple, apple, cherry, cherry, cherry, apple, cherry, cherry, cherry, cherry, apple, cherry, cherry, cherry, apple, cherry, cherry, cherry, cherry, cherry, cherry, cherry, cherry, apple, apple, cherry, cherry]. How many times does 'apple' appear on it?",
+    "target": "0",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 8,
+    "num_b": 22,
+    "seed": 41,
+    "fruit_pair": [
+      "apple",
+      "cherry"
+    ],
+    "question": "Here is a list: [cherry, cherry, apple, apple, apple, cherry, cherry, cherry, apple, cherry, cherry, cherry, cherry, apple, cherry, cherry, cherry, apple, cherry, cherry, cherry, cherry, cherry, cherry, cherry, cherry, apple, apple, cherry, cherry]. How many times does 'cherry' appear on it?",
+    "target": "1",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 9,
+    "num_b": 21,
+    "seed": 40,
+    "fruit_pair": [
+      "apple",
+      "cherry"
+    ],
+    "question": "Here is a list: [cherry, apple, cherry, cherry, cherry, cherry, cherry, cherry, cherry, apple, cherry, cherry, apple, cherry, cherry, apple, cherry, apple, cherry, apple, apple, cherry, cherry, cherry, cherry, apple, apple, cherry, cherry, cherry]. How many times does 'apple' appear on it?",
+    "target": "0",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 9,
+    "num_b": 21,
+    "seed": 40,
+    "fruit_pair": [
+      "apple",
+      "cherry"
+    ],
+    "question": "Here is a list: [cherry, apple, cherry, cherry, cherry, cherry, cherry, cherry, cherry, apple, cherry, cherry, apple, cherry, cherry, apple, cherry, apple, cherry, apple, apple, cherry, cherry, cherry, cherry, apple, apple, cherry, cherry, cherry]. How many times does 'cherry' appear on it?",
+    "target": "1",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 11,
+    "num_b": 19,
+    "seed": 42,
+    "fruit_pair": [
+      "orange",
+      "pear"
+    ],
+    "question": "Here is a list: [pear, pear, orange, pear, pear, orange, orange, pear, pear, pear, orange, pear, pear, pear, pear, pear, orange, pear, pear, orange, pear, pear, orange, pear, orange, orange, pear, orange, orange, pear]. How many times does 'orange' appear on it?",
+    "target": "0",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 7,
+    "num_b": 33,
+    "seed": 40,
+    "fruit_pair": [
+      "apple",
+      "banana"
+    ],
+    "question": "Here is a list: [apple, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, apple, banana, banana, apple, banana, apple, apple, banana, banana, apple, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, apple, banana, banana, banana]. How many times does 'banana' appear on it?",
+    "target": "1",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 14,
+    "num_b": 26,
+    "seed": 41,
+    "fruit_pair": [
+      "apple",
+      "cherry"
+    ],
+    "question": "Here is a list: [cherry, apple, cherry, cherry, cherry, apple, apple, cherry, cherry, cherry, cherry, apple, cherry, apple, apple, cherry, apple, apple, cherry, cherry, apple, apple, cherry, cherry, apple, cherry, cherry, cherry, cherry, apple, cherry, apple, cherry, cherry, cherry, cherry, apple, cherry, cherry, cherry]. How many times does 'apple' appear on it?",
+    "target": "0",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 17,
+    "num_b": 33,
+    "seed": 41,
+    "fruit_pair": [
+      "salak",
+      "loquat"
+    ],
+    "question": "Here is a list: [salak, loquat, salak, salak, loquat, loquat, loquat, salak, loquat, loquat, loquat, loquat, loquat, loquat, loquat, salak, loquat, salak, salak, salak, loquat, salak, loquat, loquat, salak, loquat, loquat, loquat, loquat, loquat, salak, loquat, loquat, loquat, salak, loquat, salak, salak, salak, loquat, loquat, loquat, loquat, loquat, loquat, loquat, salak, salak, loquat, loquat]. How many times does 'loquat' appear on it?",
+    "target": "1",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 5,
+    "num_b": 45,
+    "seed": 40,
+    "fruit_pair": [
+      "salak",
+      "marula"
+    ],
+    "question": "Here is a list: [marula, salak, marula, marula, marula, marula, marula, marula, marula, marula, marula, marula, marula, marula, marula, marula, marula, marula, marula, marula, marula, salak, marula, marula, marula, marula, marula, marula, marula, marula, marula, marula, marula, salak, marula, marula, salak, marula, marula, marula, marula, marula, marula, marula, marula, marula, salak, marula, marula, marula]. How many times does 'salak' appear on it?",
+    "target": "0",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 13,
+    "num_b": 27,
+    "seed": 41,
+    "fruit_pair": [
+      "orange",
+      "cherry"
+    ],
+    "question": "Here is a list: [cherry, orange, cherry, cherry, cherry, orange, orange, cherry, cherry, cherry, cherry, orange, cherry, cherry, orange, cherry, orange, orange, cherry, cherry, orange, orange, cherry, cherry, orange, cherry, cherry, cherry, cherry, orange, cherry, orange, cherry, cherry, cherry, cherry, orange, cherry, cherry, cherry]. How many times does 'orange' appear on it?",
+    "target": "0",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 8,
+    "num_b": 32,
+    "seed": 41,
+    "fruit_pair": [
+      "pear",
+      "banana"
+    ],
+    "question": "Here is a list: [banana, pear, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, pear, banana, pear, pear, banana, banana, banana, pear, banana, banana, pear, banana, banana, banana, banana, pear, banana, pear, banana, banana, banana, banana, banana, banana, banana, banana]. How many times does 'pear' appear on it?",
+    "target": "0",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 5,
+    "num_b": 45,
+    "seed": 40,
+    "fruit_pair": [
+      "salak",
+      "marula"
+    ],
+    "question": "Here is a list: [marula, salak, marula, marula, marula, marula, marula, marula, marula, marula, marula, marula, marula, marula, marula, marula, marula, marula, marula, marula, marula, salak, marula, marula, marula, marula, marula, marula, marula, marula, marula, marula, marula, salak, marula, marula, salak, marula, marula, marula, marula, marula, marula, marula, marula, marula, salak, marula, marula, marula]. How many times does 'marula' appear on it?",
+    "target": "1",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 2,
+    "num_b": 48,
+    "seed": 40,
+    "fruit_pair": [
+      "feijoa",
+      "loquat"
+    ],
+    "question": "Here is a list: [loquat, feijoa, loquat, loquat, loquat, loquat, loquat, loquat, loquat, loquat, loquat, loquat, loquat, loquat, loquat, loquat, loquat, loquat, loquat, loquat, loquat, loquat, loquat, loquat, loquat, loquat, loquat, loquat, loquat, loquat, loquat, loquat, loquat, loquat, loquat, loquat, feijoa, loquat, loquat, loquat, loquat, loquat, loquat, loquat, loquat, loquat, loquat, loquat, loquat, loquat]. How many times does 'feijoa' appear on it?",
+    "target": "0",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 8,
+    "num_b": 32,
+    "seed": 41,
+    "fruit_pair": [
+      "pear",
+      "banana"
+    ],
+    "question": "Here is a list: [banana, pear, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, pear, banana, pear, pear, banana, banana, banana, pear, banana, banana, pear, banana, banana, banana, banana, pear, banana, pear, banana, banana, banana, banana, banana, banana, banana, banana]. How many times does 'banana' appear on it?",
+    "target": "1",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 13,
+    "num_b": 27,
+    "seed": 41,
+    "fruit_pair": [
+      "pear",
+      "banana"
+    ],
+    "question": "Here is a list: [banana, pear, banana, banana, banana, pear, pear, banana, banana, banana, banana, pear, banana, banana, pear, banana, pear, pear, banana, banana, pear, pear, banana, banana, pear, banana, banana, banana, banana, pear, banana, pear, banana, banana, banana, banana, pear, banana, banana, banana]. How many times does 'pear' appear on it?",
+    "target": "0",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 2,
+    "num_b": 48,
+    "seed": 40,
+    "fruit_pair": [
+      "feijoa",
+      "loquat"
+    ],
+    "question": "Here is a list: [loquat, feijoa, loquat, loquat, loquat, loquat, loquat, loquat, loquat, loquat, loquat, loquat, loquat, loquat, loquat, loquat, loquat, loquat, loquat, loquat, loquat, loquat, loquat, loquat, loquat, loquat, loquat, loquat, loquat, loquat, loquat, loquat, loquat, loquat, loquat, loquat, feijoa, loquat, loquat, loquat, loquat, loquat, loquat, loquat, loquat, loquat, loquat, loquat, loquat, loquat]. How many times does 'loquat' appear on it?",
+    "target": "1",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 18,
+    "num_b": 32,
+    "seed": 41,
+    "fruit_pair": [
+      "feijoa",
+      "loquat"
+    ],
+    "question": "Here is a list: [feijoa, loquat, feijoa, feijoa, loquat, loquat, loquat, feijoa, loquat, loquat, loquat, loquat, loquat, loquat, loquat, feijoa, loquat, feijoa, feijoa, feijoa, loquat, feijoa, loquat, loquat, feijoa, loquat, loquat, loquat, loquat, loquat, feijoa, loquat, loquat, loquat, feijoa, loquat, feijoa, feijoa, feijoa, loquat, loquat, feijoa, loquat, loquat, loquat, loquat, feijoa, feijoa, loquat, loquat]. How many times does 'feijoa' appear on it?",
+    "target": "0",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 19,
+    "num_b": 21,
+    "seed": 41,
+    "fruit_pair": [
+      "banana",
+      "cherry"
+    ],
+    "question": "Here is a list: [cherry, banana, cherry, cherry, cherry, banana, banana, cherry, cherry, banana, banana, banana, cherry, banana, banana, cherry, banana, banana, cherry, cherry, banana, banana, cherry, cherry, banana, cherry, cherry, cherry, cherry, banana, cherry, banana, cherry, banana, banana, cherry, banana, banana, cherry, cherry]. How many times does 'banana' appear on it?",
+    "target": "0",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 3,
+    "num_b": 47,
+    "seed": 40,
+    "fruit_pair": [
+      "apple",
+      "banana"
+    ],
+    "question": "Here is a list: [banana, apple, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, apple, banana, banana, banana, banana, banana, banana, banana, banana, banana, apple, banana, banana, banana]. How many times does 'apple' appear on it?",
+    "target": "0",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 25,
+    "num_b": 25,
+    "seed": 40,
+    "fruit_pair": [
+      "feijoa",
+      "ackee"
+    ],
+    "question": "Here is a list: [feijoa, feijoa, feijoa, ackee, feijoa, feijoa, ackee, feijoa, ackee, feijoa, ackee, ackee, ackee, ackee, feijoa, ackee, ackee, ackee, feijoa, feijoa, feijoa, feijoa, ackee, ackee, ackee, feijoa, feijoa, ackee, feijoa, ackee, ackee, ackee, feijoa, feijoa, ackee, ackee, feijoa, ackee, feijoa, feijoa, feijoa, feijoa, ackee, ackee, feijoa, feijoa, feijoa, ackee, ackee, ackee]. How many times does 'feijoa' appear on it?",
+    "target": "0",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 6,
+    "num_b": 44,
+    "seed": 40,
+    "fruit_pair": [
+      "loquat",
+      "ackee"
+    ],
+    "question": "Here is a list: [ackee, loquat, ackee, ackee, ackee, ackee, ackee, ackee, ackee, ackee, ackee, ackee, ackee, ackee, ackee, ackee, ackee, ackee, ackee, ackee, ackee, loquat, ackee, ackee, ackee, ackee, ackee, ackee, loquat, ackee, ackee, ackee, ackee, loquat, ackee, ackee, loquat, ackee, ackee, ackee, ackee, ackee, ackee, ackee, ackee, ackee, loquat, ackee, ackee, ackee]. How many times does 'loquat' appear on it?",
+    "target": "0",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 3,
+    "num_b": 47,
+    "seed": 40,
+    "fruit_pair": [
+      "apple",
+      "banana"
+    ],
+    "question": "Here is a list: [banana, apple, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, apple, banana, banana, banana, banana, banana, banana, banana, banana, banana, apple, banana, banana, banana]. How many times does 'banana' appear on it?",
+    "target": "1",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 7,
+    "num_b": 43,
+    "seed": 41,
+    "fruit_pair": [
+      "apple",
+      "banana"
+    ],
+    "question": "Here is a list: [banana, banana, apple, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, apple, banana, banana, apple, apple, banana, banana, banana, banana, apple, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, apple, banana, apple, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana]. How many times does 'banana' appear on it?",
+    "target": "1",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 5,
+    "num_b": 5,
+    "seed": 45,
+    "fruit_pair": [
+      "jujube",
+      "mangosteen"
+    ],
+    "question": "Here is a list: [jujube, jujube, mangosteen, mangosteen, mangosteen, jujube, jujube, mangosteen, mangosteen, jujube]. How many times does 'jujube' appear on it?",
+    "target": "0",
+    "q_type": "base"
+  },
+  {
+    "num_a": 5,
+    "num_b": 5,
+    "seed": 45,
+    "fruit_pair": [
+      "jujube",
+      "mangosteen"
+    ],
+    "question": "Here is a list: [jujube, jujube, mangosteen, mangosteen, mangosteen, jujube, jujube, mangosteen, mangosteen, jujube]. How many times does 'mangosteen' appear on it?",
+    "target": "1",
+    "q_type": "base"
+  },
+  {
+    "num_a": 11,
+    "num_b": 39,
+    "seed": 40,
+    "fruit_pair": [
+      "apple",
+      "banana"
+    ],
+    "question": "Here is a list: [apple, apple, apple, banana, banana, banana, banana, apple, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, apple, banana, banana, banana, apple, banana, banana, apple, banana, banana, banana, banana, apple, banana, banana, apple, banana, banana, banana, apple, banana, banana, banana, banana, banana, apple, banana, banana, banana]. How many times does 'banana' appear on it?",
+    "target": "1",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 16,
+    "num_b": 34,
+    "seed": 40,
+    "fruit_pair": [
+      "apple",
+      "cherry"
+    ],
+    "question": "Here is a list: [apple, apple, apple, cherry, apple, cherry, cherry, apple, cherry, cherry, cherry, cherry, cherry, cherry, apple, cherry, cherry, cherry, cherry, cherry, cherry, apple, cherry, cherry, cherry, apple, cherry, cherry, apple, cherry, cherry, cherry, apple, apple, cherry, cherry, apple, cherry, cherry, cherry, apple, apple, cherry, cherry, cherry, apple, apple, cherry, cherry, cherry]. How many times does 'apple' appear on it?",
+    "target": "0",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 4,
+    "num_b": 6,
+    "seed": 40,
+    "fruit_pair": [
+      "jujube",
+      "yuzu"
+    ],
+    "question": "Here is a list: [yuzu, yuzu, jujube, yuzu, yuzu, jujube, jujube, jujube, yuzu, yuzu]. How many times does 'jujube' appear on it?",
+    "target": "0",
+    "q_type": "base"
+  },
+  {
+    "num_a": 4,
+    "num_b": 6,
+    "seed": 40,
+    "fruit_pair": [
+      "jujube",
+      "yuzu"
+    ],
+    "question": "Here is a list: [yuzu, yuzu, jujube, yuzu, yuzu, jujube, jujube, jujube, yuzu, yuzu]. How many times does 'yuzu' appear on it?",
+    "target": "1",
+    "q_type": "base"
+  },
+  {
+    "num_a": 5,
+    "num_b": 45,
+    "seed": 40,
+    "fruit_pair": [
+      "orange",
+      "pear"
+    ],
+    "question": "Here is a list: [pear, orange, pear, pear, pear, pear, pear, pear, pear, pear, pear, pear, pear, pear, pear, pear, pear, pear, pear, pear, pear, orange, pear, pear, pear, pear, pear, pear, pear, pear, pear, pear, pear, orange, pear, pear, orange, pear, pear, pear, pear, pear, pear, pear, pear, pear, orange, pear, pear, pear]. How many times does 'pear' appear on it?",
+    "target": "1",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 16,
+    "num_b": 34,
+    "seed": 40,
+    "fruit_pair": [
+      "orange",
+      "pear"
+    ],
+    "question": "Here is a list: [orange, orange, orange, pear, orange, pear, pear, orange, pear, pear, pear, pear, pear, pear, orange, pear, pear, pear, pear, pear, pear, orange, pear, pear, pear, orange, pear, pear, orange, pear, pear, pear, orange, orange, pear, pear, orange, pear, pear, pear, orange, orange, pear, pear, pear, orange, orange, pear, pear, pear]. How many times does 'orange' appear on it?",
+    "target": "0",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 2,
+    "num_b": 8,
+    "seed": 49,
+    "fruit_pair": [
+      "jujube",
+      "lychee"
+    ],
+    "question": "Here is a list: [lychee, lychee, lychee, lychee, lychee, lychee, jujube, lychee, lychee, jujube]. How many times does 'jujube' appear on it?",
+    "target": "0",
+    "q_type": "base"
+  },
+  {
+    "num_a": 2,
+    "num_b": 8,
+    "seed": 49,
+    "fruit_pair": [
+      "jujube",
+      "lychee"
+    ],
+    "question": "Here is a list: [lychee, lychee, lychee, lychee, lychee, lychee, jujube, lychee, lychee, jujube]. How many times does 'lychee' appear on it?",
+    "target": "1",
+    "q_type": "base"
+  },
+  {
+    "num_a": 5,
+    "num_b": 5,
+    "seed": 42,
+    "fruit_pair": [
+      "longan",
+      "mangosteen"
+    ],
+    "question": "Here is a list: [mangosteen, longan, longan, mangosteen, mangosteen, mangosteen, mangosteen, longan, longan, longan]. How many times does 'longan' appear on it?",
+    "target": "0",
+    "q_type": "base"
+  },
+  {
+    "num_a": 5,
+    "num_b": 5,
+    "seed": 42,
+    "fruit_pair": [
+      "longan",
+      "mangosteen"
+    ],
+    "question": "Here is a list: [mangosteen, longan, longan, mangosteen, mangosteen, mangosteen, mangosteen, longan, longan, longan]. How many times does 'mangosteen' appear on it?",
+    "target": "1",
+    "q_type": "base"
+  },
+  {
+    "num_a": 4,
+    "num_b": 16,
+    "seed": 40,
+    "fruit_pair": [
+      "jujube",
+      "longan"
+    ],
+    "question": "Here is a list: [longan, longan, longan, longan, jujube, longan, longan, longan, longan, jujube, jujube, longan, longan, longan, longan, longan, jujube, longan, longan, longan]. How many times does 'jujube' appear on it?",
+    "target": "0",
+    "q_type": "base"
+  },
+  {
+    "num_a": 4,
+    "num_b": 16,
+    "seed": 41,
+    "fruit_pair": [
+      "jujube",
+      "mangosteen"
+    ],
+    "question": "Here is a list: [jujube, mangosteen, mangosteen, jujube, mangosteen, mangosteen, mangosteen, jujube, jujube, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen]. How many times does 'mangosteen' appear on it?",
+    "target": "1",
+    "q_type": "base"
+  },
+  {
+    "num_a": 8,
+    "num_b": 12,
+    "seed": 41,
+    "fruit_pair": [
+      "jujube",
+      "mangosteen"
+    ],
+    "question": "Here is a list: [jujube, mangosteen, mangosteen, jujube, mangosteen, mangosteen, mangosteen, jujube, jujube, jujube, mangosteen, mangosteen, jujube, mangosteen, mangosteen, mangosteen, jujube, jujube, mangosteen, mangosteen]. How many times does 'mangosteen' appear on it?",
+    "target": "1",
+    "q_type": "base"
+  },
+  {
+    "num_a": 8,
+    "num_b": 12,
+    "seed": 43,
+    "fruit_pair": [
+      "jujube",
+      "yuzu"
+    ],
+    "question": "Here is a list: [yuzu, yuzu, jujube, jujube, jujube, jujube, yuzu, jujube, yuzu, yuzu, jujube, yuzu, yuzu, yuzu, yuzu, yuzu, yuzu, jujube, yuzu, jujube]. How many times does 'jujube' appear on it?",
+    "target": "0",
+    "q_type": "base"
+  },
+  {
+    "num_a": 8,
+    "num_b": 12,
+    "seed": 43,
+    "fruit_pair": [
+      "jujube",
+      "yuzu"
+    ],
+    "question": "Here is a list: [yuzu, yuzu, jujube, jujube, jujube, jujube, yuzu, jujube, yuzu, yuzu, jujube, yuzu, yuzu, yuzu, yuzu, yuzu, yuzu, jujube, yuzu, jujube]. How many times does 'yuzu' appear on it?",
+    "target": "1",
+    "q_type": "base"
+  },
+  {
+    "num_a": 4,
+    "num_b": 16,
+    "seed": 42,
+    "fruit_pair": [
+      "jujube",
+      "lychee"
+    ],
+    "question": "Here is a list: [lychee, lychee, lychee, lychee, lychee, lychee, lychee, lychee, lychee, lychee, lychee, lychee, jujube, lychee, jujube, lychee, lychee, lychee, jujube, jujube]. How many times does 'jujube' appear on it?",
+    "target": "0",
+    "q_type": "base"
+  },
+  {
+    "num_a": 4,
+    "num_b": 16,
+    "seed": 42,
+    "fruit_pair": [
+      "jujube",
+      "lychee"
+    ],
+    "question": "Here is a list: [lychee, lychee, lychee, lychee, lychee, lychee, lychee, lychee, lychee, lychee, lychee, lychee, jujube, lychee, jujube, lychee, lychee, lychee, jujube, jujube]. How many times does 'lychee' appear on it?",
+    "target": "1",
+    "q_type": "base"
+  },
+  {
+    "num_a": 4,
+    "num_b": 16,
+    "seed": 40,
+    "fruit_pair": [
+      "longan",
+      "mangosteen"
+    ],
+    "question": "Here is a list: [mangosteen, mangosteen, mangosteen, mangosteen, longan, mangosteen, mangosteen, mangosteen, mangosteen, longan, longan, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, longan, mangosteen, mangosteen, mangosteen]. How many times does 'longan' appear on it?",
+    "target": "0",
+    "q_type": "base"
+  },
+  {
+    "num_a": 8,
+    "num_b": 22,
+    "seed": 41,
+    "fruit_pair": [
+      "jujube",
+      "mangosteen"
+    ],
+    "question": "Here is a list: [mangosteen, mangosteen, jujube, jujube, jujube, mangosteen, mangosteen, mangosteen, jujube, mangosteen, mangosteen, mangosteen, mangosteen, jujube, mangosteen, mangosteen, mangosteen, jujube, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, jujube, jujube, mangosteen, mangosteen]. How many times does 'jujube' appear on it?",
+    "target": "0",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 8,
+    "num_b": 22,
+    "seed": 41,
+    "fruit_pair": [
+      "jujube",
+      "mangosteen"
+    ],
+    "question": "Here is a list: [mangosteen, mangosteen, jujube, jujube, jujube, mangosteen, mangosteen, mangosteen, jujube, mangosteen, mangosteen, mangosteen, mangosteen, jujube, mangosteen, mangosteen, mangosteen, jujube, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, jujube, jujube, mangosteen, mangosteen]. How many times does 'mangosteen' appear on it?",
+    "target": "1",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 10,
+    "num_b": 20,
+    "seed": 41,
+    "fruit_pair": [
+      "jujube",
+      "lychee"
+    ],
+    "question": "Here is a list: [lychee, lychee, jujube, jujube, jujube, lychee, lychee, lychee, jujube, lychee, lychee, lychee, lychee, jujube, lychee, lychee, lychee, jujube, lychee, lychee, jujube, lychee, jujube, lychee, lychee, lychee, jujube, jujube, lychee, lychee]. How many times does 'lychee' appear on it?",
+    "target": "1",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 7,
+    "num_b": 43,
+    "seed": 41,
+    "fruit_pair": [
+      "jujube",
+      "mangosteen"
+    ],
+    "question": "Here is a list: [mangosteen, mangosteen, jujube, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, jujube, mangosteen, mangosteen, jujube, jujube, mangosteen, mangosteen, mangosteen, mangosteen, jujube, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, jujube, mangosteen, jujube, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen, mangosteen]. How many times does 'jujube' appear on it?",
+    "target": "0",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 7,
+    "num_b": 33,
+    "seed": 40,
+    "fruit_pair": [
+      "apple",
+      "banana"
+    ],
+    "question": "Here is a list: [apple, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, apple, banana, banana, apple, banana, apple, apple, banana, banana, apple, banana, banana, banana, banana, banana, banana, banana, banana, banana, banana, apple, banana, banana, banana]. How many times does 'apple' appear on it?",
+    "target": "0",
+    "q_type": "longtail"
+  },
+  {
+    "num_a": 23,
+    "num_b": 27,
+    "seed": 40,
+    "fruit_pair": [
+      "apple",
+      "pear"
+    ],
+    "question": "Here is a list: [apple, apple, apple, pear, apple, pear, pear, apple, pear, apple, pear, pear, pear, pear, apple, pear, pear, pear, pear, apple, apple, apple, pear, pear, pear, apple, apple, pear, apple, pear, pear, pear, apple, apple, pear, pear, apple, pear, apple, apple, apple, apple, pear, pear, apple, apple, apple, pear, pear, pear]. How many times does 'apple' appear on it?",
+    "target": "0",
+    "q_type": "longtail"
+  }
+]

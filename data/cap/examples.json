@@ -1,0 +1,37 @@
+[
+  {
+    "original": "cartoons for victory",
+    "title": "Cartoons for Victory",
+    "caplast": "cartoons for Victory",
+    "title_cot": "To convert the string into a proper title, we need to capitalize the major words, but do not capitalize short conjunctions unless they are the first or last word. We can traverse each word iteratively. 'cartoons' becomes 'Cartoons'. 'for' becomes 'for'. 'victory' becomes 'Victory'. So the answer is Cartoons for Victory.",
+    "caplast_cot": "The last word in the string is 'victory', so we capitalize the first letter of it and it becomes 'Victory'. So the answer is cartoons for Victory."
+  },
+  {
+    "original": "make it a winning life perpetual calendar",
+    "title": "Make It a Winning Life Perpetual Calendar",
+    "caplast": "make it a winning life perpetual Calendar",
+    "title_cot": "To convert the string into a proper title, we need to capitalize the major words, but do not capitalize short conjunctions unless they are the first or last word. We can traverse each word iteratively. 'make' becomes 'Make'. 'it' becomes 'It'. 'a' becomes 'a'. 'winning' becomes 'Winning'. 'life' becomes 'Life'. 'perpetual' becomes 'Perpetual'. 'calendar' becomes 'Calendar'. So the answer is Make It a Winning Life Perpetual Calendar.",
+    "caplast_cot": "The last word in the string is 'calendar', so we capitalize the first letter of it and it becomes 'Calendar'. So the answer is make it a winning life perpetual Calendar."
+  },
+  {
+    "original": "adventures in odyssey advent activity calendar: countdown to christmas",
+    "title": "Adventures in Odyssey Advent Activity Calendar: Countdown to Christmas",
+    "caplast": "adventures in odyssey advent activity calendar: countdown to Christmas",
+    "title_cot": "To convert the string into a proper title, we need to capitalize the major words, but do not capitalize short conjunctions unless they are the first or last word. We can traverse each word iteratively. 'adventures' becomes 'Adventures'. 'in' becomes 'in'. 'odyssey' becomes 'Odyssey'. 'advent' becomes 'Advent'. 'activity' becomes 'Activity'. 'calendar' becomes 'Calendar'. 'countdown' becomes 'Countdown'. 'to' becomes 'to'. 'christmas' becomes 'Christmas'. So the answer is Adventures in Odyssey Advent Activity Calendar: Countdown to Christmas.",
+    "caplast_cot": "The last word in the string is 'christmas', so we capitalize the first letter of it and it becomes 'Christmas'. So the answer is adventures in odyssey advent activity calendar: countdown to Christmas."
+  },
+  {
+    "original": "forty days and forty nights",
+    "title": "Forty Days and Forty Nights",
+    "caplast": "forty days and forty Nights",
+    "title_cot": "To convert the string into a proper title, we need to capitalize the major words, but do not capitalize short conjunctions unless they are the first or last word. We can traverse each word iteratively. 'forty' becomes 'Forty'. 'days' becomes 'Days'. 'and' becomes 'and'. 'forty' becomes 'Forty'. 'nights' becomes 'Nights'. So the answer is Forty Days and Forty Nights.",
+    "caplast_cot": "The last word in the string is 'nights', so we capitalize the first letter of it and it becomes 'Nights'. So the answer is forty days and forty Nights."
+  },
+  {
+    "original": "our daily bread perpetual calendar: scriptures and devotions for your day",
+    "title": "Our Daily Bread Perpetual Calendar: Scriptures and Devotions for Your Day",
+    "caplast": "our daily bread perpetual calendar: scriptures and devotions for your Day",
+    "title_cot": "To convert the string into a proper title, we need to capitalize the major words, but do not capitalize short conjunctions unless they are the first or last word. We can traverse each word iteratively. 'our' becomes 'Our'. 'daily' becomes 'Daily'. 'bread' becomes 'Bread'. 'perpetual' becomes 'Perpetual'. 'calendar' becomes 'Calendar'. 'scriptures' becomes 'Scriptures'. 'and' becomes 'and'. 'devotions' becomes 'Devotions'. 'for' becomes 'for'. 'your' becomes 'Your'. 'day' becomes 'Day'. So the answer is Our Daily Bread Perpetual Calendar: Scriptures and Devotions for Your Day.",
+    "caplast_cot": "The last word in the string is 'day', so we capitalize the first letter of it and it becomes 'Day'. So the answer is our daily bread perpetual calendar: scriptures and devotions for your Day."
+  }
+]

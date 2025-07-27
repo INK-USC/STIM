@@ -1,0 +1,23 @@
+Below you will see a reasoning question and a model's partial step-wise reasoning answer for it. The last step of the model's answer is wrong. Identify all the incorrect token(s) in that step that independently cause the step to be wrong, in "token, it's preceding token" format. Ignore the tokens whose error is caused by previous input tokens. You must give your answer from the given candidate tokens and choose at least one token. You will see two examples:
+
+Example 1 
+Question: Last night Rick killed 1010 wolves and 1111 cougars while hunting. Today Rick killed 11 times as many wolves as cougars and 11 fewer cougars than the previous night. How many animals did Rick kill? (Calculate in Base-2) 
+Step-wise Reasoning: Rick killed 11 * 1111 = 12221 wolves today.
+Candidate tokens: "Rick", preceded by ""; "killed", preceded by "Rick"; "11", preceded by "killed"; "*", preceded by "11"; "1111", preceded by "*"; "=", preceded by "1111"; "12221", preceded by "="; "wolves", preceded by "12221"; "today", preceded by "wolves"
+Reasoning: The token 1111 is semantically incorrect because at this step the model first needs to calculate the number of cougars which is 1111 - 11 = 1100, which is the correct number here. The token 12221 is also semantically incorrect. In base-2 (binary), arithmetic must be performed using binary representations. However, the model has multiplied 11 (binary for 3) by 1111 (binary for 15) as if they were decimal numbers, resulting in 12221, which is not a correct product in binary. The correct binary multiplication is 11 * 1111 = 101001, which is binary for 41. Thus, 12221 is the incorrect token that directly causes the step to be wrong. 
+Answer: "1111", preceded by "*"; "12221", preceded by "="
+
+Example 2 
+Question: John drives for 3 hours at a speed of 60 mph and then turns around because he realizes he forgot something very important at home. He tries to get home in 4 hours but spends the first 2 hours in standstill traffic. He spends the next half-hour driving at a speed of 30mph, before being able to drive the remaining time of the 4 hours going at 80 mph. How far is he from home at the end of those 4 hours? 
+Step-wise reasoning:
+In the first 3 hours, John travels 3 * 60 = 180 miles away from home. 
+To get home, he spends 2 hours in standstill traffic, meaning he doesn't move. 
+Then he travels for half an hour at 30 mph, meaning he travels 0.5 * 30 = 15 miles towards home. 
+The remaining time is 4 - 2 - 0.5 = 1.5 hours. 
+In this time, he travels at 80 mph, covering a distance of 80 * 1.5 = 120 miles towards home. 
+Thus, after 4 hours, he has traveled 180 - 15 + 120 = 285 miles towards his destination. 
+Candidate tokens: "Thus", preceded by "."; "4", preceded by "after"; "hours", preceded by "4"; "traveled", preceded by "has"; "180", preceded by "traveled"; "-", preceded by "180"; "15", preceded by "-"; "+", preceded by "15"; "120", preceded by "+"; "=", preceded by "120"; "285", preceded by "="; "miles", preceded by "285"; "towards", preceded by "miles"; "destination", preceded by "his"
+Reasoning: The token + preceded by 15 is semantically incorrect. At that step, the model should have subtracted the distance traveled toward home rather than added it, leading to an incorrect total. 
+Answer: "+", preceded by "15"
+
+Now it's your turn:

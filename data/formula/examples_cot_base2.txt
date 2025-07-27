@@ -1,0 +1,32 @@
+Instruction: Assuming that all numbers are in base-2 where the digits are "01". Answer the given question. You will end your response with a sentence in the format of `So the answer is <number>.`
+Question: What is 10101 - 1111 equal to?
+Answer: To calculate 10101 - 1111, we need to first calculate 10101 - 1. 10101 - 1 = 10100. Then we need to calculate 10100 - 10. 10100 - 10 = 10010. Then we need to calculate 10010 - 100. 10010 - 100 = 1110. Then we need to calculate 1110 - 1000. 1110 - 1000 = 110. So the answer is 110.
+
+Instruction: Assuming that all numbers are in base-2 where the digits are "01". Answer the given question. You will end your response with a sentence in the format of `So the answer is <number>.`
+Question: What is 11 + 10 equal to?
+Answer: To calculate 11 + 10, we start with 11 and then add 10 to it. So the answer is 101.
+
+Instruction: Assuming that all numbers are in base-2 where the digits are "01". Answer the given question. You will end your response with a sentence in the format of `So the answer is <number>.`
+Question: What is 100000 + 101010 - 100011 equal to?
+Answer: To calculate 100000 + 101010 - 100011, we need to first calculate 100000 + 101010. 100000 + 101010 = 1001010. Then we need to calculate 1001010 - 100011. 1001010 - 100011 = 100111. So the answer is 100111.
+
+Instruction: Assuming that all numbers are in base-2 where the digits are "01". Answer the given question. You will end your response with a sentence in the format of `So the answer is <number>.`
+Question: What is 10100 - 1100 equal to?
+Answer: To calculate 10100 - 1100, we need to first calculate 10100 - 1000. 10100 - 1000 = 1100. Then we need to calculate 1100 - 100. 1100 - 100 = 1000. So the answer is 1000.
+
+Instruction: Assuming that all numbers are in base-2 where the digits are "01". Answer the given question. You will end your response with a sentence in the format of `So the answer is <number>.`
+Question: What is 101 + 100 equal to?
+Answer: To calculate 101 + 100, we start with 101 and then add 100 to it. So the answer is 1001.
+
+Instruction: Assuming that all numbers are in base-2 where the digits are "01". Answer the given question. You will end your response with a sentence in the format of `So the answer is <number>.`
+Question: What is 1001 + 101 * 100 equal to?
+Answer: To calculate 1001 + 101 * 100, we need to first calculate 101 * 100. 101 * 100 = 10100. Then we need to calculate 1001 + 10100. 1001 + 10100 = 11101. So the answer is 11101.
+
+Instruction: Assuming that all numbers are in base-2 where the digits are "01". Answer the given question. You will end your response with a sentence in the format of `So the answer is <number>.`
+Question: What is 111010 - 10111 - 10 equal to?
+Answer: To calculate 111010 - 10111 - 10, we need to first calculate 111010 - 10111. 111010 - 10111 = 100011. Then we need to calculate 100011 - 10. 100011 - 10 = 100001. So the answer is 100001.
+
+Instruction: Assuming that all numbers are in base-2 where the digits are "01". Answer the given question. You will end your response with a sentence in the format of `So the answer is <number>.`
+Question: What is 10111 - 101 * 11 equal to?
+Answer: To calculate 10111 - 101 * 11, we need to first calculate 101 * 11. 101 * 11 = 1111. Then we need to calculate 10111 - 1111. 10111 - 1111 = 1000. So the answer is 1000.
+
