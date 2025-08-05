@@ -1,5 +1,5 @@
 # Diagnosing Memorization in Chain-of-Thought Reasoning, One Token at a Time
-This repository contains code and data for paper "Diagnosing Memorization in Chain-of-Thought Reasoning, One Token at a Time"
+This repository contains code and data for paper "[Diagnosing Memorization in Chain-of-Thought Reasoning, One Token at a Time](https://arxiv.org/abs/2508.02037)"
 
 ## Quick Links
 - [Introduction](#introduction)
